@@ -1,0 +1,2807 @@
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 1ms
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
+[INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 0ms
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
+[AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
+
+Blocks:
+<block:minecraft:acacia_door>, Acacia Door
+<block:minecraft:acacia_fence>, Acacia Fence
+<block:minecraft:acacia_fence_gate>, Acacia Fence Gate
+<block:minecraft:acacia_stairs>, Acacia Wood Stairs
+<block:minecraft:activator_rail>, Activator Rail
+<block:minecraft:air>, Air
+<block:minecraft:anvil>, Anvil
+<block:minecraft:barrier>, Barrier
+<block:minecraft:beacon>, Beacon
+<block:minecraft:bed>, tile.bed.name
+<block:minecraft:bedrock>, Bedrock
+<block:minecraft:beetroots>, Beetroots
+<block:minecraft:birch_door>, Birch Door
+<block:minecraft:birch_fence>, Birch Fence
+<block:minecraft:birch_fence_gate>, Birch Fence Gate
+<block:minecraft:birch_stairs>, Birch Wood Stairs
+<block:minecraft:black_glazed_terracotta>, Black Glazed Terracotta
+<block:minecraft:black_shulker_box>, Black Shulker Box
+<block:minecraft:blue_glazed_terracotta>, Blue Glazed Terracotta
+<block:minecraft:blue_shulker_box>, Blue Shulker Box
+<block:minecraft:bone_block>, Bone Block
+<block:minecraft:bookshelf>, Bookshelf
+<block:minecraft:brewing_stand>, Brewing Stand
+<block:minecraft:brick_block>, Bricks
+<block:minecraft:brick_stairs>, Brick Stairs
+<block:minecraft:brown_glazed_terracotta>, Brown Glazed Terracotta
+<block:minecraft:brown_mushroom>, Mushroom
+<block:minecraft:brown_mushroom_block>, Mushroom
+<block:minecraft:brown_shulker_box>, Brown Shulker Box
+<block:minecraft:cactus>, Cactus
+<block:minecraft:cake>, Cake
+<block:minecraft:carpet>, Carpet
+<block:minecraft:carrots>, Carrots
+<block:minecraft:cauldron>, Cauldron
+<block:minecraft:chain_command_block>, Chain Command Block
+<block:minecraft:chest>, Chest
+<block:minecraft:chorus_flower>, Chorus Flower
+<block:minecraft:chorus_plant>, Chorus Plant
+<block:minecraft:clay>, Clay
+<block:minecraft:coal_block>, Block of Coal
+<block:minecraft:coal_ore>, Coal Ore
+<block:minecraft:cobblestone>, Cobblestone
+<block:minecraft:cobblestone_wall>, Cobblestone Wall
+<block:minecraft:cocoa>, Cocoa
+<block:minecraft:command_block>, Command Block
+<block:minecraft:concrete>, tile.concrete.name
+<block:minecraft:concrete_powder>, tile.concretePowder.name
+<block:minecraft:crafting_table>, Crafting Table
+<block:minecraft:cyan_glazed_terracotta>, Cyan Glazed Terracotta
+<block:minecraft:cyan_shulker_box>, Cyan Shulker Box
+<block:minecraft:dark_oak_door>, Dark Oak Door
+<block:minecraft:dark_oak_fence>, Dark Oak Fence
+<block:minecraft:dark_oak_fence_gate>, Dark Oak Fence Gate
+<block:minecraft:dark_oak_stairs>, Dark Oak Wood Stairs
+<block:minecraft:daylight_detector>, Daylight Sensor
+<block:minecraft:daylight_detector_inverted>, Daylight Sensor
+<block:minecraft:deadbush>, Dead Bush
+<block:minecraft:detector_rail>, Detector Rail
+<block:minecraft:diamond_block>, Block of Diamond
+<block:minecraft:diamond_ore>, Diamond Ore
+<block:minecraft:dirt>, Dirt
+<block:minecraft:dispenser>, Dispenser
+<block:minecraft:double_plant>, Plant
+<block:minecraft:double_stone_slab>, Stone Slab
+<block:minecraft:double_stone_slab2>, Red Sandstone Slab
+<block:minecraft:double_wooden_slab>, Wood Slab
+<block:minecraft:dragon_egg>, Dragon Egg
+<block:minecraft:dropper>, Dropper
+<block:minecraft:emerald_block>, Block of Emerald
+<block:minecraft:emerald_ore>, Emerald Ore
+<block:minecraft:enchanting_table>, Enchantment Table
+<block:minecraft:end_bricks>, End Stone Bricks
+<block:minecraft:end_gateway>, Hidden Pressure Plate
+<block:minecraft:end_portal>, Hidden Pressure Plate
+<block:minecraft:end_portal_frame>, End Portal
+<block:minecraft:end_rod>, End Rod
+<block:minecraft:end_stone>, End Stone
+<block:minecraft:ender_chest>, Ender Chest
+<block:minecraft:farmland>, Farmland
+<block:minecraft:fence>, Oak Fence
+<block:minecraft:fence_gate>, Oak Fence Gate
+<block:minecraft:fire>, Fire
+<block:minecraft:flower_pot>, Flower Pot
+<block:minecraft:flowing_lava>, Lava
+<block:minecraft:flowing_water>, Water
+<block:minecraft:frosted_ice>, Frosted Ice
+<block:minecraft:furnace>, Furnace
+<block:minecraft:glass>, Glass
+<block:minecraft:glass_pane>, Glass Pane
+<block:minecraft:glowstone>, Glowstone
+<block:minecraft:gold_block>, Block of Gold
+<block:minecraft:gold_ore>, Gold Ore
+<block:minecraft:golden_rail>, Powered Rail
+<block:minecraft:grass>, Grass Block
+<block:minecraft:grass_path>, Grass Path
+<block:minecraft:gravel>, Gravel
+<block:minecraft:gray_glazed_terracotta>, Gray Glazed Terracotta
+<block:minecraft:gray_shulker_box>, Gray Shulker Box
+<block:minecraft:green_glazed_terracotta>, Green Glazed Terracotta
+<block:minecraft:green_shulker_box>, Green Shulker Box
+<block:minecraft:hardened_clay>, Terracotta
+<block:minecraft:hay_block>, Hay Bale
+<block:minecraft:heavy_weighted_pressure_plate>, Weighted Pressure Plate (Heavy)
+<block:minecraft:hopper>, Hopper
+<block:minecraft:ice>, Ice
+<block:minecraft:iron_bars>, Iron Bars
+<block:minecraft:iron_block>, Block of Iron
+<block:minecraft:iron_door>, Iron Door
+<block:minecraft:iron_ore>, Iron Ore
+<block:minecraft:iron_trapdoor>, Iron Trapdoor
+<block:minecraft:jukebox>, Jukebox
+<block:minecraft:jungle_door>, Jungle Door
+<block:minecraft:jungle_fence>, Jungle Fence
+<block:minecraft:jungle_fence_gate>, Jungle Fence Gate
+<block:minecraft:jungle_stairs>, Jungle Wood Stairs
+<block:minecraft:ladder>, Ladder
+<block:minecraft:lapis_block>, Lapis Lazuli Block
+<block:minecraft:lapis_ore>, Lapis Lazuli Ore
+<block:minecraft:lava>, Lava
+<block:minecraft:leaves>, Leaves
+<block:minecraft:leaves2>, Leaves
+<block:minecraft:lever>, Lever
+<block:minecraft:light_blue_glazed_terracotta>, Light Blue Glazed Terracotta
+<block:minecraft:light_blue_shulker_box>, Light Blue Shulker Box
+<block:minecraft:light_weighted_pressure_plate>, Weighted Pressure Plate (Light)
+<block:minecraft:lime_glazed_terracotta>, Lime Glazed Terracotta
+<block:minecraft:lime_shulker_box>, Lime Shulker Box
+<block:minecraft:lit_furnace>, Furnace
+<block:minecraft:lit_pumpkin>, Jack o'Lantern
+<block:minecraft:lit_redstone_lamp>, Redstone Lamp
+<block:minecraft:lit_redstone_ore>, Redstone Ore
+<block:minecraft:log>, Wood
+<block:minecraft:log2>, Wood
+<block:minecraft:magenta_glazed_terracotta>, Magenta Glazed Terracotta
+<block:minecraft:magenta_shulker_box>, Magenta Shulker Box
+<block:minecraft:magma>, Magma Block
+<block:minecraft:melon_block>, Melon
+<block:minecraft:melon_stem>, Pumpkin Stem
+<block:minecraft:mob_spawner>, Monster Spawner
+<block:minecraft:monster_egg>, Stone Monster Egg
+<block:minecraft:mossy_cobblestone>, Moss Stone
+<block:minecraft:mycelium>, Mycelium
+<block:minecraft:nether_brick>, Nether Brick
+<block:minecraft:nether_brick_fence>, Nether Brick Fence
+<block:minecraft:nether_brick_stairs>, Nether Brick Stairs
+<block:minecraft:nether_wart>, Nether Wart
+<block:minecraft:nether_wart_block>, Nether Wart Block
+<block:minecraft:netherrack>, Netherrack
+<block:minecraft:noteblock>, Note Block
+<block:minecraft:oak_stairs>, Oak Wood Stairs
+<block:minecraft:observer>, Observer
+<block:minecraft:obsidian>, Obsidian
+<block:minecraft:orange_glazed_terracotta>, Orange Glazed Terracotta
+<block:minecraft:orange_shulker_box>, Orange Shulker Box
+<block:minecraft:packed_ice>, Packed Ice
+<block:minecraft:pink_glazed_terracotta>, Pink Glazed Terracotta
+<block:minecraft:pink_shulker_box>, Pink Shulker Box
+<block:minecraft:piston>, Piston
+<block:minecraft:piston_extension>, Hidden Pressure Plate
+<block:minecraft:piston_head>, Piston
+<block:minecraft:planks>, Wooden Planks
+<block:minecraft:portal>, Portal
+<block:minecraft:potatoes>, Potatoes
+<block:minecraft:powered_comparator>, Redstone Comparator
+<block:minecraft:powered_repeater>, Redstone Repeater
+<block:minecraft:prismarine>, Prismarine
+<block:minecraft:pumpkin>, Pumpkin
+<block:minecraft:pumpkin_stem>, Pumpkin Stem
+<block:minecraft:purple_glazed_terracotta>, Purple Glazed Terracotta
+<block:minecraft:purple_shulker_box>, Purple Shulker Box
+<block:minecraft:purpur_block>, Purpur Block
+<block:minecraft:purpur_double_slab>, Purpur Slab
+<block:minecraft:purpur_pillar>, Purpur Pillar
+<block:minecraft:purpur_slab>, Purpur Slab
+<block:minecraft:purpur_stairs>, Purpur Stairs
+<block:minecraft:quartz_block>, Block of Quartz
+<block:minecraft:quartz_ore>, Nether Quartz Ore
+<block:minecraft:quartz_stairs>, Quartz Stairs
+<block:minecraft:rail>, Rail
+<block:minecraft:red_flower>, Flower
+<block:minecraft:red_glazed_terracotta>, Red Glazed Terracotta
+<block:minecraft:red_mushroom>, Mushroom
+<block:minecraft:red_mushroom_block>, Mushroom
+<block:minecraft:red_nether_brick>, Red Nether Brick
+<block:minecraft:red_sandstone>, Red Sandstone
+<block:minecraft:red_sandstone_stairs>, Red Sandstone Stairs
+<block:minecraft:red_shulker_box>, Red Shulker Box
+<block:minecraft:redstone_block>, Block of Redstone
+<block:minecraft:redstone_lamp>, Redstone Lamp
+<block:minecraft:redstone_ore>, Redstone Ore
+<block:minecraft:redstone_torch>, Redstone Torch
+<block:minecraft:redstone_wire>, Redstone Dust
+<block:minecraft:reeds>, Sugar cane
+<block:minecraft:repeating_command_block>, Repeating Command Block
+<block:minecraft:sand>, Sand
+<block:minecraft:sandstone>, Sandstone
+<block:minecraft:sandstone_stairs>, Sandstone Stairs
+<block:minecraft:sapling>, Oak Sapling
+<block:minecraft:sea_lantern>, Sea Lantern
+<block:minecraft:silver_glazed_terracotta>, Light Gray Glazed Terracotta
+<block:minecraft:silver_shulker_box>, Light Gray Shulker Box
+<block:minecraft:skull>, tile.skull.skeleton.name
+<block:minecraft:slime>, Slime Block
+<block:minecraft:snow>, Snow
+<block:minecraft:snow_layer>, Snow
+<block:minecraft:soul_sand>, Soul Sand
+<block:minecraft:sponge>, Sponge
+<block:minecraft:spruce_door>, Spruce Door
+<block:minecraft:spruce_fence>, Spruce Fence
+<block:minecraft:spruce_fence_gate>, Spruce Fence Gate
+<block:minecraft:spruce_stairs>, Spruce Wood Stairs
+<block:minecraft:stained_glass>, Stained Glass
+<block:minecraft:stained_glass_pane>, Stained Glass Pane
+<block:minecraft:stained_hardened_clay>, Stained Terracotta
+<block:minecraft:standing_banner>, White Banner
+<block:minecraft:standing_sign>, Sign
+<block:minecraft:sticky_piston>, Sticky Piston
+<block:minecraft:stone>, Stone
+<block:minecraft:stone_brick_stairs>, Stone Brick Stairs
+<block:minecraft:stone_button>, Button
+<block:minecraft:stone_pressure_plate>, Stone Pressure Plate
+<block:minecraft:stone_slab>, Stone Slab
+<block:minecraft:stone_slab2>, Red Sandstone Slab
+<block:minecraft:stone_stairs>, Cobblestone Stairs
+<block:minecraft:stonebrick>, Stone Bricks
+<block:minecraft:structure_block>, Structure Block
+<block:minecraft:structure_void>, Structure Void
+<block:minecraft:tallgrass>, Grass
+<block:minecraft:tnt>, TNT
+<block:minecraft:torch>, Torch
+<block:minecraft:trapdoor>, Wooden Trapdoor
+<block:minecraft:trapped_chest>, Trapped Chest
+<block:minecraft:tripwire>, Tripwire
+<block:minecraft:tripwire_hook>, Tripwire Hook
+<block:minecraft:unlit_redstone_torch>, Redstone Torch
+<block:minecraft:unpowered_comparator>, Redstone Comparator
+<block:minecraft:unpowered_repeater>, Redstone Repeater
+<block:minecraft:vine>, Vines
+<block:minecraft:wall_banner>, White Banner
+<block:minecraft:wall_sign>, Sign
+<block:minecraft:water>, Water
+<block:minecraft:waterlily>, Lily Pad
+<block:minecraft:web>, Cobweb
+<block:minecraft:wheat>, Crops
+<block:minecraft:white_glazed_terracotta>, White Glazed Terracotta
+<block:minecraft:white_shulker_box>, White Shulker Box
+<block:minecraft:wooden_button>, Button
+<block:minecraft:wooden_door>, Oak Door
+<block:minecraft:wooden_pressure_plate>, Wooden Pressure Plate
+<block:minecraft:wooden_slab>, Wood Slab
+<block:minecraft:wool>, Wool
+<block:minecraft:yellow_flower>, Flower
+<block:minecraft:yellow_glazed_terracotta>, Yellow Glazed Terracotta
+<block:minecraft:yellow_shulker_box>, Yellow Shulker Box
+<block:pixelmon:acacia_bench>, Acacia Bench
+<block:pixelmon:aluminium_block>, Aluminum Block
+<block:pixelmon:amethyst_block>, Amethyst Block
+<block:pixelmon:amethyst_ore>, Amethyst Ore
+<block:pixelmon:anvil>, Anvil
+<block:pixelmon:articuno_shrine>, Frozen Shrine
+<block:pixelmon:bauxite_ore>, Bauxite Ore
+<block:pixelmon:beast_chest>, Beast Chest
+<block:pixelmon:bench>, Oak Bench
+<block:pixelmon:berrytree_aguav>, tile.berrytree_aguav.name
+<block:pixelmon:berrytree_apicot>, Apicot Berry Tree
+<block:pixelmon:berrytree_aspear>, tile.berrytree_aspear.name
+<block:pixelmon:berrytree_babiri>, Babiri Berry Tree
+<block:pixelmon:berrytree_charti>, Charti Berry Tree
+<block:pixelmon:berrytree_cheri>, Cheri Berry Tree
+<block:pixelmon:berrytree_chesto>, tile.berrytree_chesto.name
+<block:pixelmon:berrytree_chilan>, tile.berrytree_chilan.name
+<block:pixelmon:berrytree_chople>, Chople Berry Tree
+<block:pixelmon:berrytree_coba>, Coba Berry Tree
+<block:pixelmon:berrytree_colbur>, Colbur Berry Tree
+<block:pixelmon:berrytree_custap>, Custap Berry Tree
+<block:pixelmon:berrytree_enigma>, Enigma Berry Tree
+<block:pixelmon:berrytree_figy>, tile.berrytree_figy.name
+<block:pixelmon:berrytree_ganlon>, Ganlon Berry Tree
+<block:pixelmon:berrytree_grepa>, Grepa Berry Tree
+<block:pixelmon:berrytree_haban>, Haban Berry Tree
+<block:pixelmon:berrytree_hondew>, Hondew Berry Tree
+<block:pixelmon:berrytree_iapapa>, tile.berrytree_iapapa.name
+<block:pixelmon:berrytree_jaboca>, Jaboca Berry Tree
+<block:pixelmon:berrytree_kasib>, Kasib Berry Tree
+<block:pixelmon:berrytree_kebia>, Kebia Berry Tree
+<block:pixelmon:berrytree_kelpsy>, Kelpsy Berry Tree
+<block:pixelmon:berrytree_lansat>, Lansat Berry Tree
+<block:pixelmon:berrytree_leppa>, tile.berrytree_leppa.name
+<block:pixelmon:berrytree_liechi>, Liechi Berry Tree
+<block:pixelmon:berrytree_lum>, tile.berrytree_lum.name
+<block:pixelmon:berrytree_mago>, tile.berrytree_mago.name
+<block:pixelmon:berrytree_micle>, Micle Berry Tree
+<block:pixelmon:berrytree_occa>, Occa Berry Tree
+<block:pixelmon:berrytree_oran>, tile.berrytree_oran.name
+<block:pixelmon:berrytree_passho>, Passho Berry Tree
+<block:pixelmon:berrytree_pecha>, tile.berrytree_pecha.name
+<block:pixelmon:berrytree_persim>, tile.berrytree_persim.name
+<block:pixelmon:berrytree_petaya>, Petaya Berry Tree
+<block:pixelmon:berrytree_pomeg>, Pomeg Berry Tree
+<block:pixelmon:berrytree_qualot>, Qualot Berry Tree
+<block:pixelmon:berrytree_rawst>, tile.berrytree_rawst.name
+<block:pixelmon:berrytree_rindo>, Rindo Berry Tree
+<block:pixelmon:berrytree_roseli>, tile.berrytree_roseli.name
+<block:pixelmon:berrytree_rowap>, Rowap Berry Tree
+<block:pixelmon:berrytree_salac>, Salac Berry Tree
+<block:pixelmon:berrytree_shuca>, Shuca Berry Tree
+<block:pixelmon:berrytree_sitrus>, tile.berrytree_sitrus.name
+<block:pixelmon:berrytree_starf>, Starf Berry Tree
+<block:pixelmon:berrytree_tamato>, Tamato Berry Tree
+<block:pixelmon:berrytree_tanga>, Tanga Berry Tree
+<block:pixelmon:berrytree_wacan>, Wacan Berry Tree
+<block:pixelmon:berrytree_wiki>, tile.berrytree_wiki.name
+<block:pixelmon:berrytree_yache>, Yache Berry Tree
+<block:pixelmon:birch_bench>, Birch Bench
+<block:pixelmon:black_apricorn_tree>, Apricorn Tree
+<block:pixelmon:black_armchair>, Black Armchair
+<block:pixelmon:black_chair>, Black Chair
+<block:pixelmon:black_clock>, Black Clock
+<block:pixelmon:black_couch>, Black Couch
+<block:pixelmon:black_cushion_chair>, Black Cushion Chair
+<block:pixelmon:black_folding_chair>, Black Folding Chair
+<block:pixelmon:black_rug>, Black Pokéball Rug
+<block:pixelmon:black_umbrella>, Black Umbrella
+<block:pixelmon:black_vending_machine>, Black Vending Machine
+<block:pixelmon:black_water_float>, Black Water Float
+<block:pixelmon:block.blue_orb>, tile.block.blue_orb.name
+<block:pixelmon:block.red_orb>, tile.block.red_orb.name
+<block:pixelmon:blue_apricorn_tree>, Apricorn Tree
+<block:pixelmon:blue_armchair>, Blue Armchair
+<block:pixelmon:blue_chair>, Blue Chair
+<block:pixelmon:blue_clock>, Blue Clock
+<block:pixelmon:blue_couch>, Blue Couch
+<block:pixelmon:blue_cushion_chair>, Blue Cushion Chair
+<block:pixelmon:blue_folding_chair>, Blue Folding Chair
+<block:pixelmon:blue_rug>, Blue Poké Ball Rug
+<block:pixelmon:blue_umbrella>, Blue Umbrella
+<block:pixelmon:blue_vending_machine>, Blue Vending Machine
+<block:pixelmon:blue_water_float>, Blue Water Float
+<block:pixelmon:bolder>, Boulder
+<block:pixelmon:box>, Box
+<block:pixelmon:braille_block>, tile.braille_block.name
+<block:pixelmon:braille_block2>, tile.braille_block2.name
+<block:pixelmon:bridge_block>, Bridge Block
+<block:pixelmon:brown_armchair>, Brown Armchair
+<block:pixelmon:brown_chair>, Brown Chair
+<block:pixelmon:brown_clock>, Brown Clock
+<block:pixelmon:brown_couch>, Brown Couch
+<block:pixelmon:brown_cushion_chair>, Brown Cushion Chair
+<block:pixelmon:brown_folding_chair>, Brown Folding Chair
+<block:pixelmon:brown_rug>, Brown Pokéball Rug
+<block:pixelmon:brown_umbrella>, Brown Umbrella
+<block:pixelmon:brown_vending_machine>, Brown Vending Machine
+<block:pixelmon:brown_water_float>, Brown Water Float
+<block:pixelmon:cash_register>, Cash Register
+<block:pixelmon:cave_rock>, Cave Rock
+<block:pixelmon:clear_bell>, Clear Bell
+<block:pixelmon:cloning_machine>, Cloning Machine
+<block:pixelmon:clothed_table>, Clothed Table
+<block:pixelmon:cooking_pot>, Cooking Pot
+<block:pixelmon:crystal_block>, Crystal Block
+<block:pixelmon:crystal_ore>, Crystal Ore
+<block:pixelmon:cyan_armchair>, Cyan Armchair
+<block:pixelmon:cyan_chair>, Cyan Chair
+<block:pixelmon:cyan_clock>, Cyan Clock
+<block:pixelmon:cyan_couch>, Cyan Couch
+<block:pixelmon:cyan_cushion_chair>, Cyan Cushion Chair
+<block:pixelmon:cyan_folding_chair>, Cyan Folding Chair
+<block:pixelmon:cyan_rug>, Cyan Pokéball Rug
+<block:pixelmon:cyan_umbrella>, Cyan Umbrella
+<block:pixelmon:cyan_vending_machine>, Cyan Vending Machine
+<block:pixelmon:cyan_water_float>, Cyan Water Float
+<block:pixelmon:dark_oak_bench>, Dark Oak Bench
+<block:pixelmon:darkworkplace>, Dark Workplace
+<block:pixelmon:dawn_dusk_ore>, Dawn/Dusk Ore
+<block:pixelmon:deep_sea>, Ultra Deep Sea Crystal
+<block:pixelmon:dusty_ruins_wall>, Dusty Ruins Wall
+<block:pixelmon:elevator>, Elevator
+<block:pixelmon:end_table>, End Table
+<block:pixelmon:fan>, Fan
+<block:pixelmon:fire_stone_ore>, Fire Stone Ore
+<block:pixelmon:fossil>, Fossil
+<block:pixelmon:fossil_cleaner>, Fossil Cleaner
+<block:pixelmon:fossil_display>, Fossil Display
+<block:pixelmon:fossil_machine>, Fossil Machine
+<block:pixelmon:fridge>, Fridge
+<block:pixelmon:full_incense>, tile.full_incense.name
+<block:pixelmon:galarica_cuff>, Galarica Cuff
+<block:pixelmon:gracideablock>, tile.gracideablock.name
+<block:pixelmon:gray_armchair>, Gray Armchair
+<block:pixelmon:gray_chair>, Gray Chair
+<block:pixelmon:gray_clock>, Gray Clock
+<block:pixelmon:gray_couch>, Gray Couch
+<block:pixelmon:gray_cushion_chair>, Gray Cushion Chair
+<block:pixelmon:gray_folding_chair>, Gray Folding Chair
+<block:pixelmon:gray_rug>, Gray Pokéball Rug
+<block:pixelmon:gray_umbrella>, Gray Umbrella
+<block:pixelmon:gray_vending_machine>, Gray Vending Machine
+<block:pixelmon:gray_water_float>, Gray Water Float
+<block:pixelmon:green_apricorn_tree>, Apricorn Tree
+<block:pixelmon:green_armchair>, Green Armchair
+<block:pixelmon:green_chair>, Green Chair
+<block:pixelmon:green_clock>, Green Clock
+<block:pixelmon:green_couch>, Green Couch
+<block:pixelmon:green_cushion_chair>, Green Cushion Chair
+<block:pixelmon:green_folding_chair>, Green Folding Chair
+<block:pixelmon:green_rug>, Green Poké Ball Rug
+<block:pixelmon:green_umbrella>, Green Umbrella
+<block:pixelmon:green_vending_machine>, Green Vending Machine
+<block:pixelmon:green_water_float>, Green Water Float
+<block:pixelmon:gym_sign>, Gym Sign
+<block:pixelmon:hanging_scroll>, tile.scroll.name
+<block:pixelmon:healer>, Healer
+<block:pixelmon:hidden_cube>, Hidden Cube
+<block:pixelmon:hidden_iron_door>, Hidden Iron Door
+<block:pixelmon:hidden_pressure_plate>, Hidden Pressure Plate
+<block:pixelmon:hidden_wooden_door>, Hidden Wooden Door
+<block:pixelmon:ice_rock>, Ice Rock
+<block:pixelmon:ilex_shrine>, Ilex Shrine
+<block:pixelmon:incense_burner>, tile.incense_burner.name
+<block:pixelmon:infuser>, Infuser
+<block:pixelmon:inside_wall>, Inside Wall
+<block:pixelmon:inside_wall_molding>, Inside Wall Molding
+<block:pixelmon:jungle_bench>, Jungle Bench
+<block:pixelmon:lax_incense>, tile.lax_incense.name
+<block:pixelmon:leaf_stone_ore>, Leaf Stone Ore
+<block:pixelmon:letterbox_standing_black>, Black Letterbox
+<block:pixelmon:letterbox_standing_blue>, Blue Letterbox
+<block:pixelmon:letterbox_standing_brown>, Brown Letterbox
+<block:pixelmon:letterbox_standing_cyan>, Cyan Letterbox
+<block:pixelmon:letterbox_standing_gray>, Gray Letterbox
+<block:pixelmon:letterbox_standing_green>, Green Letterbox
+<block:pixelmon:letterbox_standing_light_blue>, Light Blue Letterbox
+<block:pixelmon:letterbox_standing_lime>, Lime Letterbox
+<block:pixelmon:letterbox_standing_magenta>, Magenta Letterbox
+<block:pixelmon:letterbox_standing_orange>, Orange Letterbox
+<block:pixelmon:letterbox_standing_pink>, Pink Letterbox
+<block:pixelmon:letterbox_standing_purple>, Purple Letterbox
+<block:pixelmon:letterbox_standing_red>, Red Letterbox
+<block:pixelmon:letterbox_standing_silver>, Silver Letterbox
+<block:pixelmon:letterbox_standing_white>, White Letterbox
+<block:pixelmon:letterbox_standing_yellow>, Yellow Letterbox
+<block:pixelmon:letterbox_wall_black>, tile.letterbox_wall_black.name
+<block:pixelmon:letterbox_wall_blue>, tile.letterbox_wall_blue.name
+<block:pixelmon:letterbox_wall_brown>, tile.letterbox_wall_brown.name
+<block:pixelmon:letterbox_wall_cyan>, tile.letterbox_wall_cyan.name
+<block:pixelmon:letterbox_wall_gray>, tile.letterbox_wall_gray.name
+<block:pixelmon:letterbox_wall_green>, tile.letterbox_wall_green.name
+<block:pixelmon:letterbox_wall_light_blue>, tile.letterbox_wall_light_blue.name
+<block:pixelmon:letterbox_wall_lime>, tile.letterbox_wall_lime.name
+<block:pixelmon:letterbox_wall_magenta>, tile.letterbox_wall_magenta.name
+<block:pixelmon:letterbox_wall_orange>, tile.letterbox_wall_orange.name
+<block:pixelmon:letterbox_wall_pink>, tile.letterbox_wall_pink.name
+<block:pixelmon:letterbox_wall_purple>, tile.letterbox_wall_purple.name
+<block:pixelmon:letterbox_wall_red>, tile.letterbox_wall_red.name
+<block:pixelmon:letterbox_wall_silver>, tile.letterbox_wall_silver.name
+<block:pixelmon:letterbox_wall_white>, tile.letterbox_wall_white.name
+<block:pixelmon:letterbox_wall_yellow>, tile.letterbox_wall_yellow.name
+<block:pixelmon:lightblue_armchair>, Light Blue Armchair
+<block:pixelmon:lightblue_couch>, Light Blue Couch
+<block:pixelmon:lightworkplace>, Light Workplace
+<block:pixelmon:lime_armchair>, Lime Armchair
+<block:pixelmon:lime_couch>, Lime Couch
+<block:pixelmon:luck_incense>, tile.luck_incense.name
+<block:pixelmon:magenta_armchair>, Magenta Armchair
+<block:pixelmon:magenta_couch>, Magenta Couch
+<block:pixelmon:mailbox_black>, Black Mailbox
+<block:pixelmon:mailbox_blue>, Blue Mailbox
+<block:pixelmon:mailbox_brown>, Brown Mailbox
+<block:pixelmon:mailbox_cyan>, Cyan Mailbox
+<block:pixelmon:mailbox_gray>, Gray Mailbox
+<block:pixelmon:mailbox_green>, Green Mailbox
+<block:pixelmon:mailbox_light_blue>, Light Blue Mailbox
+<block:pixelmon:mailbox_lime>, Lime Mailbox
+<block:pixelmon:mailbox_magenta>, Magenta Mailbox
+<block:pixelmon:mailbox_orange>, Orange Mailbox
+<block:pixelmon:mailbox_pink>, Pink Mailbox
+<block:pixelmon:mailbox_purple>, Purple Mailbox
+<block:pixelmon:mailbox_red>, Red Mailbox
+<block:pixelmon:mailbox_silver>, Silver Mailbox
+<block:pixelmon:mailbox_white>, White Mailbox
+<block:pixelmon:mailbox_yellow>, Yellow Mailbox
+<block:pixelmon:master_chest>, Master Chest
+<block:pixelmon:max_mushroom_block>, Max Mushrooms Block
+<block:pixelmon:mechanical_anvil>, Mechanical Anvil
+<block:pixelmon:mint_crop>, Mint Crop
+<block:pixelmon:moltres_shrine>, Fiery Shrine
+<block:pixelmon:moss_rock>, Moss Rock
+<block:pixelmon:movement_plate>, Movement Plate
+<block:pixelmon:mower>, Mower
+<block:pixelmon:mug_ball>, Poké Ball Mug
+<block:pixelmon:mug_base>, Mug
+<block:pixelmon:mug_pika>, Pika Mug
+<block:pixelmon:music_block>, Music Block
+<block:pixelmon:odd_incense>, tile.odd_incense.name
+<block:pixelmon:orange_armchair>, Orange Armchair
+<block:pixelmon:orange_chair>, Orange Chair
+<block:pixelmon:orange_clock>, Orange Clock
+<block:pixelmon:orange_couch>, Orange Couch
+<block:pixelmon:orange_cushion_chair>, Orange Cushion Chair
+<block:pixelmon:orange_folding_chair>, Orange Folding Chair
+<block:pixelmon:orange_rug>, Orange Pokéball Rug
+<block:pixelmon:orange_umbrella>, Orange Umbrella
+<block:pixelmon:orange_vending_machine>, Orange Vending Machine
+<block:pixelmon:orange_water_float>, Orange Water Float
+<block:pixelmon:outside_wall>, Outside Wall
+<block:pixelmon:pc>, PC
+<block:pixelmon:picket_fence>, Picket Fence
+<block:pixelmon:pink_apricorn_tree>, Apricorn Tree
+<block:pixelmon:pink_armchair>, Pink Armchair
+<block:pixelmon:pink_chair>, Pink Chair
+<block:pixelmon:pink_clock>, Pink Clock
+<block:pixelmon:pink_couch>, Pink Couch
+<block:pixelmon:pink_cushion_chair>, Pink Cushion Chair
+<block:pixelmon:pink_folding_chair>, Pink Folding Chair
+<block:pixelmon:pink_rug>, Pink Pokéball Rug
+<block:pixelmon:pink_umbrella>, Pink Umbrella
+<block:pixelmon:pink_vending_machine>, Pink Vending Machine
+<block:pixelmon:pink_water_float>, Pink Water Float
+<block:pixelmon:pixelmon_grass>, Pixelmon Grass
+<block:pixelmon:pixelmon_spawner>, Pixelmon Spawner
+<block:pixelmon:plateholder>, Arc Chalice
+<block:pixelmon:poke_chest>, Poké Chest
+<block:pixelmon:poke_dirt>, PokéDirt
+<block:pixelmon:poke_gift>, Poké Gift
+<block:pixelmon:poke_gift_event>, tile.poke_gift_event.name
+<block:pixelmon:poke_grass>, PokéGrass
+<block:pixelmon:poke_sand>, PokéSand
+<block:pixelmon:poke_sand_corner1>, PokéSand Corner 1
+<block:pixelmon:poke_sand_corner2>, PokéSand Corner 2
+<block:pixelmon:poke_sand_corner3>, PokéSand Corner 3
+<block:pixelmon:poke_sand_corner4>, PokéSand Corner 4
+<block:pixelmon:poke_sand_side1>, PokéSand Side 1
+<block:pixelmon:poke_sand_side2>, PokéSand Side 2
+<block:pixelmon:poke_sand_side3>, PokéSand Side 3
+<block:pixelmon:poke_sand_side4>, PokéSand Side 4
+<block:pixelmon:pokecenter_sign>, PokéCenter Sign
+<block:pixelmon:pokemart_sign>, Poké Mart Sign
+<block:pixelmon:pure_incense>, tile.pure_incense.name
+<block:pixelmon:purple_armchair>, Purple Armchair
+<block:pixelmon:purple_chair>, Purple Chair
+<block:pixelmon:purple_clock>, Purple Clock
+<block:pixelmon:purple_couch>, Purple Couch
+<block:pixelmon:purple_cushion_chair>, Purple Cushion Chair
+<block:pixelmon:purple_folding_chair>, Purple Folding Chair
+<block:pixelmon:purple_rug>, Purple Pokéball Rug
+<block:pixelmon:purple_umbrella>, Purple Umbrella
+<block:pixelmon:purple_vending_machine>, Purple Vending Machine
+<block:pixelmon:purple_water_float>, Purple Water Float
+<block:pixelmon:ranch>, Ranch Block
+<block:pixelmon:reassembly_unit>, Reassembly Unit
+<block:pixelmon:red_apricorn_tree>, Apricorn Tree
+<block:pixelmon:red_armchair>, Red Armchair
+<block:pixelmon:red_chair>, Red Chair
+<block:pixelmon:red_clock>, Red Clock
+<block:pixelmon:red_couch>, Red Couch
+<block:pixelmon:red_cushion_chair>, Red Cushion Chair
+<block:pixelmon:red_folding_chair>, Red Folding Chair
+<block:pixelmon:red_rug>, Red Poké Ball Rug
+<block:pixelmon:red_umbrella>, Red Umbrella
+<block:pixelmon:red_vending_machine>, Red Vending Machine
+<block:pixelmon:red_water_float>, Red Water Float
+<block:pixelmon:relic_band>, Relic Band
+<block:pixelmon:relic_crown>, Relic Crown
+<block:pixelmon:relic_statue>, Relic Statue
+<block:pixelmon:relic_vase>, Relic Vase
+<block:pixelmon:rock>, Rock
+<block:pixelmon:rock_incense>, tile.rock_incense.name
+<block:pixelmon:rose_incense>, tile.rose_incense.name
+<block:pixelmon:ruby_block>, Ruby Block
+<block:pixelmon:ruby_ore>, Ruby Ore
+<block:pixelmon:ruins_wall>, Ruins Wall
+<block:pixelmon:sandy_grass>, Sandy Grass
+<block:pixelmon:sapphire_block>, Sapphire Block
+<block:pixelmon:sapphire_ore>, Sapphire Ore
+<block:pixelmon:sea_incense>, tile.sea_incense.name
+<block:pixelmon:shingles>, Shingles
+<block:pixelmon:shingles_corner1>, Shingles Corner 1
+<block:pixelmon:shingles_corner2>, Shingles Corner 2
+<block:pixelmon:silicon_block>, Silicon Block
+<block:pixelmon:silicon_ore>, Silicon Ore
+<block:pixelmon:silver_armchair>, Light Gray Armchair
+<block:pixelmon:silver_couch>, Light Gray Couch
+<block:pixelmon:spawner_cave_rock>, Spawner Cave Rock
+<block:pixelmon:spruce_bench>, Spruce Bench
+<block:pixelmon:standing_scroll>, tile.scroll.name
+<block:pixelmon:stick_plate>, Stick Plate
+<block:pixelmon:street_light>, Street Light
+<block:pixelmon:sun_stone_ore>, Sun Stone Ore
+<block:pixelmon:temple_block>, Temple Block
+<block:pixelmon:temple_brick>, Temple Brick
+<block:pixelmon:temple_brick_double_slab>, tile.temple_brick_double_slab.name
+<block:pixelmon:temple_brick_slab>, Temple Brick Slab
+<block:pixelmon:temple_brick_stairs>, Temple Brick Stairs
+<block:pixelmon:temple_double_slab>, tile.temple_double_slab.name
+<block:pixelmon:temple_pillar>, Temple Pillar
+<block:pixelmon:temple_slab>, Temple Slab
+<block:pixelmon:temple_stairs>, Temple Stairs
+<block:pixelmon:temporary_light>, tile.temporary_light.name
+<block:pixelmon:thunder_stone_ore>, Thunder Stone Ore
+<block:pixelmon:tidal_bell>, Tidal Bell
+<block:pixelmon:timed_fall>, Timed Fall
+<block:pixelmon:timespace_altar>, Timespace Altar
+<block:pixelmon:trade_machine>, Trade Machine
+<block:pixelmon:trash_can>, Trash Can
+<block:pixelmon:tree>, Tree
+<block:pixelmon:tree_bottom>, Tree Bottom
+<block:pixelmon:tree_top>, Tree Top
+<block:pixelmon:tv>, Old TV
+<block:pixelmon:tv2>, Small TV
+<block:pixelmon:tv3>, Big TV
+<block:pixelmon:ultra_chest>, Ultra Chest
+<block:pixelmon:unown_block>, tile.unown_block.name
+<block:pixelmon:unown_block2>, tile.unown_block2.name
+<block:pixelmon:warp_plate>, Warp Plate
+<block:pixelmon:washing_machine>, Washing Machine
+<block:pixelmon:water_stone_ore>, Water Stone Ore
+<block:pixelmon:wave_incense>, tile.wave_incense.name
+<block:pixelmon:white_apricorn_tree>, Apricorn Tree
+<block:pixelmon:white_armchair>, White Armchair
+<block:pixelmon:white_chair>, White Chair
+<block:pixelmon:white_clock>, White Clock
+<block:pixelmon:white_couch>, White Couch
+<block:pixelmon:white_cushion_chair>, White Cushion Chair
+<block:pixelmon:white_folding_chair>, White Folding Chair
+<block:pixelmon:white_rug>, White Pokéball Rug
+<block:pixelmon:white_umbrella>, White Umbrella
+<block:pixelmon:white_vending_machine>, White Vending Machine
+<block:pixelmon:white_water_float>, White Water Float
+<block:pixelmon:window1>, Window 1
+<block:pixelmon:window2>, Window 2
+<block:pixelmon:wooden_flooring>, Wooden Flooring
+<block:pixelmon:yellow_apricorn_tree>, Apricorn Tree
+<block:pixelmon:yellow_armchair>, Yellow Armchair
+<block:pixelmon:yellow_chair>, Yellow Chair
+<block:pixelmon:yellow_clock>, Yellow Clock
+<block:pixelmon:yellow_couch>, Yellow Couch
+<block:pixelmon:yellow_cushion_chair>, Yellow Cushion Chair
+<block:pixelmon:yellow_folding_chair>, Yellow Folding Chair
+<block:pixelmon:yellow_rug>, Yellow Poké Ball Rug
+<block:pixelmon:yellow_umbrella>, Yellow Umbrella
+<block:pixelmon:yellow_vending_machine>, Yellow Vending Machine
+<block:pixelmon:yellow_water_float>, Yellow Water Float
+<block:pixelmon:zapdos_shrine>, Static Shrine
+<block:pixelmon:zygarde_cell>, Zygarde Cell
+<block:pixelmon:zygarde_core>, Zygarde Core
+<block:tfc:aggregate>, Aggregate
+<block:tfc:alabaster/bricks/black>, Black Alabaster Bricks
+<block:tfc:alabaster/bricks/blue>, Blue Alabaster Bricks
+<block:tfc:alabaster/bricks/brown>, Brown Alabaster Bricks
+<block:tfc:alabaster/bricks/cyan>, Cyan Alabaster Bricks
+<block:tfc:alabaster/bricks/gray>, Gray Alabaster Bricks
+<block:tfc:alabaster/bricks/green>, Green Alabaster Bricks
+<block:tfc:alabaster/bricks/light_blue>, Light Blue Alabaster Bricks
+<block:tfc:alabaster/bricks/lime>, Lime Alabaster Bricks
+<block:tfc:alabaster/bricks/magenta>, Magenta Alabaster Bricks
+<block:tfc:alabaster/bricks/orange>, Orange Alabaster Bricks
+<block:tfc:alabaster/bricks/pink>, Pink Alabaster Bricks
+<block:tfc:alabaster/bricks/plain>,  Alabaster Bricks
+<block:tfc:alabaster/bricks/purple>, Purple Alabaster Bricks
+<block:tfc:alabaster/bricks/red>, Red Alabaster Bricks
+<block:tfc:alabaster/bricks/silver>, Light Gray Alabaster Bricks
+<block:tfc:alabaster/bricks/white>, White Alabaster Bricks
+<block:tfc:alabaster/bricks/yellow>, Yellow Alabaster Bricks
+<block:tfc:alabaster/polished/black>, Black Smooth Alabaster
+<block:tfc:alabaster/polished/blue>, Blue Smooth Alabaster
+<block:tfc:alabaster/polished/brown>, Brown Smooth Alabaster
+<block:tfc:alabaster/polished/cyan>, Cyan Smooth Alabaster
+<block:tfc:alabaster/polished/gray>, Gray Smooth Alabaster
+<block:tfc:alabaster/polished/green>, Green Smooth Alabaster
+<block:tfc:alabaster/polished/light_blue>, Light Blue Smooth Alabaster
+<block:tfc:alabaster/polished/lime>, Lime Smooth Alabaster
+<block:tfc:alabaster/polished/magenta>, Magenta Smooth Alabaster
+<block:tfc:alabaster/polished/orange>, Orange Smooth Alabaster
+<block:tfc:alabaster/polished/pink>, Pink Smooth Alabaster
+<block:tfc:alabaster/polished/plain>,  Smooth Alabaster
+<block:tfc:alabaster/polished/purple>, Purple Smooth Alabaster
+<block:tfc:alabaster/polished/red>, Red Smooth Alabaster
+<block:tfc:alabaster/polished/silver>, Light Gray Smooth Alabaster
+<block:tfc:alabaster/polished/white>, White Smooth Alabaster
+<block:tfc:alabaster/polished/yellow>, Yellow Smooth Alabaster
+<block:tfc:alabaster/raw/black>, Black Alabaster
+<block:tfc:alabaster/raw/blue>, Blue Alabaster
+<block:tfc:alabaster/raw/brown>, Brown Alabaster
+<block:tfc:alabaster/raw/cyan>, Cyan Alabaster
+<block:tfc:alabaster/raw/gray>, Gray Alabaster
+<block:tfc:alabaster/raw/green>, Green Alabaster
+<block:tfc:alabaster/raw/light_blue>, Light Blue Alabaster
+<block:tfc:alabaster/raw/lime>, Lime Alabaster
+<block:tfc:alabaster/raw/magenta>, Magenta Alabaster
+<block:tfc:alabaster/raw/orange>, Orange Alabaster
+<block:tfc:alabaster/raw/pink>, Pink Alabaster
+<block:tfc:alabaster/raw/plain>,  Alabaster
+<block:tfc:alabaster/raw/purple>, Purple Alabaster
+<block:tfc:alabaster/raw/red>, Red Alabaster
+<block:tfc:alabaster/raw/silver>, Light Gray Alabaster
+<block:tfc:alabaster/raw/white>, White Alabaster
+<block:tfc:alabaster/raw/yellow>, Yellow Alabaster
+<block:tfc:anvil/andesite>, tile.tfc.anvil.andesite.name
+<block:tfc:anvil/basalt>, tile.tfc.anvil.basalt.name
+<block:tfc:anvil/bismuth_bronze>, tile.tfc.anvil.bismuth_bronze.name
+<block:tfc:anvil/black_bronze>, tile.tfc.anvil.black_bronze.name
+<block:tfc:anvil/black_steel>, tile.tfc.anvil.black_steel.name
+<block:tfc:anvil/blue_steel>, tile.tfc.anvil.blue_steel.name
+<block:tfc:anvil/bronze>, tile.tfc.anvil.bronze.name
+<block:tfc:anvil/copper>, tile.tfc.anvil.copper.name
+<block:tfc:anvil/dacite>, tile.tfc.anvil.dacite.name
+<block:tfc:anvil/diorite>, tile.tfc.anvil.diorite.name
+<block:tfc:anvil/gabbro>, tile.tfc.anvil.gabbro.name
+<block:tfc:anvil/granite>, tile.tfc.anvil.granite.name
+<block:tfc:anvil/red_steel>, tile.tfc.anvil.red_steel.name
+<block:tfc:anvil/rhyolite>, tile.tfc.anvil.rhyolite.name
+<block:tfc:anvil/steel>, tile.tfc.anvil.steel.name
+<block:tfc:anvil/wrought_iron>, tile.tfc.anvil.wrought_iron.name
+<block:tfc:bellows>, Bellows
+<block:tfc:berry_bush/blackberry>, Blackberry Bush
+<block:tfc:berry_bush/blueberry>, Blueberry Bush
+<block:tfc:berry_bush/bunch_berry>, Bunchberry Bush
+<block:tfc:berry_bush/cloud_berry>, Cloudberry Bush
+<block:tfc:berry_bush/cranberry>, Cranberry Bush
+<block:tfc:berry_bush/elderberry>, Elderberry Bush
+<block:tfc:berry_bush/gooseberry>, Gooseberry Bush
+<block:tfc:berry_bush/raspberry>, Raspberry Bush
+<block:tfc:berry_bush/snow_berry>, Snowberry Bush
+<block:tfc:berry_bush/strawberry>, Strawberry Bush
+<block:tfc:berry_bush/wintergreen_berry>, Wintergreen Berry Bush
+<block:tfc:blast_furnace>, Blast Furnace
+<block:tfc:bloom>, tile.tfc.bloom.name
+<block:tfc:bloomery>, Bloomery
+<block:tfc:bricks/andesite>, Andesite Bricks
+<block:tfc:bricks/basalt>, Basalt Bricks
+<block:tfc:bricks/chalk>, Chalk Bricks
+<block:tfc:bricks/chert>, Chert Bricks
+<block:tfc:bricks/claystone>, Claystone Bricks
+<block:tfc:bricks/conglomerate>, Conglomerate Bricks
+<block:tfc:bricks/dacite>, Dacite Bricks
+<block:tfc:bricks/diorite>, Diorite Bricks
+<block:tfc:bricks/dolomite>, Dolomite Bricks
+<block:tfc:bricks/gabbro>, Gabbro Bricks
+<block:tfc:bricks/gneiss>, Gneiss Bricks
+<block:tfc:bricks/granite>, Granite Bricks
+<block:tfc:bricks/limestone>, Limestone Bricks
+<block:tfc:bricks/marble>, Marble Bricks
+<block:tfc:bricks/phyllite>, Phyllite Bricks
+<block:tfc:bricks/quartzite>, Quartzite Bricks
+<block:tfc:bricks/rhyolite>, Rhyolite Bricks
+<block:tfc:bricks/rocksalt>, Rocksalt Bricks
+<block:tfc:bricks/schist>, Schist Bricks
+<block:tfc:bricks/shale>, Shale Bricks
+<block:tfc:bricks/slate>, Slate Bricks
+<block:tfc:ceramics/fired/large_vessel>, Large Vessel
+<block:tfc:charcoal_forge>, Charcoal Forge
+<block:tfc:charcoal_pile>, tile.tfc.charcoal_pile.name
+<block:tfc:clay/andesite>, Andesite Clay
+<block:tfc:clay/basalt>, Basalt Clay
+<block:tfc:clay/chalk>, Chalk Clay
+<block:tfc:clay/chert>, Chert Clay
+<block:tfc:clay/claystone>, Claystone Clay
+<block:tfc:clay/conglomerate>, Conglomerate Clay
+<block:tfc:clay/dacite>, Dacite Clay
+<block:tfc:clay/diorite>, Diorite Clay
+<block:tfc:clay/dolomite>, Dolomite Clay
+<block:tfc:clay/gabbro>, Gabbro Clay
+<block:tfc:clay/gneiss>, Gneiss Clay
+<block:tfc:clay/granite>, Granite Clay
+<block:tfc:clay/limestone>, Limestone Clay
+<block:tfc:clay/marble>, Marble Clay
+<block:tfc:clay/phyllite>, Phyllite Clay
+<block:tfc:clay/quartzite>, Quartzite Clay
+<block:tfc:clay/rhyolite>, Rhyolite Clay
+<block:tfc:clay/rocksalt>, Rocksalt Clay
+<block:tfc:clay/schist>, Schist Clay
+<block:tfc:clay/shale>, Shale Clay
+<block:tfc:clay/slate>, Slate Clay
+<block:tfc:clay_grass/andesite>, Andesite Clay Grass
+<block:tfc:clay_grass/basalt>, Basalt Clay Grass
+<block:tfc:clay_grass/chalk>, Chalk Clay Grass
+<block:tfc:clay_grass/chert>, Chert Clay Grass
+<block:tfc:clay_grass/claystone>, Claystone Clay Grass
+<block:tfc:clay_grass/conglomerate>, Conglomerate Clay Grass
+<block:tfc:clay_grass/dacite>, Dacite Clay Grass
+<block:tfc:clay_grass/diorite>, Diorite Clay Grass
+<block:tfc:clay_grass/dolomite>, Dolomite Clay Grass
+<block:tfc:clay_grass/gabbro>, Gabbro Clay Grass
+<block:tfc:clay_grass/gneiss>, Gneiss Clay Grass
+<block:tfc:clay_grass/granite>, Granite Clay Grass
+<block:tfc:clay_grass/limestone>, Limestone Clay Grass
+<block:tfc:clay_grass/marble>, Marble Clay Grass
+<block:tfc:clay_grass/phyllite>, Phyllite Clay Grass
+<block:tfc:clay_grass/quartzite>, Quartzite Clay Grass
+<block:tfc:clay_grass/rhyolite>, Rhyolite Clay Grass
+<block:tfc:clay_grass/rocksalt>, Rocksalt Clay Grass
+<block:tfc:clay_grass/schist>, Schist Clay Grass
+<block:tfc:clay_grass/shale>, Shale Clay Grass
+<block:tfc:clay_grass/slate>, Slate Clay Grass
+<block:tfc:cobble/andesite>, Andesite Cobble
+<block:tfc:cobble/basalt>, Basalt Cobble
+<block:tfc:cobble/chalk>, Chalk Cobble
+<block:tfc:cobble/chert>, Chert Cobble
+<block:tfc:cobble/claystone>, Claystone Cobble
+<block:tfc:cobble/conglomerate>, Conglomerate Cobble
+<block:tfc:cobble/dacite>, Dacite Cobble
+<block:tfc:cobble/diorite>, Diorite Cobble
+<block:tfc:cobble/dolomite>, Dolomite Cobble
+<block:tfc:cobble/gabbro>, Gabbro Cobble
+<block:tfc:cobble/gneiss>, Gneiss Cobble
+<block:tfc:cobble/granite>, Granite Cobble
+<block:tfc:cobble/limestone>, Limestone Cobble
+<block:tfc:cobble/marble>, Marble Cobble
+<block:tfc:cobble/phyllite>, Phyllite Cobble
+<block:tfc:cobble/quartzite>, Quartzite Cobble
+<block:tfc:cobble/rhyolite>, Rhyolite Cobble
+<block:tfc:cobble/rocksalt>, Rocksalt Cobble
+<block:tfc:cobble/schist>, Schist Cobble
+<block:tfc:cobble/shale>, Shale Cobble
+<block:tfc:cobble/slate>, Slate Cobble
+<block:tfc:crop/barley>, Barley
+<block:tfc:crop/beet>, Beets
+<block:tfc:crop/cabbage>, Cabbage
+<block:tfc:crop/carrot>, Carrots
+<block:tfc:crop/garlic>, Garlic
+<block:tfc:crop/green_bean>, Green Beans
+<block:tfc:crop/jute>, Jute
+<block:tfc:crop/maize>, Maize
+<block:tfc:crop/oat>, Oats
+<block:tfc:crop/onion>, Onion
+<block:tfc:crop/potato>, Potatoes
+<block:tfc:crop/red_bell_pepper>, Red Bell Peppers
+<block:tfc:crop/rice>, Rice
+<block:tfc:crop/rye>, Rye
+<block:tfc:crop/soybean>, Soybeans
+<block:tfc:crop/squash>, Squash
+<block:tfc:crop/sugarcane>, Sugarcane
+<block:tfc:crop/tomato>, Tomatoes
+<block:tfc:crop/wheat>, Wheat
+<block:tfc:crop/yellow_bell_pepper>, Yellow Bell Peppers
+<block:tfc:crucible>, Crucible
+<block:tfc:dead_crop/barley>, tile.tfc.dead_crop.barley.name
+<block:tfc:dead_crop/beet>, tile.tfc.dead_crop.beet.name
+<block:tfc:dead_crop/cabbage>, tile.tfc.dead_crop.cabbage.name
+<block:tfc:dead_crop/carrot>, tile.tfc.dead_crop.carrot.name
+<block:tfc:dead_crop/garlic>, tile.tfc.dead_crop.garlic.name
+<block:tfc:dead_crop/green_bean>, tile.tfc.dead_crop.green_bean.name
+<block:tfc:dead_crop/jute>, tile.tfc.dead_crop.jute.name
+<block:tfc:dead_crop/maize>, tile.tfc.dead_crop.maize.name
+<block:tfc:dead_crop/oat>, tile.tfc.dead_crop.oat.name
+<block:tfc:dead_crop/onion>, tile.tfc.dead_crop.onion.name
+<block:tfc:dead_crop/potato>, tile.tfc.dead_crop.potato.name
+<block:tfc:dead_crop/red_bell_pepper>, tile.tfc.dead_crop.red_bell_pepper.name
+<block:tfc:dead_crop/rice>, tile.tfc.dead_crop.rice.name
+<block:tfc:dead_crop/rye>, tile.tfc.dead_crop.rye.name
+<block:tfc:dead_crop/soybean>, tile.tfc.dead_crop.soybean.name
+<block:tfc:dead_crop/squash>, tile.tfc.dead_crop.squash.name
+<block:tfc:dead_crop/sugarcane>, tile.tfc.dead_crop.sugarcane.name
+<block:tfc:dead_crop/tomato>, tile.tfc.dead_crop.tomato.name
+<block:tfc:dead_crop/wheat>, tile.tfc.dead_crop.wheat.name
+<block:tfc:dead_crop/yellow_bell_pepper>, tile.tfc.dead_crop.yellow_bell_pepper.name
+<block:tfc:debug>, TFC Debug Block
+<block:tfc:dirt/andesite>, Andesite Dirt
+<block:tfc:dirt/basalt>, Basalt Dirt
+<block:tfc:dirt/chalk>, Chalk Dirt
+<block:tfc:dirt/chert>, Chert Dirt
+<block:tfc:dirt/claystone>, Claystone Dirt
+<block:tfc:dirt/conglomerate>, Conglomerate Dirt
+<block:tfc:dirt/dacite>, Dacite Dirt
+<block:tfc:dirt/diorite>, Diorite Dirt
+<block:tfc:dirt/dolomite>, Dolomite Dirt
+<block:tfc:dirt/gabbro>, Gabbro Dirt
+<block:tfc:dirt/gneiss>, Gneiss Dirt
+<block:tfc:dirt/granite>, Granite Dirt
+<block:tfc:dirt/limestone>, Limestone Dirt
+<block:tfc:dirt/marble>, Marble Dirt
+<block:tfc:dirt/phyllite>, Phyllite Dirt
+<block:tfc:dirt/quartzite>, Quartzite Dirt
+<block:tfc:dirt/rhyolite>, Rhyolite Dirt
+<block:tfc:dirt/rocksalt>, Rocksalt Dirt
+<block:tfc:dirt/schist>, Schist Dirt
+<block:tfc:dirt/shale>, Shale Dirt
+<block:tfc:dirt/slate>, Slate Dirt
+<block:tfc:double_slab/bricks/andesite>, Andesite Brick Double Slab
+<block:tfc:double_slab/bricks/basalt>, Basalt Brick Double Slab
+<block:tfc:double_slab/bricks/chalk>, Chalk Brick Double Slab
+<block:tfc:double_slab/bricks/chert>, Chert Brick Double Slab
+<block:tfc:double_slab/bricks/claystone>, Claystone Brick Double Slab
+<block:tfc:double_slab/bricks/conglomerate>, Conglomerate Brick Double Slab
+<block:tfc:double_slab/bricks/dacite>, Dacite Brick Double Slab
+<block:tfc:double_slab/bricks/diorite>, Diorite Brick Double Slab
+<block:tfc:double_slab/bricks/dolomite>, Dolomite Brick Double Slab
+<block:tfc:double_slab/bricks/gabbro>, Gabbro Brick Double Slab
+<block:tfc:double_slab/bricks/gneiss>, Gneiss Brick Double Slab
+<block:tfc:double_slab/bricks/granite>, Granite Brick Double Slab
+<block:tfc:double_slab/bricks/limestone>, Limestone Brick Double Slab
+<block:tfc:double_slab/bricks/marble>, Marble Brick Double Slab
+<block:tfc:double_slab/bricks/phyllite>, Phyllite Brick Double Slab
+<block:tfc:double_slab/bricks/quartzite>, Quartzite Brick Double Slab
+<block:tfc:double_slab/bricks/rhyolite>, Rhyolite Brick Double Slab
+<block:tfc:double_slab/bricks/rocksalt>, Rocksalt Brick Double Slab
+<block:tfc:double_slab/bricks/schist>, Schist Brick Double Slab
+<block:tfc:double_slab/bricks/shale>, Shale Brick Double Slab
+<block:tfc:double_slab/bricks/slate>, Slate Brick Double Slab
+<block:tfc:double_slab/cobble/andesite>, Andesite Cobble Double Slab
+<block:tfc:double_slab/cobble/basalt>, Basalt Cobble Double Slab
+<block:tfc:double_slab/cobble/chalk>, Chalk Cobble Double Slab
+<block:tfc:double_slab/cobble/chert>, Chert Cobble Double Slab
+<block:tfc:double_slab/cobble/claystone>, Claystone Cobble Double Slab
+<block:tfc:double_slab/cobble/conglomerate>, Conglomerate Cobble Double Slab
+<block:tfc:double_slab/cobble/dacite>, Dacite Cobble Double Slab
+<block:tfc:double_slab/cobble/diorite>, Diorite Cobble Double Slab
+<block:tfc:double_slab/cobble/dolomite>, Dolomite Cobble Double Slab
+<block:tfc:double_slab/cobble/gabbro>, Gabbro Cobble Double Slab
+<block:tfc:double_slab/cobble/gneiss>, Gneiss Cobble Double Slab
+<block:tfc:double_slab/cobble/granite>, Granite Cobble Double Slab
+<block:tfc:double_slab/cobble/limestone>, Limestone Cobble Double Slab
+<block:tfc:double_slab/cobble/marble>, Marble Cobble Double Slab
+<block:tfc:double_slab/cobble/phyllite>, Phyllite Cobble Double Slab
+<block:tfc:double_slab/cobble/quartzite>, Quartzite Cobble Double Slab
+<block:tfc:double_slab/cobble/rhyolite>, Rhyolite Cobble Double Slab
+<block:tfc:double_slab/cobble/rocksalt>, Rocksalt Cobble Double Slab
+<block:tfc:double_slab/cobble/schist>, Schist Cobble Double Slab
+<block:tfc:double_slab/cobble/shale>, Shale Cobble Double Slab
+<block:tfc:double_slab/cobble/slate>, Slate Cobble Double Slab
+<block:tfc:double_slab/smooth/andesite>, Smooth Andesite Double Slab
+<block:tfc:double_slab/smooth/basalt>, Smooth Basalt Double Slab
+<block:tfc:double_slab/smooth/chalk>, Smooth Chalk Double Slab
+<block:tfc:double_slab/smooth/chert>, Smooth Chert Double Slab
+<block:tfc:double_slab/smooth/claystone>, Smooth Claystone Double Slab
+<block:tfc:double_slab/smooth/conglomerate>, Smooth Conglomerate Double Slab
+<block:tfc:double_slab/smooth/dacite>, Smooth Dacite Double Slab
+<block:tfc:double_slab/smooth/diorite>, Smooth Diorite Double Slab
+<block:tfc:double_slab/smooth/dolomite>, Smooth Dolomite Double Slab
+<block:tfc:double_slab/smooth/gabbro>, Smooth Gabbro Double Slab
+<block:tfc:double_slab/smooth/gneiss>, Smooth Gneiss Double Slab
+<block:tfc:double_slab/smooth/granite>, Smooth Granite Double Slab
+<block:tfc:double_slab/smooth/limestone>, Smooth Limestone Double Slab
+<block:tfc:double_slab/smooth/marble>, Smooth Marble Double Slab
+<block:tfc:double_slab/smooth/phyllite>, Smooth Phyllite Double Slab
+<block:tfc:double_slab/smooth/quartzite>, Smooth Quartzite Double Slab
+<block:tfc:double_slab/smooth/rhyolite>, Smooth Rhyolite Double Slab
+<block:tfc:double_slab/smooth/rocksalt>, Smooth Rocksalt Double Slab
+<block:tfc:double_slab/smooth/schist>, Smooth Schist Double Slab
+<block:tfc:double_slab/smooth/shale>, Smooth Shale Double Slab
+<block:tfc:double_slab/smooth/slate>, Smooth Slate Double Slab
+<block:tfc:double_slab/wood/acacia>, Acacia Double Slab
+<block:tfc:double_slab/wood/ash>, Ash Double Slab
+<block:tfc:double_slab/wood/aspen>, Aspen Double Slab
+<block:tfc:double_slab/wood/birch>, Birch Double Slab
+<block:tfc:double_slab/wood/blackwood>, Blackwood Double Slab
+<block:tfc:double_slab/wood/chestnut>, Chestnut Double Slab
+<block:tfc:double_slab/wood/douglas_fir>, Douglas Fir Double Slab
+<block:tfc:double_slab/wood/hickory>, Hickory Double Slab
+<block:tfc:double_slab/wood/kapok>, Kapok Double Slab
+<block:tfc:double_slab/wood/maple>, Maple Double Slab
+<block:tfc:double_slab/wood/oak>, Oak Double Slab
+<block:tfc:double_slab/wood/palm>, Palm Double Slab
+<block:tfc:double_slab/wood/pine>, Pine Double Slab
+<block:tfc:double_slab/wood/rosewood>, Rosewood Double Slab
+<block:tfc:double_slab/wood/sequoia>, Sequoia Double Slab
+<block:tfc:double_slab/wood/spruce>, Spruce Double Slab
+<block:tfc:double_slab/wood/sycamore>, Sycamore Double Slab
+<block:tfc:double_slab/wood/white_cedar>, White Cedar Double Slab
+<block:tfc:double_slab/wood/willow>, Willow Double Slab
+<block:tfc:dry_grass/andesite>, Dry Andesite Grass
+<block:tfc:dry_grass/basalt>, Dry Basalt Grass
+<block:tfc:dry_grass/chalk>, Dry Chalk Grass
+<block:tfc:dry_grass/chert>, Dry Chert Grass
+<block:tfc:dry_grass/claystone>, Dry Claystone Grass
+<block:tfc:dry_grass/conglomerate>, Dry Conglomerate Grass
+<block:tfc:dry_grass/dacite>, Dry Dacite Grass
+<block:tfc:dry_grass/diorite>, Dry Diorite Grass
+<block:tfc:dry_grass/dolomite>, Dry Dolomite Grass
+<block:tfc:dry_grass/gabbro>, Dry Gabbro Grass
+<block:tfc:dry_grass/gneiss>, Dry Gneiss Grass
+<block:tfc:dry_grass/granite>, Dry Granite Grass
+<block:tfc:dry_grass/limestone>, Dry Limestone Grass
+<block:tfc:dry_grass/marble>, Dry Marble Grass
+<block:tfc:dry_grass/phyllite>, Dry Phyllite Grass
+<block:tfc:dry_grass/quartzite>, Dry Quartzite Grass
+<block:tfc:dry_grass/rhyolite>, Dry Rhyolite Grass
+<block:tfc:dry_grass/rocksalt>, Dry Rocksalt Grass
+<block:tfc:dry_grass/schist>, Dry Schist Grass
+<block:tfc:dry_grass/shale>, Dry Shale Grass
+<block:tfc:dry_grass/slate>, Dry Slate Grass
+<block:tfc:farmland/andesite>, Andesite Farmland
+<block:tfc:farmland/basalt>, Basalt Farmland
+<block:tfc:farmland/chalk>, Chalk Farmland
+<block:tfc:farmland/chert>, Chert Farmland
+<block:tfc:farmland/claystone>, Claystone Farmland
+<block:tfc:farmland/conglomerate>, Conglomerate Farmland
+<block:tfc:farmland/dacite>, Dacite Farmland
+<block:tfc:farmland/diorite>, Diorite Farmland
+<block:tfc:farmland/dolomite>, Dolomite Farmland
+<block:tfc:farmland/gabbro>, Gabbro Farmland
+<block:tfc:farmland/gneiss>, Gneiss Farmland
+<block:tfc:farmland/granite>, Granite Farmland
+<block:tfc:farmland/limestone>, Limestone Farmland
+<block:tfc:farmland/marble>, Marble Farmland
+<block:tfc:farmland/phyllite>, Phyllite Farmland
+<block:tfc:farmland/quartzite>, Quartzite Farmland
+<block:tfc:farmland/rhyolite>, Rhyolite Farmland
+<block:tfc:farmland/rocksalt>, Rocksalt Farmland
+<block:tfc:farmland/schist>, Schist Farmland
+<block:tfc:farmland/shale>, Shale Farmland
+<block:tfc:farmland/slate>, Slate Farmland
+<block:tfc:fire_bricks>, Fire Bricks
+<block:tfc:fire_clay_block>, Fire Clay
+<block:tfc:firepit>, Firepit
+<block:tfc:flowerpot/allium>, tile.tfc.flowerpot.allium.name
+<block:tfc:flowerpot/athyrium_fern>, tile.tfc.flowerpot.athyrium_fern.name
+<block:tfc:flowerpot/barrel_cactus>, tile.tfc.flowerpot.barrel_cactus.name
+<block:tfc:flowerpot/black_orchid>, tile.tfc.flowerpot.black_orchid.name
+<block:tfc:flowerpot/blood_lily>, tile.tfc.flowerpot.blood_lily.name
+<block:tfc:flowerpot/blue_orchid>, tile.tfc.flowerpot.blue_orchid.name
+<block:tfc:flowerpot/butterfly_milkweed>, tile.tfc.flowerpot.butterfly_milkweed.name
+<block:tfc:flowerpot/calendula>, tile.tfc.flowerpot.calendula.name
+<block:tfc:flowerpot/canna>, tile.tfc.flowerpot.canna.name
+<block:tfc:flowerpot/dandelion>, tile.tfc.flowerpot.dandelion.name
+<block:tfc:flowerpot/field_horsetail>, tile.tfc.flowerpot.field_horsetail.name
+<block:tfc:flowerpot/foxglove>, tile.tfc.flowerpot.foxglove.name
+<block:tfc:flowerpot/goldenrod>, tile.tfc.flowerpot.goldenrod.name
+<block:tfc:flowerpot/grape_hyacinth>, tile.tfc.flowerpot.grape_hyacinth.name
+<block:tfc:flowerpot/houstonia>, tile.tfc.flowerpot.houstonia.name
+<block:tfc:flowerpot/labrador_tea>, tile.tfc.flowerpot.labrador_tea.name
+<block:tfc:flowerpot/lady_fern>, tile.tfc.flowerpot.lady_fern.name
+<block:tfc:flowerpot/meads_milkweed>, tile.tfc.flowerpot.meads_milkweed.name
+<block:tfc:flowerpot/morning_glory>, tile.tfc.flowerpot.morning_glory.name
+<block:tfc:flowerpot/moss>, tile.tfc.flowerpot.moss.name
+<block:tfc:flowerpot/nasturtium>, tile.tfc.flowerpot.nasturtium.name
+<block:tfc:flowerpot/ostrich_fern>, tile.tfc.flowerpot.ostrich_fern.name
+<block:tfc:flowerpot/oxeye_daisy>, tile.tfc.flowerpot.oxeye_daisy.name
+<block:tfc:flowerpot/perovskia>, tile.tfc.flowerpot.perovskia.name
+<block:tfc:flowerpot/poppy>, tile.tfc.flowerpot.poppy.name
+<block:tfc:flowerpot/porcini>, tile.tfc.flowerpot.porcini.name
+<block:tfc:flowerpot/primrose>, tile.tfc.flowerpot.primrose.name
+<block:tfc:flowerpot/pulsatilla>, tile.tfc.flowerpot.pulsatilla.name
+<block:tfc:flowerpot/reindeer_lichen>, tile.tfc.flowerpot.reindeer_lichen.name
+<block:tfc:flowerpot/rose>, tile.tfc.flowerpot.rose.name
+<block:tfc:flowerpot/sacred_datura>, tile.tfc.flowerpot.sacred_datura.name
+<block:tfc:flowerpot/sagebrush>, tile.tfc.flowerpot.sagebrush.name
+<block:tfc:flowerpot/sapphire_tower>, tile.tfc.flowerpot.sapphire_tower.name
+<block:tfc:flowerpot/snapdragon_pink>, tile.tfc.flowerpot.snapdragon_pink.name
+<block:tfc:flowerpot/snapdragon_red>, tile.tfc.flowerpot.snapdragon_red.name
+<block:tfc:flowerpot/snapdragon_white>, tile.tfc.flowerpot.snapdragon_white.name
+<block:tfc:flowerpot/snapdragon_yellow>, tile.tfc.flowerpot.snapdragon_yellow.name
+<block:tfc:flowerpot/strelitzia>, tile.tfc.flowerpot.strelitzia.name
+<block:tfc:flowerpot/sword_fern>, tile.tfc.flowerpot.sword_fern.name
+<block:tfc:flowerpot/toquilla_palm>, tile.tfc.flowerpot.toquilla_palm.name
+<block:tfc:flowerpot/tree_fern>, tile.tfc.flowerpot.tree_fern.name
+<block:tfc:flowerpot/trillium>, tile.tfc.flowerpot.trillium.name
+<block:tfc:flowerpot/tropical_milkweed>, tile.tfc.flowerpot.tropical_milkweed.name
+<block:tfc:flowerpot/tulip_orange>, tile.tfc.flowerpot.tulip_orange.name
+<block:tfc:flowerpot/tulip_pink>, tile.tfc.flowerpot.tulip_pink.name
+<block:tfc:flowerpot/tulip_red>, tile.tfc.flowerpot.tulip_red.name
+<block:tfc:flowerpot/tulip_white>, tile.tfc.flowerpot.tulip_white.name
+<block:tfc:flowerpot/yucca>, tile.tfc.flowerpot.yucca.name
+<block:tfc:fluid/beer>, tile.tfc.fluid.beer.name
+<block:tfc:fluid/bismuth>, tile.tfc.fluid.bismuth.name
+<block:tfc:fluid/bismuth_bronze>, tile.tfc.fluid.bismuth_bronze.name
+<block:tfc:fluid/black_bronze>, tile.tfc.fluid.black_bronze.name
+<block:tfc:fluid/black_dye>, tile.tfc.fluid.black_dye.name
+<block:tfc:fluid/black_steel>, tile.tfc.fluid.black_steel.name
+<block:tfc:fluid/blue_dye>, tile.tfc.fluid.blue_dye.name
+<block:tfc:fluid/blue_steel>, tile.tfc.fluid.blue_steel.name
+<block:tfc:fluid/brass>, tile.tfc.fluid.brass.name
+<block:tfc:fluid/brine>, tile.tfc.fluid.brine.name
+<block:tfc:fluid/bronze>, tile.tfc.fluid.bronze.name
+<block:tfc:fluid/brown_dye>, tile.tfc.fluid.brown_dye.name
+<block:tfc:fluid/cider>, tile.tfc.fluid.cider.name
+<block:tfc:fluid/copper>, tile.tfc.fluid.copper.name
+<block:tfc:fluid/corn_whiskey>, tile.tfc.fluid.corn_whiskey.name
+<block:tfc:fluid/cyan_dye>, tile.tfc.fluid.cyan_dye.name
+<block:tfc:fluid/fresh_water>, tile.tfc.fluid.fresh_water.name
+<block:tfc:fluid/gold>, tile.tfc.fluid.gold.name
+<block:tfc:fluid/gray_dye>, tile.tfc.fluid.gray_dye.name
+<block:tfc:fluid/green_dye>, tile.tfc.fluid.green_dye.name
+<block:tfc:fluid/high_carbon_black_steel>, tile.tfc.fluid.high_carbon_black_steel.name
+<block:tfc:fluid/high_carbon_blue_steel>, tile.tfc.fluid.high_carbon_blue_steel.name
+<block:tfc:fluid/high_carbon_red_steel>, tile.tfc.fluid.high_carbon_red_steel.name
+<block:tfc:fluid/high_carbon_steel>, tile.tfc.fluid.high_carbon_steel.name
+<block:tfc:fluid/hot_water>, tile.tfc.fluid.hot_water.name
+<block:tfc:fluid/lead>, tile.tfc.fluid.lead.name
+<block:tfc:fluid/light_blue_dye>, tile.tfc.fluid.light_blue_dye.name
+<block:tfc:fluid/light_gray_dye>, tile.tfc.fluid.light_gray_dye.name
+<block:tfc:fluid/lime_dye>, tile.tfc.fluid.lime_dye.name
+<block:tfc:fluid/limewater>, tile.tfc.fluid.limewater.name
+<block:tfc:fluid/lye>, tile.tfc.fluid.lye.name
+<block:tfc:fluid/magenta_dye>, tile.tfc.fluid.magenta_dye.name
+<block:tfc:fluid/milk>, tile.tfc.fluid.milk.name
+<block:tfc:fluid/milk_curdled>, tile.tfc.fluid.milk_curdled.name
+<block:tfc:fluid/milk_vinegar>, tile.tfc.fluid.milk_vinegar.name
+<block:tfc:fluid/nickel>, tile.tfc.fluid.nickel.name
+<block:tfc:fluid/olive_oil>, tile.tfc.fluid.olive_oil.name
+<block:tfc:fluid/olive_oil_water>, tile.tfc.fluid.olive_oil_water.name
+<block:tfc:fluid/orange_dye>, tile.tfc.fluid.orange_dye.name
+<block:tfc:fluid/pig_iron>, tile.tfc.fluid.pig_iron.name
+<block:tfc:fluid/pink_dye>, tile.tfc.fluid.pink_dye.name
+<block:tfc:fluid/platinum>, tile.tfc.fluid.platinum.name
+<block:tfc:fluid/purple_dye>, tile.tfc.fluid.purple_dye.name
+<block:tfc:fluid/red_dye>, tile.tfc.fluid.red_dye.name
+<block:tfc:fluid/red_steel>, tile.tfc.fluid.red_steel.name
+<block:tfc:fluid/rose_gold>, tile.tfc.fluid.rose_gold.name
+<block:tfc:fluid/rum>, tile.tfc.fluid.rum.name
+<block:tfc:fluid/rye_whiskey>, tile.tfc.fluid.rye_whiskey.name
+<block:tfc:fluid/sake>, tile.tfc.fluid.sake.name
+<block:tfc:fluid/salt_water>, tile.tfc.fluid.salt_water.name
+<block:tfc:fluid/silver>, tile.tfc.fluid.silver.name
+<block:tfc:fluid/steel>, tile.tfc.fluid.steel.name
+<block:tfc:fluid/sterling_silver>, tile.tfc.fluid.sterling_silver.name
+<block:tfc:fluid/tannin>, tile.tfc.fluid.tannin.name
+<block:tfc:fluid/tin>, tile.tfc.fluid.tin.name
+<block:tfc:fluid/unknown>, tile.tfc.fluid.unknown.name
+<block:tfc:fluid/vinegar>, tile.tfc.fluid.vinegar.name
+<block:tfc:fluid/vodka>, tile.tfc.fluid.vodka.name
+<block:tfc:fluid/weak_blue_steel>, tile.tfc.fluid.weak_blue_steel.name
+<block:tfc:fluid/weak_red_steel>, tile.tfc.fluid.weak_red_steel.name
+<block:tfc:fluid/weak_steel>, tile.tfc.fluid.weak_steel.name
+<block:tfc:fluid/whiskey>, tile.tfc.fluid.whiskey.name
+<block:tfc:fluid/white_dye>, tile.tfc.fluid.white_dye.name
+<block:tfc:fluid/wrought_iron>, tile.tfc.fluid.wrought_iron.name
+<block:tfc:fluid/yellow_dye>, tile.tfc.fluid.yellow_dye.name
+<block:tfc:fluid/zinc>, tile.tfc.fluid.zinc.name
+<block:tfc:fruit_trees/branch/banana>, tile.tfc.fruit_trees.branch.banana.name
+<block:tfc:fruit_trees/branch/cherry>, tile.tfc.fruit_trees.branch.cherry.name
+<block:tfc:fruit_trees/branch/green_apple>, tile.tfc.fruit_trees.branch.green_apple.name
+<block:tfc:fruit_trees/branch/lemon>, tile.tfc.fruit_trees.branch.lemon.name
+<block:tfc:fruit_trees/branch/olive>, tile.tfc.fruit_trees.branch.olive.name
+<block:tfc:fruit_trees/branch/orange>, tile.tfc.fruit_trees.branch.orange.name
+<block:tfc:fruit_trees/branch/peach>, tile.tfc.fruit_trees.branch.peach.name
+<block:tfc:fruit_trees/branch/plum>, tile.tfc.fruit_trees.branch.plum.name
+<block:tfc:fruit_trees/branch/red_apple>, tile.tfc.fruit_trees.branch.red_apple.name
+<block:tfc:fruit_trees/leaves/banana>, Banana Leaves
+<block:tfc:fruit_trees/leaves/cherry>, Cherry Leaves
+<block:tfc:fruit_trees/leaves/green_apple>, Green Apple Leaves
+<block:tfc:fruit_trees/leaves/lemon>, Lemon Leaves
+<block:tfc:fruit_trees/leaves/olive>, Olive Leaves
+<block:tfc:fruit_trees/leaves/orange>, Orange Leaves
+<block:tfc:fruit_trees/leaves/peach>, Peach Leaves
+<block:tfc:fruit_trees/leaves/plum>, Plum Leaves
+<block:tfc:fruit_trees/leaves/red_apple>, Red Apple Leaves
+<block:tfc:fruit_trees/sapling/banana>, Banana Sapling
+<block:tfc:fruit_trees/sapling/cherry>, Cherry Sapling
+<block:tfc:fruit_trees/sapling/green_apple>, Green Apple Sapling
+<block:tfc:fruit_trees/sapling/lemon>, Lemon Sapling
+<block:tfc:fruit_trees/sapling/olive>, Olive Sapling
+<block:tfc:fruit_trees/sapling/orange>, Orange Sapling
+<block:tfc:fruit_trees/sapling/peach>, Peach Sapling
+<block:tfc:fruit_trees/sapling/plum>, Plum Sapling
+<block:tfc:fruit_trees/sapling/red_apple>, Red Apple Sapling
+<block:tfc:fruit_trees/trunk/banana>, tile.tfc.fruit_trees.trunk.banana.name
+<block:tfc:fruit_trees/trunk/cherry>, tile.tfc.fruit_trees.trunk.cherry.name
+<block:tfc:fruit_trees/trunk/green_apple>, tile.tfc.fruit_trees.trunk.green_apple.name
+<block:tfc:fruit_trees/trunk/lemon>, tile.tfc.fruit_trees.trunk.lemon.name
+<block:tfc:fruit_trees/trunk/olive>, tile.tfc.fruit_trees.trunk.olive.name
+<block:tfc:fruit_trees/trunk/orange>, tile.tfc.fruit_trees.trunk.orange.name
+<block:tfc:fruit_trees/trunk/peach>, tile.tfc.fruit_trees.trunk.peach.name
+<block:tfc:fruit_trees/trunk/plum>, tile.tfc.fruit_trees.trunk.plum.name
+<block:tfc:fruit_trees/trunk/red_apple>, tile.tfc.fruit_trees.trunk.red_apple.name
+<block:tfc:grass/andesite>, Andesite Grass
+<block:tfc:grass/basalt>, Basalt Grass
+<block:tfc:grass/chalk>, Chalk Grass
+<block:tfc:grass/chert>, Chert Grass
+<block:tfc:grass/claystone>, Claystone Grass
+<block:tfc:grass/conglomerate>, Conglomerate Grass
+<block:tfc:grass/dacite>, Dacite Grass
+<block:tfc:grass/diorite>, Diorite Grass
+<block:tfc:grass/dolomite>, Dolomite Grass
+<block:tfc:grass/gabbro>, Gabbro Grass
+<block:tfc:grass/gneiss>, Gneiss Grass
+<block:tfc:grass/granite>, Granite Grass
+<block:tfc:grass/limestone>, Limestone Grass
+<block:tfc:grass/marble>, Marble Grass
+<block:tfc:grass/phyllite>, Phyllite Grass
+<block:tfc:grass/quartzite>, Quartzite Grass
+<block:tfc:grass/rhyolite>, Rhyolite Grass
+<block:tfc:grass/rocksalt>, Rocksalt Grass
+<block:tfc:grass/schist>, Schist Grass
+<block:tfc:grass/shale>, Shale Grass
+<block:tfc:grass/slate>, Slate Grass
+<block:tfc:gravel/andesite>, Andesite Gravel
+<block:tfc:gravel/basalt>, Basalt Gravel
+<block:tfc:gravel/chalk>, Chalk Gravel
+<block:tfc:gravel/chert>, Chert Gravel
+<block:tfc:gravel/claystone>, Claystone Gravel
+<block:tfc:gravel/conglomerate>, Conglomerate Gravel
+<block:tfc:gravel/dacite>, Dacite Gravel
+<block:tfc:gravel/diorite>, Diorite Gravel
+<block:tfc:gravel/dolomite>, Dolomite Gravel
+<block:tfc:gravel/gabbro>, Gabbro Gravel
+<block:tfc:gravel/gneiss>, Gneiss Gravel
+<block:tfc:gravel/granite>, Granite Gravel
+<block:tfc:gravel/limestone>, Limestone Gravel
+<block:tfc:gravel/marble>, Marble Gravel
+<block:tfc:gravel/phyllite>, Phyllite Gravel
+<block:tfc:gravel/quartzite>, Quartzite Gravel
+<block:tfc:gravel/rhyolite>, Rhyolite Gravel
+<block:tfc:gravel/rocksalt>, Rocksalt Gravel
+<block:tfc:gravel/schist>, Schist Gravel
+<block:tfc:gravel/shale>, Shale Gravel
+<block:tfc:gravel/slate>, Slate Gravel
+<block:tfc:ingot_pile>, tile.tfc.ingot_pile.name
+<block:tfc:lamp/bismuth>, Bismuth Lamp
+<block:tfc:lamp/bismuth_bronze>, Bismuth Bronze Lamp
+<block:tfc:lamp/black_bronze>, Black Bronze Lamp
+<block:tfc:lamp/black_steel>, Black Steel Lamp
+<block:tfc:lamp/blue_steel>, Blue Steel Lamp
+<block:tfc:lamp/brass>, Brass Lamp
+<block:tfc:lamp/bronze>, Bronze Lamp
+<block:tfc:lamp/copper>, Copper Lamp
+<block:tfc:lamp/gold>, Gold Lamp
+<block:tfc:lamp/lead>, Lead Lamp
+<block:tfc:lamp/nickel>, Nickel Lamp
+<block:tfc:lamp/pig_iron>, Pig Iron Lamp
+<block:tfc:lamp/platinum>, Platinum Lamp
+<block:tfc:lamp/red_steel>, Red Steel Lamp
+<block:tfc:lamp/rose_gold>, Rose Gold Lamp
+<block:tfc:lamp/silver>, Silver Lamp
+<block:tfc:lamp/steel>, Steel Lamp
+<block:tfc:lamp/sterling_silver>, Sterling Silver Lamp
+<block:tfc:lamp/tin>, Tin Lamp
+<block:tfc:lamp/wrought_iron>, Wrought Iron Lamp
+<block:tfc:lamp/zinc>, Zinc Lamp
+<block:tfc:log_pile>, tile.tfc.log_pile.name
+<block:tfc:molten>, tile.tfc.molten.name
+<block:tfc:nest_box>, Nest Box
+<block:tfc:ore/bismuthinite/andesite>, Andesite Bismuthinite
+<block:tfc:ore/bismuthinite/basalt>, Basalt Bismuthinite
+<block:tfc:ore/bismuthinite/chalk>, Chalk Bismuthinite
+<block:tfc:ore/bismuthinite/chert>, Chert Bismuthinite
+<block:tfc:ore/bismuthinite/claystone>, Claystone Bismuthinite
+<block:tfc:ore/bismuthinite/conglomerate>, Conglomerate Bismuthinite
+<block:tfc:ore/bismuthinite/dacite>, Dacite Bismuthinite
+<block:tfc:ore/bismuthinite/diorite>, Diorite Bismuthinite
+<block:tfc:ore/bismuthinite/dolomite>, Dolomite Bismuthinite
+<block:tfc:ore/bismuthinite/gabbro>, Gabbro Bismuthinite
+<block:tfc:ore/bismuthinite/gneiss>, Gneiss Bismuthinite
+<block:tfc:ore/bismuthinite/granite>, Granite Bismuthinite
+<block:tfc:ore/bismuthinite/limestone>, Limestone Bismuthinite
+<block:tfc:ore/bismuthinite/marble>, Marble Bismuthinite
+<block:tfc:ore/bismuthinite/phyllite>, Phyllite Bismuthinite
+<block:tfc:ore/bismuthinite/quartzite>, Quartzite Bismuthinite
+<block:tfc:ore/bismuthinite/rhyolite>, Rhyolite Bismuthinite
+<block:tfc:ore/bismuthinite/rocksalt>, Rocksalt Bismuthinite
+<block:tfc:ore/bismuthinite/schist>, Schist Bismuthinite
+<block:tfc:ore/bismuthinite/shale>, Shale Bismuthinite
+<block:tfc:ore/bismuthinite/slate>, Slate Bismuthinite
+<block:tfc:ore/bituminous_coal/andesite>, Andesite Bituminous Coal
+<block:tfc:ore/bituminous_coal/basalt>, Basalt Bituminous Coal
+<block:tfc:ore/bituminous_coal/chalk>, Chalk Bituminous Coal
+<block:tfc:ore/bituminous_coal/chert>, Chert Bituminous Coal
+<block:tfc:ore/bituminous_coal/claystone>, Claystone Bituminous Coal
+<block:tfc:ore/bituminous_coal/conglomerate>, Conglomerate Bituminous Coal
+<block:tfc:ore/bituminous_coal/dacite>, Dacite Bituminous Coal
+<block:tfc:ore/bituminous_coal/diorite>, Diorite Bituminous Coal
+<block:tfc:ore/bituminous_coal/dolomite>, Dolomite Bituminous Coal
+<block:tfc:ore/bituminous_coal/gabbro>, Gabbro Bituminous Coal
+<block:tfc:ore/bituminous_coal/gneiss>, Gneiss Bituminous Coal
+<block:tfc:ore/bituminous_coal/granite>, Granite Bituminous Coal
+<block:tfc:ore/bituminous_coal/limestone>, Limestone Bituminous Coal
+<block:tfc:ore/bituminous_coal/marble>, Marble Bituminous Coal
+<block:tfc:ore/bituminous_coal/phyllite>, Phyllite Bituminous Coal
+<block:tfc:ore/bituminous_coal/quartzite>, Quartzite Bituminous Coal
+<block:tfc:ore/bituminous_coal/rhyolite>, Rhyolite Bituminous Coal
+<block:tfc:ore/bituminous_coal/rocksalt>, Rocksalt Bituminous Coal
+<block:tfc:ore/bituminous_coal/schist>, Schist Bituminous Coal
+<block:tfc:ore/bituminous_coal/shale>, Shale Bituminous Coal
+<block:tfc:ore/bituminous_coal/slate>, Slate Bituminous Coal
+<block:tfc:ore/borax/andesite>, Andesite Borax
+<block:tfc:ore/borax/basalt>, Basalt Borax
+<block:tfc:ore/borax/chalk>, Chalk Borax
+<block:tfc:ore/borax/chert>, Chert Borax
+<block:tfc:ore/borax/claystone>, Claystone Borax
+<block:tfc:ore/borax/conglomerate>, Conglomerate Borax
+<block:tfc:ore/borax/dacite>, Dacite Borax
+<block:tfc:ore/borax/diorite>, Diorite Borax
+<block:tfc:ore/borax/dolomite>, Dolomite Borax
+<block:tfc:ore/borax/gabbro>, Gabbro Borax
+<block:tfc:ore/borax/gneiss>, Gneiss Borax
+<block:tfc:ore/borax/granite>, Granite Borax
+<block:tfc:ore/borax/limestone>, Limestone Borax
+<block:tfc:ore/borax/marble>, Marble Borax
+<block:tfc:ore/borax/phyllite>, Phyllite Borax
+<block:tfc:ore/borax/quartzite>, Quartzite Borax
+<block:tfc:ore/borax/rhyolite>, Rhyolite Borax
+<block:tfc:ore/borax/rocksalt>, Rocksalt Borax
+<block:tfc:ore/borax/schist>, Schist Borax
+<block:tfc:ore/borax/shale>, Shale Borax
+<block:tfc:ore/borax/slate>, Slate Borax
+<block:tfc:ore/cassiterite/andesite>, Andesite Cassiterite
+<block:tfc:ore/cassiterite/basalt>, Basalt Cassiterite
+<block:tfc:ore/cassiterite/chalk>, Chalk Cassiterite
+<block:tfc:ore/cassiterite/chert>, Chert Cassiterite
+<block:tfc:ore/cassiterite/claystone>, Claystone Cassiterite
+<block:tfc:ore/cassiterite/conglomerate>, Conglomerate Cassiterite
+<block:tfc:ore/cassiterite/dacite>, Dacite Cassiterite
+<block:tfc:ore/cassiterite/diorite>, Diorite Cassiterite
+<block:tfc:ore/cassiterite/dolomite>, Dolomite Cassiterite
+<block:tfc:ore/cassiterite/gabbro>, Gabbro Cassiterite
+<block:tfc:ore/cassiterite/gneiss>, Gneiss Cassiterite
+<block:tfc:ore/cassiterite/granite>, Granite Cassiterite
+<block:tfc:ore/cassiterite/limestone>, Limestone Cassiterite
+<block:tfc:ore/cassiterite/marble>, Marble Cassiterite
+<block:tfc:ore/cassiterite/phyllite>, Phyllite Cassiterite
+<block:tfc:ore/cassiterite/quartzite>, Quartzite Cassiterite
+<block:tfc:ore/cassiterite/rhyolite>, Rhyolite Cassiterite
+<block:tfc:ore/cassiterite/rocksalt>, Rocksalt Cassiterite
+<block:tfc:ore/cassiterite/schist>, Schist Cassiterite
+<block:tfc:ore/cassiterite/shale>, Shale Cassiterite
+<block:tfc:ore/cassiterite/slate>, Slate Cassiterite
+<block:tfc:ore/cinnabar/andesite>, Andesite Cinnabar
+<block:tfc:ore/cinnabar/basalt>, Basalt Cinnabar
+<block:tfc:ore/cinnabar/chalk>, Chalk Cinnabar
+<block:tfc:ore/cinnabar/chert>, Chert Cinnabar
+<block:tfc:ore/cinnabar/claystone>, Claystone Cinnabar
+<block:tfc:ore/cinnabar/conglomerate>, Conglomerate Cinnabar
+<block:tfc:ore/cinnabar/dacite>, Dacite Cinnabar
+<block:tfc:ore/cinnabar/diorite>, Diorite Cinnabar
+<block:tfc:ore/cinnabar/dolomite>, Dolomite Cinnabar
+<block:tfc:ore/cinnabar/gabbro>, Gabbro Cinnabar
+<block:tfc:ore/cinnabar/gneiss>, Gneiss Cinnabar
+<block:tfc:ore/cinnabar/granite>, Granite Cinnabar
+<block:tfc:ore/cinnabar/limestone>, Limestone Cinnabar
+<block:tfc:ore/cinnabar/marble>, Marble Cinnabar
+<block:tfc:ore/cinnabar/phyllite>, Phyllite Cinnabar
+<block:tfc:ore/cinnabar/quartzite>, Quartzite Cinnabar
+<block:tfc:ore/cinnabar/rhyolite>, Rhyolite Cinnabar
+<block:tfc:ore/cinnabar/rocksalt>, Rocksalt Cinnabar
+<block:tfc:ore/cinnabar/schist>, Schist Cinnabar
+<block:tfc:ore/cinnabar/shale>, Shale Cinnabar
+<block:tfc:ore/cinnabar/slate>, Slate Cinnabar
+<block:tfc:ore/cryolite/andesite>, Andesite Cryolite
+<block:tfc:ore/cryolite/basalt>, Basalt Cryolite
+<block:tfc:ore/cryolite/chalk>, Chalk Cryolite
+<block:tfc:ore/cryolite/chert>, Chert Cryolite
+<block:tfc:ore/cryolite/claystone>, Claystone Cryolite
+<block:tfc:ore/cryolite/conglomerate>, Conglomerate Cryolite
+<block:tfc:ore/cryolite/dacite>, Dacite Cryolite
+<block:tfc:ore/cryolite/diorite>, Diorite Cryolite
+<block:tfc:ore/cryolite/dolomite>, Dolomite Cryolite
+<block:tfc:ore/cryolite/gabbro>, Gabbro Cryolite
+<block:tfc:ore/cryolite/gneiss>, Gneiss Cryolite
+<block:tfc:ore/cryolite/granite>, Granite Cryolite
+<block:tfc:ore/cryolite/limestone>, Limestone Cryolite
+<block:tfc:ore/cryolite/marble>, Marble Cryolite
+<block:tfc:ore/cryolite/phyllite>, Phyllite Cryolite
+<block:tfc:ore/cryolite/quartzite>, Quartzite Cryolite
+<block:tfc:ore/cryolite/rhyolite>, Rhyolite Cryolite
+<block:tfc:ore/cryolite/rocksalt>, Rocksalt Cryolite
+<block:tfc:ore/cryolite/schist>, Schist Cryolite
+<block:tfc:ore/cryolite/shale>, Shale Cryolite
+<block:tfc:ore/cryolite/slate>, Slate Cryolite
+<block:tfc:ore/galena/andesite>, Andesite Galena
+<block:tfc:ore/galena/basalt>, Basalt Galena
+<block:tfc:ore/galena/chalk>, Chalk Galena
+<block:tfc:ore/galena/chert>, Chert Galena
+<block:tfc:ore/galena/claystone>, Claystone Galena
+<block:tfc:ore/galena/conglomerate>, Conglomerate Galena
+<block:tfc:ore/galena/dacite>, Dacite Galena
+<block:tfc:ore/galena/diorite>, Diorite Galena
+<block:tfc:ore/galena/dolomite>, Dolomite Galena
+<block:tfc:ore/galena/gabbro>, Gabbro Galena
+<block:tfc:ore/galena/gneiss>, Gneiss Galena
+<block:tfc:ore/galena/granite>, Granite Galena
+<block:tfc:ore/galena/limestone>, Limestone Galena
+<block:tfc:ore/galena/marble>, Marble Galena
+<block:tfc:ore/galena/phyllite>, Phyllite Galena
+<block:tfc:ore/galena/quartzite>, Quartzite Galena
+<block:tfc:ore/galena/rhyolite>, Rhyolite Galena
+<block:tfc:ore/galena/rocksalt>, Rocksalt Galena
+<block:tfc:ore/galena/schist>, Schist Galena
+<block:tfc:ore/galena/shale>, Shale Galena
+<block:tfc:ore/galena/slate>, Slate Galena
+<block:tfc:ore/garnierite/andesite>, Andesite Garnierite
+<block:tfc:ore/garnierite/basalt>, Basalt Garnierite
+<block:tfc:ore/garnierite/chalk>, Chalk Garnierite
+<block:tfc:ore/garnierite/chert>, Chert Garnierite
+<block:tfc:ore/garnierite/claystone>, Claystone Garnierite
+<block:tfc:ore/garnierite/conglomerate>, Conglomerate Garnierite
+<block:tfc:ore/garnierite/dacite>, Dacite Garnierite
+<block:tfc:ore/garnierite/diorite>, Diorite Garnierite
+<block:tfc:ore/garnierite/dolomite>, Dolomite Garnierite
+<block:tfc:ore/garnierite/gabbro>, Gabbro Garnierite
+<block:tfc:ore/garnierite/gneiss>, Gneiss Garnierite
+<block:tfc:ore/garnierite/granite>, Granite Garnierite
+<block:tfc:ore/garnierite/limestone>, Limestone Garnierite
+<block:tfc:ore/garnierite/marble>, Marble Garnierite
+<block:tfc:ore/garnierite/phyllite>, Phyllite Garnierite
+<block:tfc:ore/garnierite/quartzite>, Quartzite Garnierite
+<block:tfc:ore/garnierite/rhyolite>, Rhyolite Garnierite
+<block:tfc:ore/garnierite/rocksalt>, Rocksalt Garnierite
+<block:tfc:ore/garnierite/schist>, Schist Garnierite
+<block:tfc:ore/garnierite/shale>, Shale Garnierite
+<block:tfc:ore/garnierite/slate>, Slate Garnierite
+<block:tfc:ore/graphite/andesite>, Andesite Graphite
+<block:tfc:ore/graphite/basalt>, Basalt Graphite
+<block:tfc:ore/graphite/chalk>, Chalk Graphite
+<block:tfc:ore/graphite/chert>, Chert Graphite
+<block:tfc:ore/graphite/claystone>, Claystone Graphite
+<block:tfc:ore/graphite/conglomerate>, Conglomerate Graphite
+<block:tfc:ore/graphite/dacite>, Dacite Graphite
+<block:tfc:ore/graphite/diorite>, Diorite Graphite
+<block:tfc:ore/graphite/dolomite>, Dolomite Graphite
+<block:tfc:ore/graphite/gabbro>, Gabbro Graphite
+<block:tfc:ore/graphite/gneiss>, Gneiss Graphite
+<block:tfc:ore/graphite/granite>, Granite Graphite
+<block:tfc:ore/graphite/limestone>, Limestone Graphite
+<block:tfc:ore/graphite/marble>, Marble Graphite
+<block:tfc:ore/graphite/phyllite>, Phyllite Graphite
+<block:tfc:ore/graphite/quartzite>, Quartzite Graphite
+<block:tfc:ore/graphite/rhyolite>, Rhyolite Graphite
+<block:tfc:ore/graphite/rocksalt>, Rocksalt Graphite
+<block:tfc:ore/graphite/schist>, Schist Graphite
+<block:tfc:ore/graphite/shale>, Shale Graphite
+<block:tfc:ore/graphite/slate>, Slate Graphite
+<block:tfc:ore/gypsum/andesite>, Andesite Gypsum
+<block:tfc:ore/gypsum/basalt>, Basalt Gypsum
+<block:tfc:ore/gypsum/chalk>, Chalk Gypsum
+<block:tfc:ore/gypsum/chert>, Chert Gypsum
+<block:tfc:ore/gypsum/claystone>, Claystone Gypsum
+<block:tfc:ore/gypsum/conglomerate>, Conglomerate Gypsum
+<block:tfc:ore/gypsum/dacite>, Dacite Gypsum
+<block:tfc:ore/gypsum/diorite>, Diorite Gypsum
+<block:tfc:ore/gypsum/dolomite>, Dolomite Gypsum
+<block:tfc:ore/gypsum/gabbro>, Gabbro Gypsum
+<block:tfc:ore/gypsum/gneiss>, Gneiss Gypsum
+<block:tfc:ore/gypsum/granite>, Granite Gypsum
+<block:tfc:ore/gypsum/limestone>, Limestone Gypsum
+<block:tfc:ore/gypsum/marble>, Marble Gypsum
+<block:tfc:ore/gypsum/phyllite>, Phyllite Gypsum
+<block:tfc:ore/gypsum/quartzite>, Quartzite Gypsum
+<block:tfc:ore/gypsum/rhyolite>, Rhyolite Gypsum
+<block:tfc:ore/gypsum/rocksalt>, Rocksalt Gypsum
+<block:tfc:ore/gypsum/schist>, Schist Gypsum
+<block:tfc:ore/gypsum/shale>, Shale Gypsum
+<block:tfc:ore/gypsum/slate>, Slate Gypsum
+<block:tfc:ore/hematite/andesite>, Andesite Hematite
+<block:tfc:ore/hematite/basalt>, Basalt Hematite
+<block:tfc:ore/hematite/chalk>, Chalk Hematite
+<block:tfc:ore/hematite/chert>, Chert Hematite
+<block:tfc:ore/hematite/claystone>, Claystone Hematite
+<block:tfc:ore/hematite/conglomerate>, Conglomerate Hematite
+<block:tfc:ore/hematite/dacite>, Dacite Hematite
+<block:tfc:ore/hematite/diorite>, Diorite Hematite
+<block:tfc:ore/hematite/dolomite>, Dolomite Hematite
+<block:tfc:ore/hematite/gabbro>, Gabbro Hematite
+<block:tfc:ore/hematite/gneiss>, Gneiss Hematite
+<block:tfc:ore/hematite/granite>, Granite Hematite
+<block:tfc:ore/hematite/limestone>, Limestone Hematite
+<block:tfc:ore/hematite/marble>, Marble Hematite
+<block:tfc:ore/hematite/phyllite>, Phyllite Hematite
+<block:tfc:ore/hematite/quartzite>, Quartzite Hematite
+<block:tfc:ore/hematite/rhyolite>, Rhyolite Hematite
+<block:tfc:ore/hematite/rocksalt>, Rocksalt Hematite
+<block:tfc:ore/hematite/schist>, Schist Hematite
+<block:tfc:ore/hematite/shale>, Shale Hematite
+<block:tfc:ore/hematite/slate>, Slate Hematite
+<block:tfc:ore/jet/andesite>, Andesite Jet
+<block:tfc:ore/jet/basalt>, Basalt Jet
+<block:tfc:ore/jet/chalk>, Chalk Jet
+<block:tfc:ore/jet/chert>, Chert Jet
+<block:tfc:ore/jet/claystone>, Claystone Jet
+<block:tfc:ore/jet/conglomerate>, Conglomerate Jet
+<block:tfc:ore/jet/dacite>, Dacite Jet
+<block:tfc:ore/jet/diorite>, Diorite Jet
+<block:tfc:ore/jet/dolomite>, Dolomite Jet
+<block:tfc:ore/jet/gabbro>, Gabbro Jet
+<block:tfc:ore/jet/gneiss>, Gneiss Jet
+<block:tfc:ore/jet/granite>, Granite Jet
+<block:tfc:ore/jet/limestone>, Limestone Jet
+<block:tfc:ore/jet/marble>, Marble Jet
+<block:tfc:ore/jet/phyllite>, Phyllite Jet
+<block:tfc:ore/jet/quartzite>, Quartzite Jet
+<block:tfc:ore/jet/rhyolite>, Rhyolite Jet
+<block:tfc:ore/jet/rocksalt>, Rocksalt Jet
+<block:tfc:ore/jet/schist>, Schist Jet
+<block:tfc:ore/jet/shale>, Shale Jet
+<block:tfc:ore/jet/slate>, Slate Jet
+<block:tfc:ore/kaolinite/andesite>, Andesite Kaolinite
+<block:tfc:ore/kaolinite/basalt>, Basalt Kaolinite
+<block:tfc:ore/kaolinite/chalk>, Chalk Kaolinite
+<block:tfc:ore/kaolinite/chert>, Chert Kaolinite
+<block:tfc:ore/kaolinite/claystone>, Claystone Kaolinite
+<block:tfc:ore/kaolinite/conglomerate>, Conglomerate Kaolinite
+<block:tfc:ore/kaolinite/dacite>, Dacite Kaolinite
+<block:tfc:ore/kaolinite/diorite>, Diorite Kaolinite
+<block:tfc:ore/kaolinite/dolomite>, Dolomite Kaolinite
+<block:tfc:ore/kaolinite/gabbro>, Gabbro Kaolinite
+<block:tfc:ore/kaolinite/gneiss>, Gneiss Kaolinite
+<block:tfc:ore/kaolinite/granite>, Granite Kaolinite
+<block:tfc:ore/kaolinite/limestone>, Limestone Kaolinite
+<block:tfc:ore/kaolinite/marble>, Marble Kaolinite
+<block:tfc:ore/kaolinite/phyllite>, Phyllite Kaolinite
+<block:tfc:ore/kaolinite/quartzite>, Quartzite Kaolinite
+<block:tfc:ore/kaolinite/rhyolite>, Rhyolite Kaolinite
+<block:tfc:ore/kaolinite/rocksalt>, Rocksalt Kaolinite
+<block:tfc:ore/kaolinite/schist>, Schist Kaolinite
+<block:tfc:ore/kaolinite/shale>, Shale Kaolinite
+<block:tfc:ore/kaolinite/slate>, Slate Kaolinite
+<block:tfc:ore/kimberlite/andesite>, Andesite Kimberlite
+<block:tfc:ore/kimberlite/basalt>, Basalt Kimberlite
+<block:tfc:ore/kimberlite/chalk>, Chalk Kimberlite
+<block:tfc:ore/kimberlite/chert>, Chert Kimberlite
+<block:tfc:ore/kimberlite/claystone>, Claystone Kimberlite
+<block:tfc:ore/kimberlite/conglomerate>, Conglomerate Kimberlite
+<block:tfc:ore/kimberlite/dacite>, Dacite Kimberlite
+<block:tfc:ore/kimberlite/diorite>, Diorite Kimberlite
+<block:tfc:ore/kimberlite/dolomite>, Dolomite Kimberlite
+<block:tfc:ore/kimberlite/gabbro>, Gabbro Kimberlite
+<block:tfc:ore/kimberlite/gneiss>, Gneiss Kimberlite
+<block:tfc:ore/kimberlite/granite>, Granite Kimberlite
+<block:tfc:ore/kimberlite/limestone>, Limestone Kimberlite
+<block:tfc:ore/kimberlite/marble>, Marble Kimberlite
+<block:tfc:ore/kimberlite/phyllite>, Phyllite Kimberlite
+<block:tfc:ore/kimberlite/quartzite>, Quartzite Kimberlite
+<block:tfc:ore/kimberlite/rhyolite>, Rhyolite Kimberlite
+<block:tfc:ore/kimberlite/rocksalt>, Rocksalt Kimberlite
+<block:tfc:ore/kimberlite/schist>, Schist Kimberlite
+<block:tfc:ore/kimberlite/shale>, Shale Kimberlite
+<block:tfc:ore/kimberlite/slate>, Slate Kimberlite
+<block:tfc:ore/lapis_lazuli/andesite>, Andesite Lapis Lazuli
+<block:tfc:ore/lapis_lazuli/basalt>, Basalt Lapis Lazuli
+<block:tfc:ore/lapis_lazuli/chalk>, Chalk Lapis Lazuli
+<block:tfc:ore/lapis_lazuli/chert>, Chert Lapis Lazuli
+<block:tfc:ore/lapis_lazuli/claystone>, Claystone Lapis Lazuli
+<block:tfc:ore/lapis_lazuli/conglomerate>, Conglomerate Lapis Lazuli
+<block:tfc:ore/lapis_lazuli/dacite>, Dacite Lapis Lazuli
+<block:tfc:ore/lapis_lazuli/diorite>, Diorite Lapis Lazuli
+<block:tfc:ore/lapis_lazuli/dolomite>, Dolomite Lapis Lazuli
+<block:tfc:ore/lapis_lazuli/gabbro>, Gabbro Lapis Lazuli
+<block:tfc:ore/lapis_lazuli/gneiss>, Gneiss Lapis Lazuli
+<block:tfc:ore/lapis_lazuli/granite>, Granite Lapis Lazuli
+<block:tfc:ore/lapis_lazuli/limestone>, Limestone Lapis Lazuli
+<block:tfc:ore/lapis_lazuli/marble>, Marble Lapis Lazuli
+<block:tfc:ore/lapis_lazuli/phyllite>, Phyllite Lapis Lazuli
+<block:tfc:ore/lapis_lazuli/quartzite>, Quartzite Lapis Lazuli
+<block:tfc:ore/lapis_lazuli/rhyolite>, Rhyolite Lapis Lazuli
+<block:tfc:ore/lapis_lazuli/rocksalt>, Rocksalt Lapis Lazuli
+<block:tfc:ore/lapis_lazuli/schist>, Schist Lapis Lazuli
+<block:tfc:ore/lapis_lazuli/shale>, Shale Lapis Lazuli
+<block:tfc:ore/lapis_lazuli/slate>, Slate Lapis Lazuli
+<block:tfc:ore/lignite/andesite>, Andesite Lignite
+<block:tfc:ore/lignite/basalt>, Basalt Lignite
+<block:tfc:ore/lignite/chalk>, Chalk Lignite
+<block:tfc:ore/lignite/chert>, Chert Lignite
+<block:tfc:ore/lignite/claystone>, Claystone Lignite
+<block:tfc:ore/lignite/conglomerate>, Conglomerate Lignite
+<block:tfc:ore/lignite/dacite>, Dacite Lignite
+<block:tfc:ore/lignite/diorite>, Diorite Lignite
+<block:tfc:ore/lignite/dolomite>, Dolomite Lignite
+<block:tfc:ore/lignite/gabbro>, Gabbro Lignite
+<block:tfc:ore/lignite/gneiss>, Gneiss Lignite
+<block:tfc:ore/lignite/granite>, Granite Lignite
+<block:tfc:ore/lignite/limestone>, Limestone Lignite
+<block:tfc:ore/lignite/marble>, Marble Lignite
+<block:tfc:ore/lignite/phyllite>, Phyllite Lignite
+<block:tfc:ore/lignite/quartzite>, Quartzite Lignite
+<block:tfc:ore/lignite/rhyolite>, Rhyolite Lignite
+<block:tfc:ore/lignite/rocksalt>, Rocksalt Lignite
+<block:tfc:ore/lignite/schist>, Schist Lignite
+<block:tfc:ore/lignite/shale>, Shale Lignite
+<block:tfc:ore/lignite/slate>, Slate Lignite
+<block:tfc:ore/limonite/andesite>, Andesite Limonite
+<block:tfc:ore/limonite/basalt>, Basalt Limonite
+<block:tfc:ore/limonite/chalk>, Chalk Limonite
+<block:tfc:ore/limonite/chert>, Chert Limonite
+<block:tfc:ore/limonite/claystone>, Claystone Limonite
+<block:tfc:ore/limonite/conglomerate>, Conglomerate Limonite
+<block:tfc:ore/limonite/dacite>, Dacite Limonite
+<block:tfc:ore/limonite/diorite>, Diorite Limonite
+<block:tfc:ore/limonite/dolomite>, Dolomite Limonite
+<block:tfc:ore/limonite/gabbro>, Gabbro Limonite
+<block:tfc:ore/limonite/gneiss>, Gneiss Limonite
+<block:tfc:ore/limonite/granite>, Granite Limonite
+<block:tfc:ore/limonite/limestone>, Limestone Limonite
+<block:tfc:ore/limonite/marble>, Marble Limonite
+<block:tfc:ore/limonite/phyllite>, Phyllite Limonite
+<block:tfc:ore/limonite/quartzite>, Quartzite Limonite
+<block:tfc:ore/limonite/rhyolite>, Rhyolite Limonite
+<block:tfc:ore/limonite/rocksalt>, Rocksalt Limonite
+<block:tfc:ore/limonite/schist>, Schist Limonite
+<block:tfc:ore/limonite/shale>, Shale Limonite
+<block:tfc:ore/limonite/slate>, Slate Limonite
+<block:tfc:ore/magnetite/andesite>, Andesite Magnetite
+<block:tfc:ore/magnetite/basalt>, Basalt Magnetite
+<block:tfc:ore/magnetite/chalk>, Chalk Magnetite
+<block:tfc:ore/magnetite/chert>, Chert Magnetite
+<block:tfc:ore/magnetite/claystone>, Claystone Magnetite
+<block:tfc:ore/magnetite/conglomerate>, Conglomerate Magnetite
+<block:tfc:ore/magnetite/dacite>, Dacite Magnetite
+<block:tfc:ore/magnetite/diorite>, Diorite Magnetite
+<block:tfc:ore/magnetite/dolomite>, Dolomite Magnetite
+<block:tfc:ore/magnetite/gabbro>, Gabbro Magnetite
+<block:tfc:ore/magnetite/gneiss>, Gneiss Magnetite
+<block:tfc:ore/magnetite/granite>, Granite Magnetite
+<block:tfc:ore/magnetite/limestone>, Limestone Magnetite
+<block:tfc:ore/magnetite/marble>, Marble Magnetite
+<block:tfc:ore/magnetite/phyllite>, Phyllite Magnetite
+<block:tfc:ore/magnetite/quartzite>, Quartzite Magnetite
+<block:tfc:ore/magnetite/rhyolite>, Rhyolite Magnetite
+<block:tfc:ore/magnetite/rocksalt>, Rocksalt Magnetite
+<block:tfc:ore/magnetite/schist>, Schist Magnetite
+<block:tfc:ore/magnetite/shale>, Shale Magnetite
+<block:tfc:ore/magnetite/slate>, Slate Magnetite
+<block:tfc:ore/malachite/andesite>, Andesite Malachite
+<block:tfc:ore/malachite/basalt>, Basalt Malachite
+<block:tfc:ore/malachite/chalk>, Chalk Malachite
+<block:tfc:ore/malachite/chert>, Chert Malachite
+<block:tfc:ore/malachite/claystone>, Claystone Malachite
+<block:tfc:ore/malachite/conglomerate>, Conglomerate Malachite
+<block:tfc:ore/malachite/dacite>, Dacite Malachite
+<block:tfc:ore/malachite/diorite>, Diorite Malachite
+<block:tfc:ore/malachite/dolomite>, Dolomite Malachite
+<block:tfc:ore/malachite/gabbro>, Gabbro Malachite
+<block:tfc:ore/malachite/gneiss>, Gneiss Malachite
+<block:tfc:ore/malachite/granite>, Granite Malachite
+<block:tfc:ore/malachite/limestone>, Limestone Malachite
+<block:tfc:ore/malachite/marble>, Marble Malachite
+<block:tfc:ore/malachite/phyllite>, Phyllite Malachite
+<block:tfc:ore/malachite/quartzite>, Quartzite Malachite
+<block:tfc:ore/malachite/rhyolite>, Rhyolite Malachite
+<block:tfc:ore/malachite/rocksalt>, Rocksalt Malachite
+<block:tfc:ore/malachite/schist>, Schist Malachite
+<block:tfc:ore/malachite/shale>, Shale Malachite
+<block:tfc:ore/malachite/slate>, Slate Malachite
+<block:tfc:ore/microcline/andesite>, Andesite Microcline
+<block:tfc:ore/microcline/basalt>, Basalt Microcline
+<block:tfc:ore/microcline/chalk>, Chalk Microcline
+<block:tfc:ore/microcline/chert>, Chert Microcline
+<block:tfc:ore/microcline/claystone>, Claystone Microcline
+<block:tfc:ore/microcline/conglomerate>, Conglomerate Microcline
+<block:tfc:ore/microcline/dacite>, Dacite Microcline
+<block:tfc:ore/microcline/diorite>, Diorite Microcline
+<block:tfc:ore/microcline/dolomite>, Dolomite Microcline
+<block:tfc:ore/microcline/gabbro>, Gabbro Microcline
+<block:tfc:ore/microcline/gneiss>, Gneiss Microcline
+<block:tfc:ore/microcline/granite>, Granite Microcline
+<block:tfc:ore/microcline/limestone>, Limestone Microcline
+<block:tfc:ore/microcline/marble>, Marble Microcline
+<block:tfc:ore/microcline/phyllite>, Phyllite Microcline
+<block:tfc:ore/microcline/quartzite>, Quartzite Microcline
+<block:tfc:ore/microcline/rhyolite>, Rhyolite Microcline
+<block:tfc:ore/microcline/rocksalt>, Rocksalt Microcline
+<block:tfc:ore/microcline/schist>, Schist Microcline
+<block:tfc:ore/microcline/shale>, Shale Microcline
+<block:tfc:ore/microcline/slate>, Slate Microcline
+<block:tfc:ore/native_copper/andesite>, Andesite Native Copper
+<block:tfc:ore/native_copper/basalt>, Basalt Native Copper
+<block:tfc:ore/native_copper/chalk>, Chalk Native Copper
+<block:tfc:ore/native_copper/chert>, Chert Native Copper
+<block:tfc:ore/native_copper/claystone>, Claystone Native Copper
+<block:tfc:ore/native_copper/conglomerate>, Conglomerate Native Copper
+<block:tfc:ore/native_copper/dacite>, Dacite Native Copper
+<block:tfc:ore/native_copper/diorite>, Diorite Native Copper
+<block:tfc:ore/native_copper/dolomite>, Dolomite Native Copper
+<block:tfc:ore/native_copper/gabbro>, Gabbro Native Copper
+<block:tfc:ore/native_copper/gneiss>, Gneiss Native Copper
+<block:tfc:ore/native_copper/granite>, Granite Native Copper
+<block:tfc:ore/native_copper/limestone>, Limestone Native Copper
+<block:tfc:ore/native_copper/marble>, Marble Native Copper
+<block:tfc:ore/native_copper/phyllite>, Phyllite Native Copper
+<block:tfc:ore/native_copper/quartzite>, Quartzite Native Copper
+<block:tfc:ore/native_copper/rhyolite>, Rhyolite Native Copper
+<block:tfc:ore/native_copper/rocksalt>, Rocksalt Native Copper
+<block:tfc:ore/native_copper/schist>, Schist Native Copper
+<block:tfc:ore/native_copper/shale>, Shale Native Copper
+<block:tfc:ore/native_copper/slate>, Slate Native Copper
+<block:tfc:ore/native_gold/andesite>, Andesite Native Gold
+<block:tfc:ore/native_gold/basalt>, Basalt Native Gold
+<block:tfc:ore/native_gold/chalk>, Chalk Native Gold
+<block:tfc:ore/native_gold/chert>, Chert Native Gold
+<block:tfc:ore/native_gold/claystone>, Claystone Native Gold
+<block:tfc:ore/native_gold/conglomerate>, Conglomerate Native Gold
+<block:tfc:ore/native_gold/dacite>, Dacite Native Gold
+<block:tfc:ore/native_gold/diorite>, Diorite Native Gold
+<block:tfc:ore/native_gold/dolomite>, Dolomite Native Gold
+<block:tfc:ore/native_gold/gabbro>, Gabbro Native Gold
+<block:tfc:ore/native_gold/gneiss>, Gneiss Native Gold
+<block:tfc:ore/native_gold/granite>, Granite Native Gold
+<block:tfc:ore/native_gold/limestone>, Limestone Native Gold
+<block:tfc:ore/native_gold/marble>, Marble Native Gold
+<block:tfc:ore/native_gold/phyllite>, Phyllite Native Gold
+<block:tfc:ore/native_gold/quartzite>, Quartzite Native Gold
+<block:tfc:ore/native_gold/rhyolite>, Rhyolite Native Gold
+<block:tfc:ore/native_gold/rocksalt>, Rocksalt Native Gold
+<block:tfc:ore/native_gold/schist>, Schist Native Gold
+<block:tfc:ore/native_gold/shale>, Shale Native Gold
+<block:tfc:ore/native_gold/slate>, Slate Native Gold
+<block:tfc:ore/native_platinum/andesite>, Andesite Native Platinum
+<block:tfc:ore/native_platinum/basalt>, Basalt Native Platinum
+<block:tfc:ore/native_platinum/chalk>, Chalk Native Platinum
+<block:tfc:ore/native_platinum/chert>, Chert Native Platinum
+<block:tfc:ore/native_platinum/claystone>, Claystone Native Platinum
+<block:tfc:ore/native_platinum/conglomerate>, Conglomerate Native Platinum
+<block:tfc:ore/native_platinum/dacite>, Dacite Native Platinum
+<block:tfc:ore/native_platinum/diorite>, Diorite Native Platinum
+<block:tfc:ore/native_platinum/dolomite>, Dolomite Native Platinum
+<block:tfc:ore/native_platinum/gabbro>, Gabbro Native Platinum
+<block:tfc:ore/native_platinum/gneiss>, Gneiss Native Platinum
+<block:tfc:ore/native_platinum/granite>, Granite Native Platinum
+<block:tfc:ore/native_platinum/limestone>, Limestone Native Platinum
+<block:tfc:ore/native_platinum/marble>, Marble Native Platinum
+<block:tfc:ore/native_platinum/phyllite>, Phyllite Native Platinum
+<block:tfc:ore/native_platinum/quartzite>, Quartzite Native Platinum
+<block:tfc:ore/native_platinum/rhyolite>, Rhyolite Native Platinum
+<block:tfc:ore/native_platinum/rocksalt>, Rocksalt Native Platinum
+<block:tfc:ore/native_platinum/schist>, Schist Native Platinum
+<block:tfc:ore/native_platinum/shale>, Shale Native Platinum
+<block:tfc:ore/native_platinum/slate>, Slate Native Platinum
+<block:tfc:ore/native_silver/andesite>, Andesite Native Silver
+<block:tfc:ore/native_silver/basalt>, Basalt Native Silver
+<block:tfc:ore/native_silver/chalk>, Chalk Native Silver
+<block:tfc:ore/native_silver/chert>, Chert Native Silver
+<block:tfc:ore/native_silver/claystone>, Claystone Native Silver
+<block:tfc:ore/native_silver/conglomerate>, Conglomerate Native Silver
+<block:tfc:ore/native_silver/dacite>, Dacite Native Silver
+<block:tfc:ore/native_silver/diorite>, Diorite Native Silver
+<block:tfc:ore/native_silver/dolomite>, Dolomite Native Silver
+<block:tfc:ore/native_silver/gabbro>, Gabbro Native Silver
+<block:tfc:ore/native_silver/gneiss>, Gneiss Native Silver
+<block:tfc:ore/native_silver/granite>, Granite Native Silver
+<block:tfc:ore/native_silver/limestone>, Limestone Native Silver
+<block:tfc:ore/native_silver/marble>, Marble Native Silver
+<block:tfc:ore/native_silver/phyllite>, Phyllite Native Silver
+<block:tfc:ore/native_silver/quartzite>, Quartzite Native Silver
+<block:tfc:ore/native_silver/rhyolite>, Rhyolite Native Silver
+<block:tfc:ore/native_silver/rocksalt>, Rocksalt Native Silver
+<block:tfc:ore/native_silver/schist>, Schist Native Silver
+<block:tfc:ore/native_silver/shale>, Shale Native Silver
+<block:tfc:ore/native_silver/slate>, Slate Native Silver
+<block:tfc:ore/olivine/andesite>, Andesite Olivine
+<block:tfc:ore/olivine/basalt>, Basalt Olivine
+<block:tfc:ore/olivine/chalk>, Chalk Olivine
+<block:tfc:ore/olivine/chert>, Chert Olivine
+<block:tfc:ore/olivine/claystone>, Claystone Olivine
+<block:tfc:ore/olivine/conglomerate>, Conglomerate Olivine
+<block:tfc:ore/olivine/dacite>, Dacite Olivine
+<block:tfc:ore/olivine/diorite>, Diorite Olivine
+<block:tfc:ore/olivine/dolomite>, Dolomite Olivine
+<block:tfc:ore/olivine/gabbro>, Gabbro Olivine
+<block:tfc:ore/olivine/gneiss>, Gneiss Olivine
+<block:tfc:ore/olivine/granite>, Granite Olivine
+<block:tfc:ore/olivine/limestone>, Limestone Olivine
+<block:tfc:ore/olivine/marble>, Marble Olivine
+<block:tfc:ore/olivine/phyllite>, Phyllite Olivine
+<block:tfc:ore/olivine/quartzite>, Quartzite Olivine
+<block:tfc:ore/olivine/rhyolite>, Rhyolite Olivine
+<block:tfc:ore/olivine/rocksalt>, Rocksalt Olivine
+<block:tfc:ore/olivine/schist>, Schist Olivine
+<block:tfc:ore/olivine/shale>, Shale Olivine
+<block:tfc:ore/olivine/slate>, Slate Olivine
+<block:tfc:ore/petrified_wood/andesite>, Andesite Petrified Wood
+<block:tfc:ore/petrified_wood/basalt>, Basalt Petrified Wood
+<block:tfc:ore/petrified_wood/chalk>, Chalk Petrified Wood
+<block:tfc:ore/petrified_wood/chert>, Chert Petrified Wood
+<block:tfc:ore/petrified_wood/claystone>, Claystone Petrified Wood
+<block:tfc:ore/petrified_wood/conglomerate>, Conglomerate Petrified Wood
+<block:tfc:ore/petrified_wood/dacite>, Dacite Petrified Wood
+<block:tfc:ore/petrified_wood/diorite>, Diorite Petrified Wood
+<block:tfc:ore/petrified_wood/dolomite>, Dolomite Petrified Wood
+<block:tfc:ore/petrified_wood/gabbro>, Gabbro Petrified Wood
+<block:tfc:ore/petrified_wood/gneiss>, Gneiss Petrified Wood
+<block:tfc:ore/petrified_wood/granite>, Granite Petrified Wood
+<block:tfc:ore/petrified_wood/limestone>, Limestone Petrified Wood
+<block:tfc:ore/petrified_wood/marble>, Marble Petrified Wood
+<block:tfc:ore/petrified_wood/phyllite>, Phyllite Petrified Wood
+<block:tfc:ore/petrified_wood/quartzite>, Quartzite Petrified Wood
+<block:tfc:ore/petrified_wood/rhyolite>, Rhyolite Petrified Wood
+<block:tfc:ore/petrified_wood/rocksalt>, Rocksalt Petrified Wood
+<block:tfc:ore/petrified_wood/schist>, Schist Petrified Wood
+<block:tfc:ore/petrified_wood/shale>, Shale Petrified Wood
+<block:tfc:ore/petrified_wood/slate>, Slate Petrified Wood
+<block:tfc:ore/pitchblende/andesite>, Andesite Pitchblende
+<block:tfc:ore/pitchblende/basalt>, Basalt Pitchblende
+<block:tfc:ore/pitchblende/chalk>, Chalk Pitchblende
+<block:tfc:ore/pitchblende/chert>, Chert Pitchblende
+<block:tfc:ore/pitchblende/claystone>, Claystone Pitchblende
+<block:tfc:ore/pitchblende/conglomerate>, Conglomerate Pitchblende
+<block:tfc:ore/pitchblende/dacite>, Dacite Pitchblende
+<block:tfc:ore/pitchblende/diorite>, Diorite Pitchblende
+<block:tfc:ore/pitchblende/dolomite>, Dolomite Pitchblende
+<block:tfc:ore/pitchblende/gabbro>, Gabbro Pitchblende
+<block:tfc:ore/pitchblende/gneiss>, Gneiss Pitchblende
+<block:tfc:ore/pitchblende/granite>, Granite Pitchblende
+<block:tfc:ore/pitchblende/limestone>, Limestone Pitchblende
+<block:tfc:ore/pitchblende/marble>, Marble Pitchblende
+<block:tfc:ore/pitchblende/phyllite>, Phyllite Pitchblende
+<block:tfc:ore/pitchblende/quartzite>, Quartzite Pitchblende
+<block:tfc:ore/pitchblende/rhyolite>, Rhyolite Pitchblende
+<block:tfc:ore/pitchblende/rocksalt>, Rocksalt Pitchblende
+<block:tfc:ore/pitchblende/schist>, Schist Pitchblende
+<block:tfc:ore/pitchblende/shale>, Shale Pitchblende
+<block:tfc:ore/pitchblende/slate>, Slate Pitchblende
+<block:tfc:ore/saltpeter/andesite>, Andesite Saltpeter
+<block:tfc:ore/saltpeter/basalt>, Basalt Saltpeter
+<block:tfc:ore/saltpeter/chalk>, Chalk Saltpeter
+<block:tfc:ore/saltpeter/chert>, Chert Saltpeter
+<block:tfc:ore/saltpeter/claystone>, Claystone Saltpeter
+<block:tfc:ore/saltpeter/conglomerate>, Conglomerate Saltpeter
+<block:tfc:ore/saltpeter/dacite>, Dacite Saltpeter
+<block:tfc:ore/saltpeter/diorite>, Diorite Saltpeter
+<block:tfc:ore/saltpeter/dolomite>, Dolomite Saltpeter
+<block:tfc:ore/saltpeter/gabbro>, Gabbro Saltpeter
+<block:tfc:ore/saltpeter/gneiss>, Gneiss Saltpeter
+<block:tfc:ore/saltpeter/granite>, Granite Saltpeter
+<block:tfc:ore/saltpeter/limestone>, Limestone Saltpeter
+<block:tfc:ore/saltpeter/marble>, Marble Saltpeter
+<block:tfc:ore/saltpeter/phyllite>, Phyllite Saltpeter
+<block:tfc:ore/saltpeter/quartzite>, Quartzite Saltpeter
+<block:tfc:ore/saltpeter/rhyolite>, Rhyolite Saltpeter
+<block:tfc:ore/saltpeter/rocksalt>, Rocksalt Saltpeter
+<block:tfc:ore/saltpeter/schist>, Schist Saltpeter
+<block:tfc:ore/saltpeter/shale>, Shale Saltpeter
+<block:tfc:ore/saltpeter/slate>, Slate Saltpeter
+<block:tfc:ore/satinspar/andesite>, Andesite Satinspar
+<block:tfc:ore/satinspar/basalt>, Basalt Satinspar
+<block:tfc:ore/satinspar/chalk>, Chalk Satinspar
+<block:tfc:ore/satinspar/chert>, Chert Satinspar
+<block:tfc:ore/satinspar/claystone>, Claystone Satinspar
+<block:tfc:ore/satinspar/conglomerate>, Conglomerate Satinspar
+<block:tfc:ore/satinspar/dacite>, Dacite Satinspar
+<block:tfc:ore/satinspar/diorite>, Diorite Satinspar
+<block:tfc:ore/satinspar/dolomite>, Dolomite Satinspar
+<block:tfc:ore/satinspar/gabbro>, Gabbro Satinspar
+<block:tfc:ore/satinspar/gneiss>, Gneiss Satinspar
+<block:tfc:ore/satinspar/granite>, Granite Satinspar
+<block:tfc:ore/satinspar/limestone>, Limestone Satinspar
+<block:tfc:ore/satinspar/marble>, Marble Satinspar
+<block:tfc:ore/satinspar/phyllite>, Phyllite Satinspar
+<block:tfc:ore/satinspar/quartzite>, Quartzite Satinspar
+<block:tfc:ore/satinspar/rhyolite>, Rhyolite Satinspar
+<block:tfc:ore/satinspar/rocksalt>, Rocksalt Satinspar
+<block:tfc:ore/satinspar/schist>, Schist Satinspar
+<block:tfc:ore/satinspar/shale>, Shale Satinspar
+<block:tfc:ore/satinspar/slate>, Slate Satinspar
+<block:tfc:ore/selenite/andesite>, Andesite Selenite
+<block:tfc:ore/selenite/basalt>, Basalt Selenite
+<block:tfc:ore/selenite/chalk>, Chalk Selenite
+<block:tfc:ore/selenite/chert>, Chert Selenite
+<block:tfc:ore/selenite/claystone>, Claystone Selenite
+<block:tfc:ore/selenite/conglomerate>, Conglomerate Selenite
+<block:tfc:ore/selenite/dacite>, Dacite Selenite
+<block:tfc:ore/selenite/diorite>, Diorite Selenite
+<block:tfc:ore/selenite/dolomite>, Dolomite Selenite
+<block:tfc:ore/selenite/gabbro>, Gabbro Selenite
+<block:tfc:ore/selenite/gneiss>, Gneiss Selenite
+<block:tfc:ore/selenite/granite>, Granite Selenite
+<block:tfc:ore/selenite/limestone>, Limestone Selenite
+<block:tfc:ore/selenite/marble>, Marble Selenite
+<block:tfc:ore/selenite/phyllite>, Phyllite Selenite
+<block:tfc:ore/selenite/quartzite>, Quartzite Selenite
+<block:tfc:ore/selenite/rhyolite>, Rhyolite Selenite
+<block:tfc:ore/selenite/rocksalt>, Rocksalt Selenite
+<block:tfc:ore/selenite/schist>, Schist Selenite
+<block:tfc:ore/selenite/shale>, Shale Selenite
+<block:tfc:ore/selenite/slate>, Slate Selenite
+<block:tfc:ore/serpentine/andesite>, Andesite Serpentine
+<block:tfc:ore/serpentine/basalt>, Basalt Serpentine
+<block:tfc:ore/serpentine/chalk>, Chalk Serpentine
+<block:tfc:ore/serpentine/chert>, Chert Serpentine
+<block:tfc:ore/serpentine/claystone>, Claystone Serpentine
+<block:tfc:ore/serpentine/conglomerate>, Conglomerate Serpentine
+<block:tfc:ore/serpentine/dacite>, Dacite Serpentine
+<block:tfc:ore/serpentine/diorite>, Diorite Serpentine
+<block:tfc:ore/serpentine/dolomite>, Dolomite Serpentine
+<block:tfc:ore/serpentine/gabbro>, Gabbro Serpentine
+<block:tfc:ore/serpentine/gneiss>, Gneiss Serpentine
+<block:tfc:ore/serpentine/granite>, Granite Serpentine
+<block:tfc:ore/serpentine/limestone>, Limestone Serpentine
+<block:tfc:ore/serpentine/marble>, Marble Serpentine
+<block:tfc:ore/serpentine/phyllite>, Phyllite Serpentine
+<block:tfc:ore/serpentine/quartzite>, Quartzite Serpentine
+<block:tfc:ore/serpentine/rhyolite>, Rhyolite Serpentine
+<block:tfc:ore/serpentine/rocksalt>, Rocksalt Serpentine
+<block:tfc:ore/serpentine/schist>, Schist Serpentine
+<block:tfc:ore/serpentine/shale>, Shale Serpentine
+<block:tfc:ore/serpentine/slate>, Slate Serpentine
+<block:tfc:ore/sphalerite/andesite>, Andesite Sphalerite
+<block:tfc:ore/sphalerite/basalt>, Basalt Sphalerite
+<block:tfc:ore/sphalerite/chalk>, Chalk Sphalerite
+<block:tfc:ore/sphalerite/chert>, Chert Sphalerite
+<block:tfc:ore/sphalerite/claystone>, Claystone Sphalerite
+<block:tfc:ore/sphalerite/conglomerate>, Conglomerate Sphalerite
+<block:tfc:ore/sphalerite/dacite>, Dacite Sphalerite
+<block:tfc:ore/sphalerite/diorite>, Diorite Sphalerite
+<block:tfc:ore/sphalerite/dolomite>, Dolomite Sphalerite
+<block:tfc:ore/sphalerite/gabbro>, Gabbro Sphalerite
+<block:tfc:ore/sphalerite/gneiss>, Gneiss Sphalerite
+<block:tfc:ore/sphalerite/granite>, Granite Sphalerite
+<block:tfc:ore/sphalerite/limestone>, Limestone Sphalerite
+<block:tfc:ore/sphalerite/marble>, Marble Sphalerite
+<block:tfc:ore/sphalerite/phyllite>, Phyllite Sphalerite
+<block:tfc:ore/sphalerite/quartzite>, Quartzite Sphalerite
+<block:tfc:ore/sphalerite/rhyolite>, Rhyolite Sphalerite
+<block:tfc:ore/sphalerite/rocksalt>, Rocksalt Sphalerite
+<block:tfc:ore/sphalerite/schist>, Schist Sphalerite
+<block:tfc:ore/sphalerite/shale>, Shale Sphalerite
+<block:tfc:ore/sphalerite/slate>, Slate Sphalerite
+<block:tfc:ore/sulfur/andesite>, Andesite Sulfur
+<block:tfc:ore/sulfur/basalt>, Basalt Sulfur
+<block:tfc:ore/sulfur/chalk>, Chalk Sulfur
+<block:tfc:ore/sulfur/chert>, Chert Sulfur
+<block:tfc:ore/sulfur/claystone>, Claystone Sulfur
+<block:tfc:ore/sulfur/conglomerate>, Conglomerate Sulfur
+<block:tfc:ore/sulfur/dacite>, Dacite Sulfur
+<block:tfc:ore/sulfur/diorite>, Diorite Sulfur
+<block:tfc:ore/sulfur/dolomite>, Dolomite Sulfur
+<block:tfc:ore/sulfur/gabbro>, Gabbro Sulfur
+<block:tfc:ore/sulfur/gneiss>, Gneiss Sulfur
+<block:tfc:ore/sulfur/granite>, Granite Sulfur
+<block:tfc:ore/sulfur/limestone>, Limestone Sulfur
+<block:tfc:ore/sulfur/marble>, Marble Sulfur
+<block:tfc:ore/sulfur/phyllite>, Phyllite Sulfur
+<block:tfc:ore/sulfur/quartzite>, Quartzite Sulfur
+<block:tfc:ore/sulfur/rhyolite>, Rhyolite Sulfur
+<block:tfc:ore/sulfur/rocksalt>, Rocksalt Sulfur
+<block:tfc:ore/sulfur/schist>, Schist Sulfur
+<block:tfc:ore/sulfur/shale>, Shale Sulfur
+<block:tfc:ore/sulfur/slate>, Slate Sulfur
+<block:tfc:ore/sylvite/andesite>, Andesite Sylvite
+<block:tfc:ore/sylvite/basalt>, Basalt Sylvite
+<block:tfc:ore/sylvite/chalk>, Chalk Sylvite
+<block:tfc:ore/sylvite/chert>, Chert Sylvite
+<block:tfc:ore/sylvite/claystone>, Claystone Sylvite
+<block:tfc:ore/sylvite/conglomerate>, Conglomerate Sylvite
+<block:tfc:ore/sylvite/dacite>, Dacite Sylvite
+<block:tfc:ore/sylvite/diorite>, Diorite Sylvite
+<block:tfc:ore/sylvite/dolomite>, Dolomite Sylvite
+<block:tfc:ore/sylvite/gabbro>, Gabbro Sylvite
+<block:tfc:ore/sylvite/gneiss>, Gneiss Sylvite
+<block:tfc:ore/sylvite/granite>, Granite Sylvite
+<block:tfc:ore/sylvite/limestone>, Limestone Sylvite
+<block:tfc:ore/sylvite/marble>, Marble Sylvite
+<block:tfc:ore/sylvite/phyllite>, Phyllite Sylvite
+<block:tfc:ore/sylvite/quartzite>, Quartzite Sylvite
+<block:tfc:ore/sylvite/rhyolite>, Rhyolite Sylvite
+<block:tfc:ore/sylvite/rocksalt>, Rocksalt Sylvite
+<block:tfc:ore/sylvite/schist>, Schist Sylvite
+<block:tfc:ore/sylvite/shale>, Shale Sylvite
+<block:tfc:ore/sylvite/slate>, Slate Sylvite
+<block:tfc:ore/tetrahedrite/andesite>, Andesite Tetrahedrite
+<block:tfc:ore/tetrahedrite/basalt>, Basalt Tetrahedrite
+<block:tfc:ore/tetrahedrite/chalk>, Chalk Tetrahedrite
+<block:tfc:ore/tetrahedrite/chert>, Chert Tetrahedrite
+<block:tfc:ore/tetrahedrite/claystone>, Claystone Tetrahedrite
+<block:tfc:ore/tetrahedrite/conglomerate>, Conglomerate Tetrahedrite
+<block:tfc:ore/tetrahedrite/dacite>, Dacite Tetrahedrite
+<block:tfc:ore/tetrahedrite/diorite>, Diorite Tetrahedrite
+<block:tfc:ore/tetrahedrite/dolomite>, Dolomite Tetrahedrite
+<block:tfc:ore/tetrahedrite/gabbro>, Gabbro Tetrahedrite
+<block:tfc:ore/tetrahedrite/gneiss>, Gneiss Tetrahedrite
+<block:tfc:ore/tetrahedrite/granite>, Granite Tetrahedrite
+<block:tfc:ore/tetrahedrite/limestone>, Limestone Tetrahedrite
+<block:tfc:ore/tetrahedrite/marble>, Marble Tetrahedrite
+<block:tfc:ore/tetrahedrite/phyllite>, Phyllite Tetrahedrite
+<block:tfc:ore/tetrahedrite/quartzite>, Quartzite Tetrahedrite
+<block:tfc:ore/tetrahedrite/rhyolite>, Rhyolite Tetrahedrite
+<block:tfc:ore/tetrahedrite/rocksalt>, Rocksalt Tetrahedrite
+<block:tfc:ore/tetrahedrite/schist>, Schist Tetrahedrite
+<block:tfc:ore/tetrahedrite/shale>, Shale Tetrahedrite
+<block:tfc:ore/tetrahedrite/slate>, Slate Tetrahedrite
+<block:tfc:path/andesite>, Andesite Path
+<block:tfc:path/basalt>, Basalt Path
+<block:tfc:path/chalk>, Chalk Path
+<block:tfc:path/chert>, Chert Path
+<block:tfc:path/claystone>, Claystone Path
+<block:tfc:path/conglomerate>, Conglomerate Path
+<block:tfc:path/dacite>, Dacite Path
+<block:tfc:path/diorite>, Diorite Path
+<block:tfc:path/dolomite>, Dolomite Path
+<block:tfc:path/gabbro>, Gabbro Path
+<block:tfc:path/gneiss>, Gneiss Path
+<block:tfc:path/granite>, Granite Path
+<block:tfc:path/limestone>, Limestone Path
+<block:tfc:path/marble>, Marble Path
+<block:tfc:path/phyllite>, Phyllite Path
+<block:tfc:path/quartzite>, Quartzite Path
+<block:tfc:path/rhyolite>, Rhyolite Path
+<block:tfc:path/rocksalt>, Rocksalt Path
+<block:tfc:path/schist>, Schist Path
+<block:tfc:path/shale>, Shale Path
+<block:tfc:path/slate>, Slate Path
+<block:tfc:peat>, Peat
+<block:tfc:peat_grass>, Peat Grass
+<block:tfc:pit_kiln>, Pit Kiln
+<block:tfc:placed_hide>, tile.tfc.placed_hide.name
+<block:tfc:placed_item>, Placed Items
+<block:tfc:placed_item_flat>, Debris
+<block:tfc:plants/allium>, Allium
+<block:tfc:plants/athyrium_fern>, Athyrium Fern
+<block:tfc:plants/barrel_cactus>, Barrel Cactus
+<block:tfc:plants/black_orchid>, Black Orchid
+<block:tfc:plants/blood_lily>, Blood Lily
+<block:tfc:plants/blue_orchid>, Blue Orchid
+<block:tfc:plants/butterfly_milkweed>, Butterfly Milkweed
+<block:tfc:plants/calendula>, Marigold
+<block:tfc:plants/canna>, Canna Lily
+<block:tfc:plants/dandelion>, Dandelion
+<block:tfc:plants/duckweed>, Duckweed
+<block:tfc:plants/field_horsetail>, Field Horsetail
+<block:tfc:plants/fountain_grass>, Fountain Grass
+<block:tfc:plants/foxglove>, Foxglove
+<block:tfc:plants/goldenrod>, Goldenrod
+<block:tfc:plants/grape_hyacinth>, Grape Hyacinth
+<block:tfc:plants/guzmania>, Scarlet Star Bromeliad
+<block:tfc:plants/houstonia>, Azure Bluet
+<block:tfc:plants/labrador_tea>, Labrador Tea
+<block:tfc:plants/lady_fern>, Lady Fern
+<block:tfc:plants/licorice_fern>, Licorice Fern
+<block:tfc:plants/lotus>, Lotus
+<block:tfc:plants/meads_milkweed>, Mead's Milkweed
+<block:tfc:plants/morning_glory>, Morning Glory
+<block:tfc:plants/moss>, Moss
+<block:tfc:plants/nasturtium>, Nasturtium
+<block:tfc:plants/orchard_grass>, Orchard Grass
+<block:tfc:plants/ostrich_fern>, Ostrich Fern
+<block:tfc:plants/oxeye_daisy>, Oxeye Daisy
+<block:tfc:plants/pampas_grass>, Pampas Grass
+<block:tfc:plants/perovskia>, Russian Sage
+<block:tfc:plants/pistia>, Water Lettuce
+<block:tfc:plants/poppy>, Poppy
+<block:tfc:plants/porcini>, Porcini Mushroom
+<block:tfc:plants/primrose>, Primrose
+<block:tfc:plants/pulsatilla>, Pasque Flower
+<block:tfc:plants/reindeer_lichen>, Reindeer Lichen
+<block:tfc:plants/rose>, Rose
+<block:tfc:plants/rough_horsetail>, Scouringrush Horsetail
+<block:tfc:plants/ryegrass>, Ryegrass
+<block:tfc:plants/sacred_datura>, Sacred Datura
+<block:tfc:plants/sagebrush>, Sagebrush
+<block:tfc:plants/sapphire_tower>, Sapphire Tower
+<block:tfc:plants/sargassum>, Sargassum
+<block:tfc:plants/scutch_grass>, Scutch Grass
+<block:tfc:plants/snapdragon_pink>, Pink Snapdragon
+<block:tfc:plants/snapdragon_red>, Red Snapdragon
+<block:tfc:plants/snapdragon_white>, White Snapdragon
+<block:tfc:plants/snapdragon_yellow>, Yellow Snapdragon
+<block:tfc:plants/spanish_moss>, Spanish Moss
+<block:tfc:plants/strelitzia>, Bird of Paradise Flower
+<block:tfc:plants/switchgrass>, Switchgrass
+<block:tfc:plants/sword_fern>, Sword Fern
+<block:tfc:plants/tall_fescue_grass>, Tall Fescue Grass
+<block:tfc:plants/timothy_grass>, Timothy Grass
+<block:tfc:plants/toquilla_palm>, Toquilla Palm
+<block:tfc:plants/tree_fern>, Tree Fern
+<block:tfc:plants/trillium>, Trillium
+<block:tfc:plants/tropical_milkweed>, Tropical Milkweed
+<block:tfc:plants/tulip_orange>, Orange Tulip
+<block:tfc:plants/tulip_pink>, Pink Tulip
+<block:tfc:plants/tulip_red>, Red Tulip
+<block:tfc:plants/tulip_white>, White Tulip
+<block:tfc:plants/vriesea>, Flaming Sword Bromeliad
+<block:tfc:plants/water_canna>, Water Canna
+<block:tfc:plants/water_lily>, Water Lily
+<block:tfc:plants/yucca>, Yucca
+<block:tfc:powderkeg>, Powderkeg
+<block:tfc:quern>, Quern
+<block:tfc:raw/andesite>, Raw Andesite
+<block:tfc:raw/basalt>, Raw Basalt
+<block:tfc:raw/chalk>, Raw Chalk
+<block:tfc:raw/chert>, Raw Chert
+<block:tfc:raw/claystone>, Raw Claystone
+<block:tfc:raw/conglomerate>, Raw Conglomerate
+<block:tfc:raw/dacite>, Raw Dacite
+<block:tfc:raw/diorite>, Raw Diorite
+<block:tfc:raw/dolomite>, Raw Dolomite
+<block:tfc:raw/gabbro>, Raw Gabbro
+<block:tfc:raw/gneiss>, Raw Gneiss
+<block:tfc:raw/granite>, Raw Granite
+<block:tfc:raw/limestone>, Raw Limestone
+<block:tfc:raw/marble>, Raw Marble
+<block:tfc:raw/phyllite>, Raw Phyllite
+<block:tfc:raw/quartzite>, Raw Quartzite
+<block:tfc:raw/rhyolite>, Raw Rhyolite
+<block:tfc:raw/rocksalt>, Raw Rocksalt
+<block:tfc:raw/schist>, Raw Schist
+<block:tfc:raw/shale>, Raw Shale
+<block:tfc:raw/slate>, Raw Slate
+<block:tfc:sand/andesite>, Andesite Sand
+<block:tfc:sand/basalt>, Basalt Sand
+<block:tfc:sand/chalk>, Chalk Sand
+<block:tfc:sand/chert>, Chert Sand
+<block:tfc:sand/claystone>, Claystone Sand
+<block:tfc:sand/conglomerate>, Conglomerate Sand
+<block:tfc:sand/dacite>, Dacite Sand
+<block:tfc:sand/diorite>, Diorite Sand
+<block:tfc:sand/dolomite>, Dolomite Sand
+<block:tfc:sand/gabbro>, Gabbro Sand
+<block:tfc:sand/gneiss>, Gneiss Sand
+<block:tfc:sand/granite>, Granite Sand
+<block:tfc:sand/limestone>, Limestone Sand
+<block:tfc:sand/marble>, Marble Sand
+<block:tfc:sand/phyllite>, Phyllite Sand
+<block:tfc:sand/quartzite>, Quartzite Sand
+<block:tfc:sand/rhyolite>, Rhyolite Sand
+<block:tfc:sand/rocksalt>, Rocksalt Sand
+<block:tfc:sand/schist>, Schist Sand
+<block:tfc:sand/shale>, Shale Sand
+<block:tfc:sand/slate>, Slate Sand
+<block:tfc:sea_ice>, Sea Ice
+<block:tfc:sheet/bismuth>, tile.tfc.sheet.bismuth.name
+<block:tfc:sheet/bismuth_bronze>, tile.tfc.sheet.bismuth_bronze.name
+<block:tfc:sheet/black_bronze>, tile.tfc.sheet.black_bronze.name
+<block:tfc:sheet/black_steel>, tile.tfc.sheet.black_steel.name
+<block:tfc:sheet/blue_steel>, tile.tfc.sheet.blue_steel.name
+<block:tfc:sheet/brass>, tile.tfc.sheet.brass.name
+<block:tfc:sheet/bronze>, tile.tfc.sheet.bronze.name
+<block:tfc:sheet/copper>, tile.tfc.sheet.copper.name
+<block:tfc:sheet/gold>, tile.tfc.sheet.gold.name
+<block:tfc:sheet/lead>, tile.tfc.sheet.lead.name
+<block:tfc:sheet/nickel>, tile.tfc.sheet.nickel.name
+<block:tfc:sheet/pig_iron>, tile.tfc.sheet.pig_iron.name
+<block:tfc:sheet/platinum>, tile.tfc.sheet.platinum.name
+<block:tfc:sheet/red_steel>, tile.tfc.sheet.red_steel.name
+<block:tfc:sheet/rose_gold>, tile.tfc.sheet.rose_gold.name
+<block:tfc:sheet/silver>, tile.tfc.sheet.silver.name
+<block:tfc:sheet/steel>, tile.tfc.sheet.steel.name
+<block:tfc:sheet/sterling_silver>, tile.tfc.sheet.sterling_silver.name
+<block:tfc:sheet/tin>, tile.tfc.sheet.tin.name
+<block:tfc:sheet/wrought_iron>, tile.tfc.sheet.wrought_iron.name
+<block:tfc:sheet/zinc>, tile.tfc.sheet.zinc.name
+<block:tfc:slab/bricks/andesite>, Andesite Brick Slab
+<block:tfc:slab/bricks/basalt>, Basalt Brick Slab
+<block:tfc:slab/bricks/chalk>, Chalk Brick Slab
+<block:tfc:slab/bricks/chert>, Chert Brick Slab
+<block:tfc:slab/bricks/claystone>, Claystone Brick Slab
+<block:tfc:slab/bricks/conglomerate>, Conglomerate Brick Slab
+<block:tfc:slab/bricks/dacite>, Dacite Brick Slab
+<block:tfc:slab/bricks/diorite>, Diorite Brick Slab
+<block:tfc:slab/bricks/dolomite>, Dolomite Brick Slab
+<block:tfc:slab/bricks/gabbro>, Gabbro Brick Slab
+<block:tfc:slab/bricks/gneiss>, Gneiss Brick Slab
+<block:tfc:slab/bricks/granite>, Granite Brick Slab
+<block:tfc:slab/bricks/limestone>, Limestone Brick Slab
+<block:tfc:slab/bricks/marble>, Marble Brick Slab
+<block:tfc:slab/bricks/phyllite>, Phyllite Brick Slab
+<block:tfc:slab/bricks/quartzite>, Quartzite Brick Slab
+<block:tfc:slab/bricks/rhyolite>, Rhyolite Brick Slab
+<block:tfc:slab/bricks/rocksalt>, Rocksalt Brick Slab
+<block:tfc:slab/bricks/schist>, Schist Brick Slab
+<block:tfc:slab/bricks/shale>, Shale Brick Slab
+<block:tfc:slab/bricks/slate>, Slate Brick Slab
+<block:tfc:slab/cobble/andesite>, Andesite Cobble Slab
+<block:tfc:slab/cobble/basalt>, Basalt Cobble Slab
+<block:tfc:slab/cobble/chalk>, Chalk Cobble Slab
+<block:tfc:slab/cobble/chert>, Chert Cobble Slab
+<block:tfc:slab/cobble/claystone>, Claystone Cobble Slab
+<block:tfc:slab/cobble/conglomerate>, Conglomerate Cobble Slab
+<block:tfc:slab/cobble/dacite>, Dacite Cobble Slab
+<block:tfc:slab/cobble/diorite>, Diorite Cobble Slab
+<block:tfc:slab/cobble/dolomite>, Dolomite Cobble Slab
+<block:tfc:slab/cobble/gabbro>, Gabbro Cobble Slab
+<block:tfc:slab/cobble/gneiss>, Gneiss Cobble Slab
+<block:tfc:slab/cobble/granite>, Granite Cobble Slab
+<block:tfc:slab/cobble/limestone>, Limestone Cobble Slab
+<block:tfc:slab/cobble/marble>, Marble Cobble Slab
+<block:tfc:slab/cobble/phyllite>, Phyllite Cobble Slab
+<block:tfc:slab/cobble/quartzite>, Quartzite Cobble Slab
+<block:tfc:slab/cobble/rhyolite>, Rhyolite Cobble Slab
+<block:tfc:slab/cobble/rocksalt>, Rocksalt Cobble Slab
+<block:tfc:slab/cobble/schist>, Schist Cobble Slab
+<block:tfc:slab/cobble/shale>, Shale Cobble Slab
+<block:tfc:slab/cobble/slate>, Slate Cobble Slab
+<block:tfc:slab/smooth/andesite>, Smooth Andesite Slab
+<block:tfc:slab/smooth/basalt>, Smooth Basalt Slab
+<block:tfc:slab/smooth/chalk>, Smooth Chalk Slab
+<block:tfc:slab/smooth/chert>, Smooth Chert Slab
+<block:tfc:slab/smooth/claystone>, Smooth Claystone Slab
+<block:tfc:slab/smooth/conglomerate>, Smooth Conglomerate Slab
+<block:tfc:slab/smooth/dacite>, Smooth Dacite Slab
+<block:tfc:slab/smooth/diorite>, Smooth Diorite Slab
+<block:tfc:slab/smooth/dolomite>, Smooth Dolomite Slab
+<block:tfc:slab/smooth/gabbro>, Smooth Gabbro Slab
+<block:tfc:slab/smooth/gneiss>, Smooth Gneiss Slab
+<block:tfc:slab/smooth/granite>, Smooth Granite Slab
+<block:tfc:slab/smooth/limestone>, Smooth Limestone Slab
+<block:tfc:slab/smooth/marble>, Smooth Marble Slab
+<block:tfc:slab/smooth/phyllite>, Smooth Phyllite Slab
+<block:tfc:slab/smooth/quartzite>, Smooth Quartzite Slab
+<block:tfc:slab/smooth/rhyolite>, Smooth Rhyolite Slab
+<block:tfc:slab/smooth/rocksalt>, Smooth Rocksalt Slab
+<block:tfc:slab/smooth/schist>, Smooth Schist Slab
+<block:tfc:slab/smooth/shale>, Smooth Shale Slab
+<block:tfc:slab/smooth/slate>, Smooth Slate Slab
+<block:tfc:slab/wood/acacia>, Acacia Slab
+<block:tfc:slab/wood/ash>, Ash Slab
+<block:tfc:slab/wood/aspen>, Aspen Slab
+<block:tfc:slab/wood/birch>, Birch Slab
+<block:tfc:slab/wood/blackwood>, Blackwood Slab
+<block:tfc:slab/wood/chestnut>, Chestnut Slab
+<block:tfc:slab/wood/douglas_fir>, Douglas Fir Slab
+<block:tfc:slab/wood/hickory>, Hickory Slab
+<block:tfc:slab/wood/kapok>, Kapok Slab
+<block:tfc:slab/wood/maple>, Maple Slab
+<block:tfc:slab/wood/oak>, Oak Slab
+<block:tfc:slab/wood/palm>, Palm Slab
+<block:tfc:slab/wood/pine>, Pine Slab
+<block:tfc:slab/wood/rosewood>, Rosewood Slab
+<block:tfc:slab/wood/sequoia>, Sequoia Slab
+<block:tfc:slab/wood/spruce>, Spruce Slab
+<block:tfc:slab/wood/sycamore>, Sycamore Slab
+<block:tfc:slab/wood/white_cedar>, White Cedar Slab
+<block:tfc:slab/wood/willow>, Willow Slab
+<block:tfc:sluice>, Sluice
+<block:tfc:smooth/andesite>, Smooth Andesite
+<block:tfc:smooth/basalt>, Smooth Basalt
+<block:tfc:smooth/chalk>, Smooth Chalk
+<block:tfc:smooth/chert>, Smooth Chert
+<block:tfc:smooth/claystone>, Smooth Claystone
+<block:tfc:smooth/conglomerate>, Smooth Conglomerate
+<block:tfc:smooth/dacite>, Smooth Dacite
+<block:tfc:smooth/diorite>, Smooth Diorite
+<block:tfc:smooth/dolomite>, Smooth Dolomite
+<block:tfc:smooth/gabbro>, Smooth Gabbro
+<block:tfc:smooth/gneiss>, Smooth Gneiss
+<block:tfc:smooth/granite>, Smooth Granite
+<block:tfc:smooth/limestone>, Smooth Limestone
+<block:tfc:smooth/marble>, Smooth Marble
+<block:tfc:smooth/phyllite>, Smooth Phyllite
+<block:tfc:smooth/quartzite>, Smooth Quartzite
+<block:tfc:smooth/rhyolite>, Smooth Rhyolite
+<block:tfc:smooth/rocksalt>, Smooth Rocksalt
+<block:tfc:smooth/schist>, Smooth Schist
+<block:tfc:smooth/shale>, Smooth Shale
+<block:tfc:smooth/slate>, Smooth Slate
+<block:tfc:spike/andesite>, tile.tfc.spike.andesite.name
+<block:tfc:spike/basalt>, tile.tfc.spike.basalt.name
+<block:tfc:spike/chalk>, tile.tfc.spike.chalk.name
+<block:tfc:spike/chert>, tile.tfc.spike.chert.name
+<block:tfc:spike/claystone>, tile.tfc.spike.claystone.name
+<block:tfc:spike/conglomerate>, tile.tfc.spike.conglomerate.name
+<block:tfc:spike/dacite>, tile.tfc.spike.dacite.name
+<block:tfc:spike/diorite>, tile.tfc.spike.diorite.name
+<block:tfc:spike/dolomite>, tile.tfc.spike.dolomite.name
+<block:tfc:spike/gabbro>, tile.tfc.spike.gabbro.name
+<block:tfc:spike/gneiss>, tile.tfc.spike.gneiss.name
+<block:tfc:spike/granite>, tile.tfc.spike.granite.name
+<block:tfc:spike/limestone>, tile.tfc.spike.limestone.name
+<block:tfc:spike/marble>, tile.tfc.spike.marble.name
+<block:tfc:spike/phyllite>, tile.tfc.spike.phyllite.name
+<block:tfc:spike/quartzite>, tile.tfc.spike.quartzite.name
+<block:tfc:spike/rhyolite>, tile.tfc.spike.rhyolite.name
+<block:tfc:spike/rocksalt>, tile.tfc.spike.rocksalt.name
+<block:tfc:spike/schist>, tile.tfc.spike.schist.name
+<block:tfc:spike/shale>, tile.tfc.spike.shale.name
+<block:tfc:spike/slate>, tile.tfc.spike.slate.name
+<block:tfc:stairs/bricks/andesite>, Andesite Brick Stairs
+<block:tfc:stairs/bricks/basalt>, Basalt Brick Stairs
+<block:tfc:stairs/bricks/chalk>, Chalk Brick Stairs
+<block:tfc:stairs/bricks/chert>, Chert Brick Stairs
+<block:tfc:stairs/bricks/claystone>, Claystone Brick Stairs
+<block:tfc:stairs/bricks/conglomerate>, Conglomerate Brick Stairs
+<block:tfc:stairs/bricks/dacite>, Dacite Brick Stairs
+<block:tfc:stairs/bricks/diorite>, Diorite Brick Stairs
+<block:tfc:stairs/bricks/dolomite>, Dolomite Brick Stairs
+<block:tfc:stairs/bricks/gabbro>, Gabbro Brick Stairs
+<block:tfc:stairs/bricks/gneiss>, Gneiss Brick Stairs
+<block:tfc:stairs/bricks/granite>, Granite Brick Stairs
+<block:tfc:stairs/bricks/limestone>, Limestone Brick Stairs
+<block:tfc:stairs/bricks/marble>, Marble Brick Stairs
+<block:tfc:stairs/bricks/phyllite>, Phyllite Brick Stairs
+<block:tfc:stairs/bricks/quartzite>, Quartzite Brick Stairs
+<block:tfc:stairs/bricks/rhyolite>, Rhyolite Brick Stairs
+<block:tfc:stairs/bricks/rocksalt>, Rocksalt Brick Stairs
+<block:tfc:stairs/bricks/schist>, Schist Brick Stairs
+<block:tfc:stairs/bricks/shale>, Shale Brick Stairs
+<block:tfc:stairs/bricks/slate>, Slate Brick Stairs
+<block:tfc:stairs/cobble/andesite>, Andesite Cobble Stairs
+<block:tfc:stairs/cobble/basalt>, Basalt Cobble Stairs
+<block:tfc:stairs/cobble/chalk>, Chalk Cobble Stairs
+<block:tfc:stairs/cobble/chert>, Chert Cobble Stairs
+<block:tfc:stairs/cobble/claystone>, Claystone Cobble Stairs
+<block:tfc:stairs/cobble/conglomerate>, Conglomerate Cobble Stairs
+<block:tfc:stairs/cobble/dacite>, Dacite Cobble Stairs
+<block:tfc:stairs/cobble/diorite>, Diorite Cobble Stairs
+<block:tfc:stairs/cobble/dolomite>, Dolomite Cobble Stairs
+<block:tfc:stairs/cobble/gabbro>, Gabbro Cobble Stairs
+<block:tfc:stairs/cobble/gneiss>, Gneiss Cobble Stairs
+<block:tfc:stairs/cobble/granite>, Granite Cobble Stairs
+<block:tfc:stairs/cobble/limestone>, Limestone Cobble Stairs
+<block:tfc:stairs/cobble/marble>, Marble Cobble Stairs
+<block:tfc:stairs/cobble/phyllite>, Phyllite Cobble Stairs
+<block:tfc:stairs/cobble/quartzite>, Quartzite Cobble Stairs
+<block:tfc:stairs/cobble/rhyolite>, Rhyolite Cobble Stairs
+<block:tfc:stairs/cobble/rocksalt>, Rocksalt Cobble Stairs
+<block:tfc:stairs/cobble/schist>, Schist Cobble Stairs
+<block:tfc:stairs/cobble/shale>, Shale Cobble Stairs
+<block:tfc:stairs/cobble/slate>, Slate Cobble Stairs
+<block:tfc:stairs/smooth/andesite>, Smooth Andesite Stairs
+<block:tfc:stairs/smooth/basalt>, Smooth Basalt Stairs
+<block:tfc:stairs/smooth/chalk>, Smooth Chalk Stairs
+<block:tfc:stairs/smooth/chert>, Smooth Chert Stairs
+<block:tfc:stairs/smooth/claystone>, Smooth Claystone Stairs
+<block:tfc:stairs/smooth/conglomerate>, Smooth Conglomerate Stairs
+<block:tfc:stairs/smooth/dacite>, Smooth Dacite Stairs
+<block:tfc:stairs/smooth/diorite>, Smooth Diorite Stairs
+<block:tfc:stairs/smooth/dolomite>, Smooth Dolomite Stairs
+<block:tfc:stairs/smooth/gabbro>, Smooth Gabbro Stairs
+<block:tfc:stairs/smooth/gneiss>, Smooth Gneiss Stairs
+<block:tfc:stairs/smooth/granite>, Smooth Granite Stairs
+<block:tfc:stairs/smooth/limestone>, Smooth Limestone Stairs
+<block:tfc:stairs/smooth/marble>, Smooth Marble Stairs
+<block:tfc:stairs/smooth/phyllite>, Smooth Phyllite Stairs
+<block:tfc:stairs/smooth/quartzite>, Smooth Quartzite Stairs
+<block:tfc:stairs/smooth/rhyolite>, Smooth Rhyolite Stairs
+<block:tfc:stairs/smooth/rocksalt>, Smooth Rocksalt Stairs
+<block:tfc:stairs/smooth/schist>, Smooth Schist Stairs
+<block:tfc:stairs/smooth/shale>, Smooth Shale Stairs
+<block:tfc:stairs/smooth/slate>, Smooth Slate Stairs
+<block:tfc:stairs/wood/acacia>, Acacia Stairs
+<block:tfc:stairs/wood/ash>, Ash Stairs
+<block:tfc:stairs/wood/aspen>, Aspen Stairs
+<block:tfc:stairs/wood/birch>, Birch Stairs
+<block:tfc:stairs/wood/blackwood>, Blackwood Stairs
+<block:tfc:stairs/wood/chestnut>, Chestnut Stairs
+<block:tfc:stairs/wood/douglas_fir>, Douglas Fir Stairs
+<block:tfc:stairs/wood/hickory>, Hickory Stairs
+<block:tfc:stairs/wood/kapok>, Kapok Stairs
+<block:tfc:stairs/wood/maple>, Maple Stairs
+<block:tfc:stairs/wood/oak>, Oak Stairs
+<block:tfc:stairs/wood/palm>, Palm Stairs
+<block:tfc:stairs/wood/pine>, Pine Stairs
+<block:tfc:stairs/wood/rosewood>, Rosewood Stairs
+<block:tfc:stairs/wood/sequoia>, Sequoia Stairs
+<block:tfc:stairs/wood/spruce>, Spruce Stairs
+<block:tfc:stairs/wood/sycamore>, Sycamore Stairs
+<block:tfc:stairs/wood/white_cedar>, White Cedar Stairs
+<block:tfc:stairs/wood/willow>, Willow Stairs
+<block:tfc:stone/button/andesite>, Andesite Button
+<block:tfc:stone/button/basalt>, Basalt Button
+<block:tfc:stone/button/chalk>, Chalk Button
+<block:tfc:stone/button/chert>, Chert Button
+<block:tfc:stone/button/claystone>, Claystone Button
+<block:tfc:stone/button/conglomerate>, Conglomerate Button
+<block:tfc:stone/button/dacite>, Dacite Button
+<block:tfc:stone/button/diorite>, Diorite Button
+<block:tfc:stone/button/dolomite>, Dolomite Button
+<block:tfc:stone/button/gabbro>, Gabbro Button
+<block:tfc:stone/button/gneiss>, Gneiss Button
+<block:tfc:stone/button/granite>, Granite Button
+<block:tfc:stone/button/limestone>, Limestone Button
+<block:tfc:stone/button/marble>, Marble Button
+<block:tfc:stone/button/phyllite>, Phyllite Button
+<block:tfc:stone/button/quartzite>, Quartzite Button
+<block:tfc:stone/button/rhyolite>, Rhyolite Button
+<block:tfc:stone/button/rocksalt>, Rocksalt Button
+<block:tfc:stone/button/schist>, Schist Button
+<block:tfc:stone/button/shale>, Shale Button
+<block:tfc:stone/button/slate>, Slate Button
+<block:tfc:stone/pressure_plate/andesite>, Andesite Pressure Plate
+<block:tfc:stone/pressure_plate/basalt>, Basalt Pressure Plate
+<block:tfc:stone/pressure_plate/chalk>, Chalk Pressure Plate
+<block:tfc:stone/pressure_plate/chert>, Chert Pressure Plate
+<block:tfc:stone/pressure_plate/claystone>, Claystone Pressure Plate
+<block:tfc:stone/pressure_plate/conglomerate>, Conglomerate Pressure Plate
+<block:tfc:stone/pressure_plate/dacite>, Dacite Pressure Plate
+<block:tfc:stone/pressure_plate/diorite>, Diorite Pressure Plate
+<block:tfc:stone/pressure_plate/dolomite>, Dolomite Pressure Plate
+<block:tfc:stone/pressure_plate/gabbro>, Gabbro Pressure Plate
+<block:tfc:stone/pressure_plate/gneiss>, Gneiss Pressure Plate
+<block:tfc:stone/pressure_plate/granite>, Granite Pressure Plate
+<block:tfc:stone/pressure_plate/limestone>, Limestone Pressure Plate
+<block:tfc:stone/pressure_plate/marble>, Marble Pressure Plate
+<block:tfc:stone/pressure_plate/phyllite>, Phyllite Pressure Plate
+<block:tfc:stone/pressure_plate/quartzite>, Quartzite Pressure Plate
+<block:tfc:stone/pressure_plate/rhyolite>, Rhyolite Pressure Plate
+<block:tfc:stone/pressure_plate/rocksalt>, Rocksalt Pressure Plate
+<block:tfc:stone/pressure_plate/schist>, Schist Pressure Plate
+<block:tfc:stone/pressure_plate/shale>, Shale Pressure Plate
+<block:tfc:stone/pressure_plate/slate>, Slate Pressure Plate
+<block:tfc:thatch>, Thatch
+<block:tfc:thatch_bed>, tile.tfc.thatch_bed.name
+<block:tfc:trapdoor/bismuth>, Bismuth Trapdoor
+<block:tfc:trapdoor/bismuth_bronze>, Bismuth Bronze Trapdoor
+<block:tfc:trapdoor/black_bronze>, Black Bronze Trapdoor
+<block:tfc:trapdoor/black_steel>, Black Steel Trapdoor
+<block:tfc:trapdoor/blue_steel>, Blue Steel Trapdoor
+<block:tfc:trapdoor/brass>, Brass Trapdoor
+<block:tfc:trapdoor/bronze>, Bronze Trapdoor
+<block:tfc:trapdoor/copper>, Copper Trapdoor
+<block:tfc:trapdoor/gold>, Gold Trapdoor
+<block:tfc:trapdoor/lead>, Lead Trapdoor
+<block:tfc:trapdoor/nickel>, Nickel Trapdoor
+<block:tfc:trapdoor/pig_iron>, Pig Iron Trapdoor
+<block:tfc:trapdoor/platinum>, Platinum Trapdoor
+<block:tfc:trapdoor/red_steel>, Red Steel Trapdoor
+<block:tfc:trapdoor/rose_gold>, Rose Gold Trapdoor
+<block:tfc:trapdoor/silver>, Silver Trapdoor
+<block:tfc:trapdoor/steel>, Steel Trapdoor
+<block:tfc:trapdoor/sterling_silver>, Sterling Silver Trapdoor
+<block:tfc:trapdoor/tin>, Tin Trapdoor
+<block:tfc:trapdoor/wrought_iron>, Wrought Iron Trapdoor
+<block:tfc:trapdoor/zinc>, Zinc Trapdoor
+<block:tfc:wall/bricks/andesite>, tile.tfc.wall.bricks.andesite.normal.name
+<block:tfc:wall/bricks/basalt>, tile.tfc.wall.bricks.basalt.normal.name
+<block:tfc:wall/bricks/chalk>, tile.tfc.wall.bricks.chalk.normal.name
+<block:tfc:wall/bricks/chert>, tile.tfc.wall.bricks.chert.normal.name
+<block:tfc:wall/bricks/claystone>, tile.tfc.wall.bricks.claystone.normal.name
+<block:tfc:wall/bricks/conglomerate>, tile.tfc.wall.bricks.conglomerate.normal.name
+<block:tfc:wall/bricks/dacite>, tile.tfc.wall.bricks.dacite.normal.name
+<block:tfc:wall/bricks/diorite>, tile.tfc.wall.bricks.diorite.normal.name
+<block:tfc:wall/bricks/dolomite>, tile.tfc.wall.bricks.dolomite.normal.name
+<block:tfc:wall/bricks/gabbro>, tile.tfc.wall.bricks.gabbro.normal.name
+<block:tfc:wall/bricks/gneiss>, tile.tfc.wall.bricks.gneiss.normal.name
+<block:tfc:wall/bricks/granite>, tile.tfc.wall.bricks.granite.normal.name
+<block:tfc:wall/bricks/limestone>, tile.tfc.wall.bricks.limestone.normal.name
+<block:tfc:wall/bricks/marble>, tile.tfc.wall.bricks.marble.normal.name
+<block:tfc:wall/bricks/phyllite>, tile.tfc.wall.bricks.phyllite.normal.name
+<block:tfc:wall/bricks/quartzite>, tile.tfc.wall.bricks.quartzite.normal.name
+<block:tfc:wall/bricks/rhyolite>, tile.tfc.wall.bricks.rhyolite.normal.name
+<block:tfc:wall/bricks/rocksalt>, tile.tfc.wall.bricks.rocksalt.normal.name
+<block:tfc:wall/bricks/schist>, tile.tfc.wall.bricks.schist.normal.name
+<block:tfc:wall/bricks/shale>, tile.tfc.wall.bricks.shale.normal.name
+<block:tfc:wall/bricks/slate>, tile.tfc.wall.bricks.slate.normal.name
+<block:tfc:wall/cobble/andesite>, tile.tfc.wall.cobble.andesite.normal.name
+<block:tfc:wall/cobble/basalt>, tile.tfc.wall.cobble.basalt.normal.name
+<block:tfc:wall/cobble/chalk>, tile.tfc.wall.cobble.chalk.normal.name
+<block:tfc:wall/cobble/chert>, tile.tfc.wall.cobble.chert.normal.name
+<block:tfc:wall/cobble/claystone>, tile.tfc.wall.cobble.claystone.normal.name
+<block:tfc:wall/cobble/conglomerate>, tile.tfc.wall.cobble.conglomerate.normal.name
+<block:tfc:wall/cobble/dacite>, tile.tfc.wall.cobble.dacite.normal.name
+<block:tfc:wall/cobble/diorite>, tile.tfc.wall.cobble.diorite.normal.name
+<block:tfc:wall/cobble/dolomite>, tile.tfc.wall.cobble.dolomite.normal.name
+<block:tfc:wall/cobble/gabbro>, tile.tfc.wall.cobble.gabbro.normal.name
+<block:tfc:wall/cobble/gneiss>, tile.tfc.wall.cobble.gneiss.normal.name
+<block:tfc:wall/cobble/granite>, tile.tfc.wall.cobble.granite.normal.name
+<block:tfc:wall/cobble/limestone>, tile.tfc.wall.cobble.limestone.normal.name
+<block:tfc:wall/cobble/marble>, tile.tfc.wall.cobble.marble.normal.name
+<block:tfc:wall/cobble/phyllite>, tile.tfc.wall.cobble.phyllite.normal.name
+<block:tfc:wall/cobble/quartzite>, tile.tfc.wall.cobble.quartzite.normal.name
+<block:tfc:wall/cobble/rhyolite>, tile.tfc.wall.cobble.rhyolite.normal.name
+<block:tfc:wall/cobble/rocksalt>, tile.tfc.wall.cobble.rocksalt.normal.name
+<block:tfc:wall/cobble/schist>, tile.tfc.wall.cobble.schist.normal.name
+<block:tfc:wall/cobble/shale>, tile.tfc.wall.cobble.shale.normal.name
+<block:tfc:wall/cobble/slate>, tile.tfc.wall.cobble.slate.normal.name
+<block:tfc:wall/smooth/andesite>, tile.tfc.wall.smooth.andesite.normal.name
+<block:tfc:wall/smooth/basalt>, tile.tfc.wall.smooth.basalt.normal.name
+<block:tfc:wall/smooth/chalk>, tile.tfc.wall.smooth.chalk.normal.name
+<block:tfc:wall/smooth/chert>, tile.tfc.wall.smooth.chert.normal.name
+<block:tfc:wall/smooth/claystone>, tile.tfc.wall.smooth.claystone.normal.name
+<block:tfc:wall/smooth/conglomerate>, tile.tfc.wall.smooth.conglomerate.normal.name
+<block:tfc:wall/smooth/dacite>, tile.tfc.wall.smooth.dacite.normal.name
+<block:tfc:wall/smooth/diorite>, tile.tfc.wall.smooth.diorite.normal.name
+<block:tfc:wall/smooth/dolomite>, tile.tfc.wall.smooth.dolomite.normal.name
+<block:tfc:wall/smooth/gabbro>, tile.tfc.wall.smooth.gabbro.normal.name
+<block:tfc:wall/smooth/gneiss>, tile.tfc.wall.smooth.gneiss.normal.name
+<block:tfc:wall/smooth/granite>, tile.tfc.wall.smooth.granite.normal.name
+<block:tfc:wall/smooth/limestone>, tile.tfc.wall.smooth.limestone.normal.name
+<block:tfc:wall/smooth/marble>, tile.tfc.wall.smooth.marble.normal.name
+<block:tfc:wall/smooth/phyllite>, tile.tfc.wall.smooth.phyllite.normal.name
+<block:tfc:wall/smooth/quartzite>, tile.tfc.wall.smooth.quartzite.normal.name
+<block:tfc:wall/smooth/rhyolite>, tile.tfc.wall.smooth.rhyolite.normal.name
+<block:tfc:wall/smooth/rocksalt>, tile.tfc.wall.smooth.rocksalt.normal.name
+<block:tfc:wall/smooth/schist>, tile.tfc.wall.smooth.schist.normal.name
+<block:tfc:wall/smooth/shale>, tile.tfc.wall.smooth.shale.normal.name
+<block:tfc:wall/smooth/slate>, tile.tfc.wall.smooth.slate.normal.name
+<block:tfc:wood/barrel/acacia>, Acacia Barrel
+<block:tfc:wood/barrel/ash>, Ash Barrel
+<block:tfc:wood/barrel/aspen>, Aspen Barrel
+<block:tfc:wood/barrel/birch>, Birch Barrel
+<block:tfc:wood/barrel/blackwood>, Blackwood Barrel
+<block:tfc:wood/barrel/chestnut>, Chestnut Barrel
+<block:tfc:wood/barrel/douglas_fir>, Douglas Fir Barrel
+<block:tfc:wood/barrel/hickory>, Hickory Barrel
+<block:tfc:wood/barrel/kapok>, Kapok Barrel
+<block:tfc:wood/barrel/maple>, Maple Barrel
+<block:tfc:wood/barrel/oak>, Oak Barrel
+<block:tfc:wood/barrel/palm>, Palm Barrel
+<block:tfc:wood/barrel/pine>, Pine Barrel
+<block:tfc:wood/barrel/rosewood>, Rosewood Barrel
+<block:tfc:wood/barrel/sequoia>, Sequoia Barrel
+<block:tfc:wood/barrel/spruce>, Spruce Barrel
+<block:tfc:wood/barrel/sycamore>, Sycamore Barrel
+<block:tfc:wood/barrel/white_cedar>, White Cedar Barrel
+<block:tfc:wood/barrel/willow>, Willow Barrel
+<block:tfc:wood/bookshelf/acacia>, Acacia Bookshelf
+<block:tfc:wood/bookshelf/ash>, Ash Bookshelf
+<block:tfc:wood/bookshelf/aspen>, Aspen Bookshelf
+<block:tfc:wood/bookshelf/birch>, Birch Bookshelf
+<block:tfc:wood/bookshelf/blackwood>, Blackwood Bookshelf
+<block:tfc:wood/bookshelf/chestnut>, Chestnut Bookshelf
+<block:tfc:wood/bookshelf/douglas_fir>, Douglas Fir Bookshelf
+<block:tfc:wood/bookshelf/hickory>, Hickory Bookshelf
+<block:tfc:wood/bookshelf/kapok>, Kapok Bookshelf
+<block:tfc:wood/bookshelf/maple>, Maple Bookshelf
+<block:tfc:wood/bookshelf/oak>, Oak Bookshelf
+<block:tfc:wood/bookshelf/palm>, Palm Bookshelf
+<block:tfc:wood/bookshelf/pine>, Pine Bookshelf
+<block:tfc:wood/bookshelf/rosewood>, Rosewood Bookshelf
+<block:tfc:wood/bookshelf/sequoia>, Sequoia Bookshelf
+<block:tfc:wood/bookshelf/spruce>, Spruce Bookshelf
+<block:tfc:wood/bookshelf/sycamore>, Sycamore Bookshelf
+<block:tfc:wood/bookshelf/white_cedar>, White Cedar Bookshelf
+<block:tfc:wood/bookshelf/willow>, Willow Bookshelf
+<block:tfc:wood/button/acacia>, Acacia Button
+<block:tfc:wood/button/ash>, Ash Button
+<block:tfc:wood/button/aspen>, Aspen Button
+<block:tfc:wood/button/birch>, Birch Button
+<block:tfc:wood/button/blackwood>, Blackwood Button
+<block:tfc:wood/button/chestnut>, Chestnut Button
+<block:tfc:wood/button/douglas_fir>, Douglas Fir Button
+<block:tfc:wood/button/hickory>, Hickory Button
+<block:tfc:wood/button/kapok>, Kapok Button
+<block:tfc:wood/button/maple>, Maple Button
+<block:tfc:wood/button/oak>, Oak Button
+<block:tfc:wood/button/palm>, Palm Button
+<block:tfc:wood/button/pine>, Pine Button
+<block:tfc:wood/button/rosewood>, Rosewood Button
+<block:tfc:wood/button/sequoia>, Sequoia Button
+<block:tfc:wood/button/spruce>, Spruce Button
+<block:tfc:wood/button/sycamore>, Sycamore Button
+<block:tfc:wood/button/white_cedar>, White Cedar Button
+<block:tfc:wood/button/willow>, Willow Button
+<block:tfc:wood/chest/acacia>, Acacia Chest
+<block:tfc:wood/chest/ash>, Ash Chest
+<block:tfc:wood/chest/aspen>, Aspen Chest
+<block:tfc:wood/chest/birch>, Birch Chest
+<block:tfc:wood/chest/blackwood>, Blackwood Chest
+<block:tfc:wood/chest/chestnut>, Chestnut Chest
+<block:tfc:wood/chest/douglas_fir>, Douglas Fir Chest
+<block:tfc:wood/chest/hickory>, Hickory Chest
+<block:tfc:wood/chest/kapok>, Kapok Chest
+<block:tfc:wood/chest/maple>, Maple Chest
+<block:tfc:wood/chest/oak>, Oak Chest
+<block:tfc:wood/chest/palm>, Palm Chest
+<block:tfc:wood/chest/pine>, Pine Chest
+<block:tfc:wood/chest/rosewood>, Rosewood Chest
+<block:tfc:wood/chest/sequoia>, Sequoia Chest
+<block:tfc:wood/chest/spruce>, Spruce Chest
+<block:tfc:wood/chest/sycamore>, Sycamore Chest
+<block:tfc:wood/chest/white_cedar>, White Cedar Chest
+<block:tfc:wood/chest/willow>, Willow Chest
+<block:tfc:wood/chest_trap/acacia>, Trapped Acacia Chest
+<block:tfc:wood/chest_trap/ash>, Trapped Ash Chest
+<block:tfc:wood/chest_trap/aspen>, Trapped Aspen Chest
+<block:tfc:wood/chest_trap/birch>, Trapped Birch Chest
+<block:tfc:wood/chest_trap/blackwood>, Trapped Blackwood Chest
+<block:tfc:wood/chest_trap/chestnut>, Trapped Chestnut Chest
+<block:tfc:wood/chest_trap/douglas_fir>, Trapped Douglas Fir Chest
+<block:tfc:wood/chest_trap/hickory>, Trapped Hickory Chest
+<block:tfc:wood/chest_trap/kapok>, Trapped Kapok Chest
+<block:tfc:wood/chest_trap/maple>, Trapped Maple Chest
+<block:tfc:wood/chest_trap/oak>, Trapped Oak Chest
+<block:tfc:wood/chest_trap/palm>, Trapped Palm Chest
+<block:tfc:wood/chest_trap/pine>, Trapped Pine Chest
+<block:tfc:wood/chest_trap/rosewood>, Trapped Rosewood Chest
+<block:tfc:wood/chest_trap/sequoia>, Trapped Sequoia Chest
+<block:tfc:wood/chest_trap/spruce>, Trapped Spruce Chest
+<block:tfc:wood/chest_trap/sycamore>, Trapped Sycamore Chest
+<block:tfc:wood/chest_trap/white_cedar>, Trapped White Cedar Chest
+<block:tfc:wood/chest_trap/willow>, Trapped Willow Chest
+<block:tfc:wood/door/acacia>, Acacia Door
+<block:tfc:wood/door/ash>, Ash Door
+<block:tfc:wood/door/aspen>, Aspen Door
+<block:tfc:wood/door/birch>, Birch Door
+<block:tfc:wood/door/blackwood>, Blackwood Door
+<block:tfc:wood/door/chestnut>, Chestnut Door
+<block:tfc:wood/door/douglas_fir>, Douglas Fir Door
+<block:tfc:wood/door/hickory>, Hickory Door
+<block:tfc:wood/door/kapok>, Kapok Door
+<block:tfc:wood/door/maple>, Maple Door
+<block:tfc:wood/door/oak>, Oak Door
+<block:tfc:wood/door/palm>, Palm Door
+<block:tfc:wood/door/pine>, Pine Door
+<block:tfc:wood/door/rosewood>, Rosewood Door
+<block:tfc:wood/door/sequoia>, Sequoia Door
+<block:tfc:wood/door/spruce>, Spruce Door
+<block:tfc:wood/door/sycamore>, Sycamore Door
+<block:tfc:wood/door/white_cedar>, White Cedar Door
+<block:tfc:wood/door/willow>, Willow Door
+<block:tfc:wood/fence/acacia>, Acacia Fence
+<block:tfc:wood/fence/ash>, Ash Fence
+<block:tfc:wood/fence/aspen>, Aspen Fence
+<block:tfc:wood/fence/birch>, Birch Fence
+<block:tfc:wood/fence/blackwood>, Blackwood Fence
+<block:tfc:wood/fence/chestnut>, Chestnut Fence
+<block:tfc:wood/fence/douglas_fir>, Douglas Fir Fence
+<block:tfc:wood/fence/hickory>, Hickory Fence
+<block:tfc:wood/fence/kapok>, Kapok Fence
+<block:tfc:wood/fence/maple>, Maple Fence
+<block:tfc:wood/fence/oak>, Oak Fence
+<block:tfc:wood/fence/palm>, Palm Fence
+<block:tfc:wood/fence/pine>, Pine Fence
+<block:tfc:wood/fence/rosewood>, Rosewood Fence
+<block:tfc:wood/fence/sequoia>, Sequoia Fence
+<block:tfc:wood/fence/spruce>, Spruce Fence
+<block:tfc:wood/fence/sycamore>, Sycamore Fence
+<block:tfc:wood/fence/white_cedar>, White Cedar Fence
+<block:tfc:wood/fence/willow>, Willow Fence
+<block:tfc:wood/fence_gate/acacia>, Acacia Fence Gate
+<block:tfc:wood/fence_gate/ash>, Ash Fence Gate
+<block:tfc:wood/fence_gate/aspen>, Aspen Fence Gate
+<block:tfc:wood/fence_gate/birch>, Birch Fence Gate
+<block:tfc:wood/fence_gate/blackwood>, Blackwood Fence Gate
+<block:tfc:wood/fence_gate/chestnut>, Chestnut Fence Gate
+<block:tfc:wood/fence_gate/douglas_fir>, Douglas Fir Fence Gate
+<block:tfc:wood/fence_gate/hickory>, Hickory Fence Gate
+<block:tfc:wood/fence_gate/kapok>, Kapok Fence Gate
+<block:tfc:wood/fence_gate/maple>, Maple Fence Gate
+<block:tfc:wood/fence_gate/oak>, Oak Fence Gate
+<block:tfc:wood/fence_gate/palm>, Palm Fence Gate
+<block:tfc:wood/fence_gate/pine>, Pine Fence Gate
+<block:tfc:wood/fence_gate/rosewood>, Rosewood Fence Gate
+<block:tfc:wood/fence_gate/sequoia>, Sequoia Fence Gate
+<block:tfc:wood/fence_gate/spruce>, Spruce Fence Gate
+<block:tfc:wood/fence_gate/sycamore>, Sycamore Fence Gate
+<block:tfc:wood/fence_gate/white_cedar>, White Cedar Fence Gate
+<block:tfc:wood/fence_gate/willow>, Willow Fence Gate
+<block:tfc:wood/leaves/acacia>, Acacia Leaves
+<block:tfc:wood/leaves/ash>, Ash Leaves
+<block:tfc:wood/leaves/aspen>, Aspen Leaves
+<block:tfc:wood/leaves/birch>, Birch Leaves
+<block:tfc:wood/leaves/blackwood>, Blackwood Leaves
+<block:tfc:wood/leaves/chestnut>, Chestnut Leaves
+<block:tfc:wood/leaves/douglas_fir>, Douglas Fir Leaves
+<block:tfc:wood/leaves/hickory>, Hickory Leaves
+<block:tfc:wood/leaves/kapok>, Kapok Leaves
+<block:tfc:wood/leaves/maple>, Maple Leaves
+<block:tfc:wood/leaves/oak>, Oak Leaves
+<block:tfc:wood/leaves/palm>, Palm Leaves
+<block:tfc:wood/leaves/pine>, Pine Leaves
+<block:tfc:wood/leaves/rosewood>, Rosewood Leaves
+<block:tfc:wood/leaves/sequoia>, Sequoia Leaves
+<block:tfc:wood/leaves/spruce>, Spruce Leaves
+<block:tfc:wood/leaves/sycamore>, Sycamore Leaves
+<block:tfc:wood/leaves/white_cedar>, White Cedar Leaves
+<block:tfc:wood/leaves/willow>, Willow Leaves
+<block:tfc:wood/log/acacia>, Acacia Log
+<block:tfc:wood/log/ash>, Ash Log
+<block:tfc:wood/log/aspen>, Aspen Log
+<block:tfc:wood/log/birch>, Birch Log
+<block:tfc:wood/log/blackwood>, Blackwood Log
+<block:tfc:wood/log/chestnut>, Chestnut Log
+<block:tfc:wood/log/douglas_fir>, Douglas Fir Log
+<block:tfc:wood/log/hickory>, Hickory Log
+<block:tfc:wood/log/kapok>, Kapok Log
+<block:tfc:wood/log/maple>, Maple Log
+<block:tfc:wood/log/oak>, Oak Log
+<block:tfc:wood/log/palm>, Palm Log
+<block:tfc:wood/log/pine>, Pine Log
+<block:tfc:wood/log/rosewood>, Rosewood Log
+<block:tfc:wood/log/sequoia>, Sequoia Log
+<block:tfc:wood/log/spruce>, Spruce Log
+<block:tfc:wood/log/sycamore>, Sycamore Log
+<block:tfc:wood/log/white_cedar>, White Cedar Log
+<block:tfc:wood/log/willow>, Willow Log
+<block:tfc:wood/loom/acacia>, Acacia Loom
+<block:tfc:wood/loom/ash>, Ash Loom
+<block:tfc:wood/loom/aspen>, Aspen Loom
+<block:tfc:wood/loom/birch>, Birch Loom
+<block:tfc:wood/loom/blackwood>, Blackwood Loom
+<block:tfc:wood/loom/chestnut>, Chestnut Loom
+<block:tfc:wood/loom/douglas_fir>, Douglas Fir Loom
+<block:tfc:wood/loom/hickory>, Hickory Loom
+<block:tfc:wood/loom/kapok>, Kapok Loom
+<block:tfc:wood/loom/maple>, Maple Loom
+<block:tfc:wood/loom/oak>, Oak Loom
+<block:tfc:wood/loom/palm>, Palm Loom
+<block:tfc:wood/loom/pine>, Pine Loom
+<block:tfc:wood/loom/rosewood>, Rosewood Loom
+<block:tfc:wood/loom/sequoia>, Sequoia Loom
+<block:tfc:wood/loom/spruce>, Spruce Loom
+<block:tfc:wood/loom/sycamore>, Sycamore Loom
+<block:tfc:wood/loom/white_cedar>, White Cedar Loom
+<block:tfc:wood/loom/willow>, Willow Loom
+<block:tfc:wood/planks/acacia>, Acacia Planks
+<block:tfc:wood/planks/ash>, Ash Planks
+<block:tfc:wood/planks/aspen>, Aspen Planks
+<block:tfc:wood/planks/birch>, Birch Planks
+<block:tfc:wood/planks/blackwood>, Blackwood Planks
+<block:tfc:wood/planks/chestnut>, Chestnut Planks
+<block:tfc:wood/planks/douglas_fir>, Douglas Fir Planks
+<block:tfc:wood/planks/hickory>, Hickory Planks
+<block:tfc:wood/planks/kapok>, Kapok Planks
+<block:tfc:wood/planks/maple>, Maple Planks
+<block:tfc:wood/planks/oak>, Oak Planks
+<block:tfc:wood/planks/palm>, Palm Planks
+<block:tfc:wood/planks/pine>, Pine Planks
+<block:tfc:wood/planks/rosewood>, Rosewood Planks
+<block:tfc:wood/planks/sequoia>, Sequoia Planks
+<block:tfc:wood/planks/spruce>, Spruce Planks
+<block:tfc:wood/planks/sycamore>, Sycamore Planks
+<block:tfc:wood/planks/white_cedar>, White Cedar Planks
+<block:tfc:wood/planks/willow>, Willow Planks
+<block:tfc:wood/pressure_plate/acacia>, Acacia Pressure Plate
+<block:tfc:wood/pressure_plate/ash>, Ash Pressure Plate
+<block:tfc:wood/pressure_plate/aspen>, Aspen Pressure Plate
+<block:tfc:wood/pressure_plate/birch>, Birch Pressure Plate
+<block:tfc:wood/pressure_plate/blackwood>, Blackwood Pressure Plate
+<block:tfc:wood/pressure_plate/chestnut>, Chestnut Pressure Plate
+<block:tfc:wood/pressure_plate/douglas_fir>, Douglas Fir Pressure Plate
+<block:tfc:wood/pressure_plate/hickory>, Hickory Pressure Plate
+<block:tfc:wood/pressure_plate/kapok>, Kapok Pressure Plate
+<block:tfc:wood/pressure_plate/maple>, Maple Pressure Plate
+<block:tfc:wood/pressure_plate/oak>, Oak Pressure Plate
+<block:tfc:wood/pressure_plate/palm>, Palm Pressure Plate
+<block:tfc:wood/pressure_plate/pine>, Pine Pressure Plate
+<block:tfc:wood/pressure_plate/rosewood>, Rosewood Pressure Plate
+<block:tfc:wood/pressure_plate/sequoia>, Sequoia Pressure Plate
+<block:tfc:wood/pressure_plate/spruce>, Spruce Pressure Plate
+<block:tfc:wood/pressure_plate/sycamore>, Sycamore Pressure Plate
+<block:tfc:wood/pressure_plate/white_cedar>, White Cedar Pressure Plate
+<block:tfc:wood/pressure_plate/willow>, Willow Pressure Plate
+<block:tfc:wood/sapling/acacia>, Acacia Sapling
+<block:tfc:wood/sapling/ash>, Ash Sapling
+<block:tfc:wood/sapling/aspen>, Aspen Sapling
+<block:tfc:wood/sapling/birch>, Birch Sapling
+<block:tfc:wood/sapling/blackwood>, Blackwood Sapling
+<block:tfc:wood/sapling/chestnut>, Chestnut Sapling
+<block:tfc:wood/sapling/douglas_fir>, Douglas Fir Sapling
+<block:tfc:wood/sapling/hickory>, Hickory Sapling
+<block:tfc:wood/sapling/kapok>, Kapok Sapling
+<block:tfc:wood/sapling/maple>, Maple Sapling
+<block:tfc:wood/sapling/oak>, Oak Sapling
+<block:tfc:wood/sapling/palm>, Palm Sapling
+<block:tfc:wood/sapling/pine>, Pine Sapling
+<block:tfc:wood/sapling/rosewood>, Rosewood Sapling
+<block:tfc:wood/sapling/sequoia>, Sequoia Sapling
+<block:tfc:wood/sapling/spruce>, Spruce Sapling
+<block:tfc:wood/sapling/sycamore>, Sycamore Sapling
+<block:tfc:wood/sapling/white_cedar>, White Cedar Sapling
+<block:tfc:wood/sapling/willow>, Willow Sapling
+<block:tfc:wood/support/acacia>, Acacia Support Beam
+<block:tfc:wood/support/ash>, Ash Support Beam
+<block:tfc:wood/support/aspen>, Aspen Support Beam
+<block:tfc:wood/support/birch>, Birch Support Beam
+<block:tfc:wood/support/blackwood>, Blackwood Support Beam
+<block:tfc:wood/support/chestnut>, Chestnut Support Beam
+<block:tfc:wood/support/douglas_fir>, Douglas Fir Support Beam
+<block:tfc:wood/support/hickory>, Hickory Support Beam
+<block:tfc:wood/support/kapok>, Kapok Support Beam
+<block:tfc:wood/support/maple>, Maple Support Beam
+<block:tfc:wood/support/oak>, Oak Support Beam
+<block:tfc:wood/support/palm>, Palm Support Beam
+<block:tfc:wood/support/pine>, Pine Support Beam
+<block:tfc:wood/support/rosewood>, Rosewood Support Beam
+<block:tfc:wood/support/sequoia>, Sequoia Support Beam
+<block:tfc:wood/support/spruce>, Spruce Support Beam
+<block:tfc:wood/support/sycamore>, Sycamore Support Beam
+<block:tfc:wood/support/white_cedar>, White Cedar Support Beam
+<block:tfc:wood/support/willow>, Willow Support Beam
+<block:tfc:wood/tool_rack/acacia>, Acacia Tool Rack
+<block:tfc:wood/tool_rack/ash>, Ash Tool Rack
+<block:tfc:wood/tool_rack/aspen>, Aspen Tool Rack
+<block:tfc:wood/tool_rack/birch>, Birch Tool Rack
+<block:tfc:wood/tool_rack/blackwood>, Blackwood Tool Rack
+<block:tfc:wood/tool_rack/chestnut>, Chestnut Tool Rack
+<block:tfc:wood/tool_rack/douglas_fir>, Douglas Fir Tool Rack
+<block:tfc:wood/tool_rack/hickory>, Hickory Tool Rack
+<block:tfc:wood/tool_rack/kapok>, Kapok Tool Rack
+<block:tfc:wood/tool_rack/maple>, Maple Tool Rack
+<block:tfc:wood/tool_rack/oak>, Oak Tool Rack
+<block:tfc:wood/tool_rack/palm>, Palm Tool Rack
+<block:tfc:wood/tool_rack/pine>, Pine Tool Rack
+<block:tfc:wood/tool_rack/rosewood>, Rosewood Tool Rack
+<block:tfc:wood/tool_rack/sequoia>, Sequoia Tool Rack
+<block:tfc:wood/tool_rack/spruce>, Spruce Tool Rack
+<block:tfc:wood/tool_rack/sycamore>, Sycamore Tool Rack
+<block:tfc:wood/tool_rack/white_cedar>, White Cedar Tool Rack
+<block:tfc:wood/tool_rack/willow>, Willow Tool Rack
+<block:tfc:wood/trapdoor/acacia>, Acacia Trapdoor
+<block:tfc:wood/trapdoor/ash>, Ash Trapdoor
+<block:tfc:wood/trapdoor/aspen>, Aspen Trapdoor
+<block:tfc:wood/trapdoor/birch>, Birch Trapdoor
+<block:tfc:wood/trapdoor/blackwood>, Blackwood Trapdoor
+<block:tfc:wood/trapdoor/chestnut>, Chestnut Trapdoor
+<block:tfc:wood/trapdoor/douglas_fir>, Douglas Fir Trapdoor
+<block:tfc:wood/trapdoor/hickory>, Hickory Trapdoor
+<block:tfc:wood/trapdoor/kapok>, Kapok Trapdoor
+<block:tfc:wood/trapdoor/maple>, Maple Trapdoor
+<block:tfc:wood/trapdoor/oak>, Oak Trapdoor
+<block:tfc:wood/trapdoor/palm>, Palm Trapdoor
+<block:tfc:wood/trapdoor/pine>, Pine Trapdoor
+<block:tfc:wood/trapdoor/rosewood>, Rosewood Trapdoor
+<block:tfc:wood/trapdoor/sequoia>, Sequoia Trapdoor
+<block:tfc:wood/trapdoor/spruce>, Spruce Trapdoor
+<block:tfc:wood/trapdoor/sycamore>, Sycamore Trapdoor
+<block:tfc:wood/trapdoor/white_cedar>, White Cedar Trapdoor
+<block:tfc:wood/trapdoor/willow>, Willow Trapdoor
+<block:tfc:wood/workbench/acacia>, Acacia Workbench
+<block:tfc:wood/workbench/ash>, Ash Workbench
+<block:tfc:wood/workbench/aspen>, Aspen Workbench
+<block:tfc:wood/workbench/birch>, Birch Workbench
+<block:tfc:wood/workbench/blackwood>, Blackwood Workbench
+<block:tfc:wood/workbench/chestnut>, Chestnut Workbench
+<block:tfc:wood/workbench/douglas_fir>, Douglas Fir Workbench
+<block:tfc:wood/workbench/hickory>, Hickory Workbench
+<block:tfc:wood/workbench/kapok>, Kapok Workbench
+<block:tfc:wood/workbench/maple>, Maple Workbench
+<block:tfc:wood/workbench/oak>, Oak Workbench
+<block:tfc:wood/workbench/palm>, Palm Workbench
+<block:tfc:wood/workbench/pine>, Pine Workbench
+<block:tfc:wood/workbench/rosewood>, Rosewood Workbench
+<block:tfc:wood/workbench/sequoia>, Sequoia Workbench
+<block:tfc:wood/workbench/spruce>, Spruce Workbench
+<block:tfc:wood/workbench/sycamore>, Sycamore Workbench
+<block:tfc:wood/workbench/white_cedar>, White Cedar Workbench
+<block:tfc:wood/workbench/willow>, Willow Workbench
+<block:waystones:waystone>, Waystone

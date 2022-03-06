@@ -1,0 +1,555 @@
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 0ms
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
+[INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 0ms
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
+[AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
+Liquids:
+<liquid:beer>
+- Name: beer
+- Display Name: Beer
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:bismuth>
+- Name: bismuth
+- Display Name: Molten Bismuth
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:bismuth_bronze>
+- Name: bismuth_bronze
+- Display Name: Molten Bismuth Bronze
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:black_bronze>
+- Name: black_bronze
+- Display Name: Molten Black Bronze
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:black_dye>
+- Name: black_dye
+- Display Name: Black Dye
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:black_steel>
+- Name: black_steel
+- Display Name: Molten Black Steel
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:blue_dye>
+- Name: blue_dye
+- Display Name: Blue Dye
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:blue_steel>
+- Name: blue_steel
+- Display Name: Molten Blue Steel
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:brass>
+- Name: brass
+- Display Name: Molten Brass
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:brine>
+- Name: brine
+- Display Name: Brine
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:bronze>
+- Name: bronze
+- Display Name: Molten Bronze
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:brown_dye>
+- Name: brown_dye
+- Display Name: Brown Dye
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:cider>
+- Name: cider
+- Display Name: Cider
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:copper>
+- Name: copper
+- Display Name: Molten Copper
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:corn_whiskey>
+- Name: corn_whiskey
+- Display Name: Corn Whiskey
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:cyan_dye>
+- Name: cyan_dye
+- Display Name: Cyan Dye
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:fresh_water>
+- Name: fresh_water
+- Display Name: Fresh Water
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:gold>
+- Name: gold
+- Display Name: Molten Gold
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:gray_dye>
+- Name: gray_dye
+- Display Name: Gray Dye
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:green_dye>
+- Name: green_dye
+- Display Name: Green Dye
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:high_carbon_black_steel>
+- Name: high_carbon_black_steel
+- Display Name: Molten High Carbon Black Steel
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:high_carbon_blue_steel>
+- Name: high_carbon_blue_steel
+- Display Name: Molten High Carbon Blue Steel
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:high_carbon_red_steel>
+- Name: high_carbon_red_steel
+- Display Name: Molten High Carbon Red Steel
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:high_carbon_steel>
+- Name: high_carbon_steel
+- Display Name: Molten High Carbon Steel
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:hot_water>
+- Name: hot_water
+- Display Name: Hot Spring Water
+- Luminosity:0
+- Density: 1000
+- Temperature: 350
+- Viscosity: 1000
+- Gaseous: false
+<liquid:lava>
+- Name: lava
+- Display Name: Lava
+- Luminosity:15
+- Density: 3000
+- Temperature: 1300
+- Viscosity: 6000
+- Gaseous: false
+<liquid:lead>
+- Name: lead
+- Display Name: Molten Lead
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:light_blue_dye>
+- Name: light_blue_dye
+- Display Name: Light Blue Dye
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:light_gray_dye>
+- Name: light_gray_dye
+- Display Name: Light Gray Dye
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:lime_dye>
+- Name: lime_dye
+- Display Name: Lime Dye
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:limewater>
+- Name: limewater
+- Display Name: Limewater
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:lye>
+- Name: lye
+- Display Name: Lye
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:magenta_dye>
+- Name: magenta_dye
+- Display Name: Magenta Dye
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:milk>
+- Name: milk
+- Display Name: Milk
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:milk_curdled>
+- Name: milk_curdled
+- Display Name: Curdled Milk
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:milk_vinegar>
+- Name: milk_vinegar
+- Display Name: Vinegar Milk
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:nickel>
+- Name: nickel
+- Display Name: Molten Nickel
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:olive_oil>
+- Name: olive_oil
+- Display Name: Olive Oil
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:olive_oil_water>
+- Name: olive_oil_water
+- Display Name: Olive Oil Water
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:orange_dye>
+- Name: orange_dye
+- Display Name: Orange Dye
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:pig_iron>
+- Name: pig_iron
+- Display Name: Molten Pig Iron
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:pink_dye>
+- Name: pink_dye
+- Display Name: Pink Dye
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:platinum>
+- Name: platinum
+- Display Name: Molten Platinum
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:purple_dye>
+- Name: purple_dye
+- Display Name: Purple Dye
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:red_dye>
+- Name: red_dye
+- Display Name: Red Dye
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:red_steel>
+- Name: red_steel
+- Display Name: Molten Red Steel
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:rose_gold>
+- Name: rose_gold
+- Display Name: Molten Rose Gold
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:rum>
+- Name: rum
+- Display Name: Rum
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:rye_whiskey>
+- Name: rye_whiskey
+- Display Name: Rye Whiskey
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:sake>
+- Name: sake
+- Display Name: Sake
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:salt_water>
+- Name: salt_water
+- Display Name: Salt Water
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:silver>
+- Name: silver
+- Display Name: Molten Silver
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:steel>
+- Name: steel
+- Display Name: Molten Steel
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:sterling_silver>
+- Name: sterling_silver
+- Display Name: Molten Sterling Silver
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:tannin>
+- Name: tannin
+- Display Name: Tannin
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:tin>
+- Name: tin
+- Display Name: Molten Tin
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:unknown>
+- Name: unknown
+- Display Name: Unknown Molten Metal
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:vinegar>
+- Name: vinegar
+- Display Name: Vinegar
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:vodka>
+- Name: vodka
+- Display Name: Vodka
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:water>
+- Name: water
+- Display Name: Water
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:weak_blue_steel>
+- Name: weak_blue_steel
+- Display Name: Molten Weak Blue Steel
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:weak_red_steel>
+- Name: weak_red_steel
+- Display Name: Molten Weak Red Steel
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:weak_steel>
+- Name: weak_steel
+- Display Name: Molten Weak Steel
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:whiskey>
+- Name: whiskey
+- Display Name: Whiskey
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:white_dye>
+- Name: white_dye
+- Display Name: White Dye
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:wrought_iron>
+- Name: wrought_iron
+- Display Name: Molten Wrought Iron
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:yellow_dye>
+- Name: yellow_dye
+- Display Name: Yellow Dye
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false
+<liquid:zinc>
+- Name: zinc
+- Display Name: Molten Zinc
+- Luminosity:0
+- Density: 1000
+- Temperature: 300
+- Viscosity: 1000
+- Gaseous: false

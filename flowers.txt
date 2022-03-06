@@ -1,0 +1,35 @@
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 0ms
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
+[INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 0ms
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
+[AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
+<tfc:plants/allium>
+<tfc:plants/athyrium_fern>
+<tfc:plants/black_orchid>
+<tfc:plants/blood_lily>
+<tfc:plants/blue_orchid>
+<tfc:plants/butterfly_milkweed>
+<tfc:plants/calendula>
+<tfc:plants/canna>
+<tfc:plants/dandelion>
+<tfc:plants/sapphire_tower>
+<tfc:plants/sagebrush>
+<tfc:plants/snapdragon_pink>
+<tfc:plants/snapdragon_red>
+<tfc:plants/tulip_pink>
+<tfc:plants/strelitzia>
+<tfc:plants/vriesea>
+<tfc:plants/trillium>
+<tfc:plants/tulip_red>
+<tfc:plants/tulip_white>
+<tfc:plants/tulip_orange>
+<tfc:plants/snapdragon_yellow>
+<tfc:plants/snapdragon_white>
+<tfc:plants/water_canna>
+<tfc:plants/tropical_milkweed>
+<tfc:plants/yucca>
