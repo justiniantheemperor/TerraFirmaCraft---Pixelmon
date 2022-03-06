@@ -1,0 +1,23 @@
+{
+  "id": "Hippowdon",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Hippowdon"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 35,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

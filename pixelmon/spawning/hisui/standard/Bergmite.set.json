@@ -1,0 +1,27 @@
+{
+  "id": "Bergmite",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Bergmite"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "beaches",
+          "redwoods",
+          "oceanic"
+        ],
+        "neededNearbyBlocks": [
+            "tfc:sea_ice"
+        ]
+      },
+      "rarity": 300.0
+    }
+  ]
+}

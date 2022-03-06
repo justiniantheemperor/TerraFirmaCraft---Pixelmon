@@ -1,0 +1,23 @@
+{
+  "id": "Sealeo",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sealeo"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "beaches",
+          "oceanic"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

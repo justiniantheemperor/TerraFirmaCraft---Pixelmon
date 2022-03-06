@@ -1,0 +1,22 @@
+{
+  "id": "Samurott",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Samurott"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "evil"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

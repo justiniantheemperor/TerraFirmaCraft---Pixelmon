@@ -1,0 +1,28 @@
+{
+  "id": "Empoleon",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Empoleon"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "stringBiomes": [
+          "beaches"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

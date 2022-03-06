@@ -1,0 +1,30 @@
+{
+  "id": "Toxicroak",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Toxicroak"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Water"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

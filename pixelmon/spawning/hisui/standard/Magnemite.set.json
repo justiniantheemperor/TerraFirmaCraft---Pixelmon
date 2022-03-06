@@ -1,0 +1,38 @@
+{
+  "id": "Magnemite",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Magnemite"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 4,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "STORM"
+            ]
+          }
+        }
+      ],
+      "rarity": 100.0
+    }
+  ]
+}

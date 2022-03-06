@@ -1,0 +1,26 @@
+{
+  "id": "Togetic",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Togetic"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Air"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "beaches"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

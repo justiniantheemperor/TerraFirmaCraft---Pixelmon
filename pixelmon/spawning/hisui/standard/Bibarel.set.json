@@ -1,0 +1,39 @@
+{
+  "id": "Bibarel",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Bibarel"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "forests"
+        ]
+      },
+      "rarity": 25.0
+    },
+    {
+      "spec": {
+        "name": "Bibarel"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "redwoods"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

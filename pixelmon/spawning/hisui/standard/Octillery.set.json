@@ -1,0 +1,47 @@
+{
+  "id": "Octillery",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Octillery"
+      },
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 25,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ]
+      },
+      "rarity": 50.0
+    },
+    {
+      "spec": {
+        "name": "Octillery"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "beaches",
+          "oceanic"
+        ],
+        "weathers": [
+          "RAIN"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

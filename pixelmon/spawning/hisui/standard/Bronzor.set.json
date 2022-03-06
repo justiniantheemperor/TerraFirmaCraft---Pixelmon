@@ -1,0 +1,29 @@
+{
+  "id": "Bronzor",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Bronzor"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mountainous",
+          "hills"
+        ]
+      },
+      "rarity": 100
+    }
+  ]
+}

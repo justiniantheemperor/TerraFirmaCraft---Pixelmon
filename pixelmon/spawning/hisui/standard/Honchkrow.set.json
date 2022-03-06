@@ -1,0 +1,36 @@
+{
+  "id": "Honchkrow",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Honchkrow"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "forests"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 1.0
+    }
+  ]
+}

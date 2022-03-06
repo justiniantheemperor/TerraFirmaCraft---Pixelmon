@@ -1,0 +1,32 @@
+{
+  "id": "Froslass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Froslass"
+      },
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "weathers": [
+          "STORM"
+        ],
+        "stringBiomes": [
+          "magical"
+        ],
+        "baseBlocks": [
+          "tfc:sea_ice"
+        ]
+        
+      },
+      "rarity": 300
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Glameow",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Glameow"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "hills"
+        ]
+      },
+      "rarity": 190.0
+    }
+  ]
+}

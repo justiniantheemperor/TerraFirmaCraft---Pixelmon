@@ -1,0 +1,43 @@
+{
+  "id": "Geodude Line Caverock",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Geodude",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Cave Rock"
+      ],
+      "minLevel": 2,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "forests",
+          "mountainous forests"
+        ]
+      },
+      "rarity": 200.0
+    },
+    {
+      "spec": {
+        "name": "Graveler",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Cave Rock"
+      ],
+      "minLevel": 18,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "forests",
+          "mountainous forests"
+        ]
+      },
+      "rarity": 50.0
+    }
+  ]
+}

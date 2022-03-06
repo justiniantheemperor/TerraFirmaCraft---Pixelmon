@@ -1,0 +1,27 @@
+{
+  "id": "Avalugg",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Avalugg"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "beaches",
+          "redwoods",
+          "oceanic"
+        ],
+        "neededNearbyBlocks": [
+            "tfc:sea_ice"
+        ]
+      },
+      "rarity": 50.0
+    }
+  ]
+}

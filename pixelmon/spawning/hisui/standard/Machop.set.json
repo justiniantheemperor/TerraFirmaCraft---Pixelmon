@@ -1,0 +1,29 @@
+{
+  "id": "Machop",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Machop"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:focus_band",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mountainous",
+          "hills"
+        ]
+      },
+      "rarity": 200.0
+    }
+  ]
+}

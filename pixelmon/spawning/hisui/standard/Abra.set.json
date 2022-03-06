@@ -1,0 +1,32 @@
+{
+  "id": "Abra",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Abra"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "all forests"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

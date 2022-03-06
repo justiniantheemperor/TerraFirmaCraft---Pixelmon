@@ -1,0 +1,32 @@
+{
+  "id": "Snover",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Snover"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+            "tfc:sea_ice"
+        ],
+        "stringBiomes": [
+          "all forests"
+        ]
+      },
+      "rarity": 200.0
+    }
+  ]
+}

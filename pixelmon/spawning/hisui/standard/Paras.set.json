@@ -1,0 +1,95 @@
+{
+  "id": "Paras",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Paras"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "swamps",
+          "mountainous forests"
+        ]
+      },
+      "rarity": 100.0
+    },
+    {
+      "spec": {
+        "name": "Paras"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "forests",
+          "redwoods"
+        ]
+      },
+      "rarity": 50.0
+    },
+    {
+      "spec": {
+        "name": "Paras"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 20,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "swamps",
+          "redwoods",
+          "all forests"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

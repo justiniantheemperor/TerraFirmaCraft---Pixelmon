@@ -1,0 +1,34 @@
+{
+  "id": "Goodra",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Goodra"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:shed_shell",
+          "percentChance": 25
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

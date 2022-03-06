@@ -1,0 +1,22 @@
+{
+  "id": "Luxray",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Luxray"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "forests"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

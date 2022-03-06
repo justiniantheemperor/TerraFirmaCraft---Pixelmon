@@ -1,0 +1,23 @@
+{
+  "id": "Bidoof",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Bidoof"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "forests",
+          redwoods
+        ]
+      },
+      "rarity": 200.0
+    }
+  ]
+}

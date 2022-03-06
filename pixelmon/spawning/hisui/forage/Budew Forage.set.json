@@ -1,0 +1,22 @@
+{
+  "id": "Budew Forage",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Budew"
+      },
+      "stringLocationTypes": [
+        "Forage"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "birches"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

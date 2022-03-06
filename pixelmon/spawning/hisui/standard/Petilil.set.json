@@ -1,0 +1,36 @@
+{
+  "id": "Petilil",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Petilil"
+      },
+      "stringLocationTypes": [
+        "Tree Top",
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:absorb_bulb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "mountainous forests"
+        ]
+      },
+      "rarity": 200.0
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Machoke",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Machoke"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 28,
+      "maxLevel": 39,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:focus_band",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mountainous",
+          "hills"
+        ]
+      },
+      "rarity": 50.0
+    }
+  ]
+}

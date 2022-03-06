@@ -1,0 +1,30 @@
+{
+  "id": "Croagunk",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Croagunk"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "Chimchar",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Chimchar"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 13,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "hills"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

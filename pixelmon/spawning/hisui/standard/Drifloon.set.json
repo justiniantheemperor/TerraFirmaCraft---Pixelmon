@@ -1,0 +1,25 @@
+{
+  "id": "Drifloon",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Drifloon"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarity": 200.0
+    }
+  ]
+}

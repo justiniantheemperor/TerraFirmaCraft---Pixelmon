@@ -1,0 +1,23 @@
+{
+  "id": "Floatzel",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Floatzel"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "redwoods"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Rhydon",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Rhydon",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:protector",
+          "percentChance": 5
+        }
+      ],
+        "stringBiomes": [
+          "mountainous",
+          "hills",
+          "taigas"
+        ]
+      },
+      "rarity": 10
+    }
+  ]
+}

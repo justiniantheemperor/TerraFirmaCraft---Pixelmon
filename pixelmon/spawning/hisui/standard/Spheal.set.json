@@ -1,0 +1,23 @@
+{
+  "id": "Spheal",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Spheal"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "beaches",
+          "oceanic"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Whiscash",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Whiscash"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "swamps",
+          "redwoods",
+          "mountainous",
+          "hills"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

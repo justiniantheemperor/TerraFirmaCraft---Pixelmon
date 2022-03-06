@@ -1,0 +1,47 @@
+{
+  "id": "Zorua",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Zorua",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarity": 30.0
+    },
+    {
+      "spec": {
+        "name": "Zorua",
+        "form": 107
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

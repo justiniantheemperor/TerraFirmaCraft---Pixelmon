@@ -1,0 +1,23 @@
+{
+  "id": "Tangela",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Tangela"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "swamps",
+          "redwoods"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

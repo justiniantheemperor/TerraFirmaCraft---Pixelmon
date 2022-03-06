@@ -1,0 +1,28 @@
+{
+  "id": "Heracross",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Heracross"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt",
+        "Sweet Scent"
+      ],
+      "minLevel": 10,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "mountainous forests"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

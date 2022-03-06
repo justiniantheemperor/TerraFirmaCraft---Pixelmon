@@ -1,0 +1,31 @@
+{
+  "id": "Dusclops",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Dusclops"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:spell_tag",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "beaches"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

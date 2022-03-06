@@ -1,0 +1,23 @@
+{
+  "id": "Buizel",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Buizel"
+      },
+      "stringLocationTypes": [
+        "beach",
+        "water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "redwoods"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

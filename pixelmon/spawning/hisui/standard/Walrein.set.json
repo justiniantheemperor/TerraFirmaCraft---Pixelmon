@@ -1,0 +1,23 @@
+{
+  "id": "Walrein",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Walrein"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "beaches",
+          "oceanic"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

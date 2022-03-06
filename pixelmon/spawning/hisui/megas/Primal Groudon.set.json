@@ -1,0 +1,21 @@
+{
+  "id": "Primal Groudon",
+  "spawnInfos": [
+    {
+      "spec": {
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "evil"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.3
+    }
+  ]
+}

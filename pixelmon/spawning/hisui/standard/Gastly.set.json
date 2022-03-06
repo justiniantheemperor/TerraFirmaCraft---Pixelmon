@@ -1,0 +1,26 @@
+{
+  "id": "Gastly",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Gastly"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Surface Water"
+      ],
+      "minLevel": 8,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 200.0
+    }
+  ]
+}

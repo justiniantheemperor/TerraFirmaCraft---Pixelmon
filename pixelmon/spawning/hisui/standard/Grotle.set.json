@@ -1,0 +1,28 @@
+{
+  "id": "Grotle",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Grotle"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

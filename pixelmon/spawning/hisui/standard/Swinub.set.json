@@ -1,0 +1,26 @@
+{
+  "id": "Swinub",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Swinub"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "mountainous forests"
+        ],
+        "weathers": [
+          "RAIN",
+          "STORM"
+        ]
+      },
+      "rarity": 200.0
+    }
+  ]
+}

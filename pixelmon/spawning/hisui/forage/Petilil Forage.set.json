@@ -1,0 +1,22 @@
+{
+  "id": "Petilil Forage",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Petilil"
+      },
+      "stringLocationTypes": [
+        "Forage"
+      ],
+      "minLevel": 5,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "taigas"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

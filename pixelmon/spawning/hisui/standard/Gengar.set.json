@@ -1,0 +1,26 @@
+{
+  "id": "Gengar",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Gengar"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Surface Water"
+      ],
+      "minLevel": 45,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Tangrowth",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Tangrowth"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "swamps",
+          "redwoods"
+        ]
+      },
+      "rarity": 10
+    }
+  ]
+}

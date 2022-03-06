@@ -1,0 +1,31 @@
+{
+  "id": "Abomasnow",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Abomasnow"
+      },
+      "stringLocationTypes": [
+        "Land",
+      ],
+      "minLevel": 25,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+            "tfc:sea_ice"
+        ],
+        "stringBiomes": [
+          "all forests"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

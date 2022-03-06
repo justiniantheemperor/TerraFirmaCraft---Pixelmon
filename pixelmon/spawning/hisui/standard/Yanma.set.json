@@ -1,0 +1,34 @@
+{
+  "id": "Yanma",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Yanma"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "redwoods"
+        ]
+      },
+      "rarity": 200.0
+    }
+  ]
+}

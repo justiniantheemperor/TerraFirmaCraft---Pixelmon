@@ -1,0 +1,27 @@
+{
+  "id": "Gliscor",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Gliscor"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "hills",
+          "mountainous"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

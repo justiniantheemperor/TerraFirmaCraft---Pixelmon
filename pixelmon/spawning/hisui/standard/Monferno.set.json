@@ -1,0 +1,28 @@
+{
+  "id": "Monferno",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Monferno"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "hills"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

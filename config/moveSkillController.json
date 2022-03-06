@@ -1,0 +1,547 @@
+{
+  "cutMaximumLogs": 100,
+  "cutTicksBetweenChops": 2,
+  "groundBirdsAffectsOwnedPokemon": false,
+  "mountBoostDurationSeconds": 15,
+  "oreSenseDurationTicks": 300,
+  "oreSenseMaxSearchRadius": 10,
+  "scareRange": 30.0,
+  "smeltInstaSmeltForMedHighStrength": true,
+  "smeltHighStrength": [
+    "Inferno",
+    "Burn Up",
+    "Blue Flare"
+  ],
+  "smeltMedStrength": [
+    "Incinerate"
+  ],
+  "weatherChangerAllowMultiplayerWeather": false,
+  "settings": {
+    "ignite": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 800,
+      "range": 10,
+      "anyMoves": [
+        "Ember",
+        "Fire Blast",
+        "Flamethrower",
+        "Incinerate",
+        "Blast Burn",
+        "Fire Spin",
+        "Flame Burst",
+        "Flame Wheel",
+        "Heat Wave",
+        "Inferno",
+        "Sacred Fire",
+        "Will-O-Wisp"
+      ],
+      "combinationMoves": [],
+      "ableSpecs": [],
+      "intrinsicSpecs": [],
+      "usePP": true,
+      "descriptions": [
+        "pixelmon.moveskill.ignite.description1",
+        "pixelmon.moveskill.ignite.description2"
+      ]
+    },
+    "cut": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 100,
+      "range": 8,
+      "anyMoves": [
+        "Cut",
+        "Razor Leaf",
+        "Leaf Blade",
+        "Slash",
+        "X-Scissor"
+      ],
+      "combinationMoves": [],
+      "ableSpecs": [],
+      "intrinsicSpecs": [],
+      "usePP": true,
+      "descriptions": [
+        "pixelmon.moveskill.cut.description1",
+        "pixelmon.moveskill.cut.description2"
+      ]
+    },
+    "dig": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 100,
+      "range": 3,
+      "anyMoves": [
+        "Dig"
+      ],
+      "combinationMoves": [],
+      "ableSpecs": [],
+      "intrinsicSpecs": [],
+      "usePP": true,
+      "descriptions": [
+        "pixelmon.moveskill.dig.description1",
+        "pixelmon.moveskill.dig.description2"
+      ]
+    },
+    "teleport": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 20,
+      "range": 3,
+      "anyMoves": [
+        "Teleport"
+      ],
+      "combinationMoves": [],
+      "ableSpecs": [],
+      "intrinsicSpecs": [],
+      "usePP": true,
+      "descriptions": [
+        "pixelmon.moveskill.teleport.description"
+      ]
+    },
+    "open_wormhole": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 18000,
+      "range": 3,
+      "anyMoves": [],
+      "combinationMoves": [],
+      "ableSpecs": [
+        "Palkia",
+        "Lunala",
+        "Solgaleo",
+        "Arceus",
+        "Necrozma"
+      ],
+      "intrinsicSpecs": [],
+      "usePP": false,
+      "descriptions": [
+        "pixelmon.moveskill.open_wormhole.description"
+      ]
+    },
+    "scare": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 6000,
+      "range": 3,
+      "anyMoves": [
+        "Mean Look",
+        "Roar",
+        "Scary Face"
+      ],
+      "combinationMoves": [],
+      "ableSpecs": [],
+      "intrinsicSpecs": [
+        "ab:Intimidate",
+        "Stunky",
+        "Skuntank"
+      ],
+      "usePP": true,
+      "descriptions": [
+        "pixelmon.moveskill.scare.description1",
+        "pixelmon.moveskill.scare.description2"
+      ]
+    },
+    "forage": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 20,
+      "range": 3,
+      "anyMoves": [],
+      "combinationMoves": [],
+      "ableSpecs": [],
+      "intrinsicSpecs": [],
+      "usePP": false,
+      "descriptions": [
+        "pixelmon.moveskill.forage.description1",
+        "pixelmon.moveskill.forage.description2"
+      ]
+    },
+    "heal_other": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 300,
+      "range": 7,
+      "anyMoves": [
+        "Soft-Boiled",
+        "Milk Drink",
+        "Heal Order"
+      ],
+      "combinationMoves": [],
+      "ableSpecs": [],
+      "intrinsicSpecs": [],
+      "usePP": true,
+      "descriptions": [
+        "pixelmon.moveskill.heal_other.description"
+      ]
+    },
+    "primal_reversion": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 20,
+      "range": 3,
+      "anyMoves": [],
+      "combinationMoves": [],
+      "ableSpecs": [
+        "canprimalrevert"
+      ],
+      "intrinsicSpecs": [],
+      "usePP": false,
+      "descriptions": [
+        "pixelmon.moveskill.primal_reversion.description"
+      ]
+    },
+    "rock_smash": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 400,
+      "range": 3,
+      "anyMoves": [
+        "Rock Smash"
+      ],
+      "combinationMoves": [],
+      "ableSpecs": [],
+      "intrinsicSpecs": [],
+      "usePP": true,
+      "descriptions": [
+        "pixelmon.moveskill.rock_smash.description1",
+        "pixelmon.moveskill.rock_smash.description2"
+      ]
+    },
+    "smelt": {
+      "enabled": false,
+      "nodeToUse": "",
+      "cooldownTicks": 2400,
+      "range": 8,
+      "anyMoves": [
+        "Incinerate",
+        "Inferno",
+        "Ember",
+        "Burn Up",
+        "Blue Flare"
+      ],
+      "combinationMoves": [],
+      "ableSpecs": [],
+      "intrinsicSpecs": [],
+      "usePP": true,
+      "descriptions": [
+        "pixelmon.moveskill.smelt.description1",
+        "pixelmon.moveskill.smelt.description2"
+      ]
+    },
+    "explode": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 1600,
+      "range": 3,
+      "anyMoves": [
+        "Self-Destruct",
+        "Explosion"
+      ],
+      "combinationMoves": [],
+      "ableSpecs": [],
+      "intrinsicSpecs": [],
+      "usePP": true,
+      "descriptions": [
+        "pixelmon.moveskill.explode.description"
+      ]
+    },
+    "mega_evolve": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 20,
+      "range": 3,
+      "anyMoves": [],
+      "combinationMoves": [],
+      "ableSpecs": [
+        "canmegaevo"
+      ],
+      "intrinsicSpecs": [],
+      "usePP": false,
+      "descriptions": [
+        "pixelmon.moveskill.mega_evolve.description"
+      ]
+    },
+    "analyse_pokemon": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 2400,
+      "range": 10,
+      "anyMoves": [
+        "Foresight",
+        "Mind Reader"
+      ],
+      "combinationMoves": [],
+      "ableSpecs": [],
+      "intrinsicSpecs": [
+        "Ralts",
+        "Kirlia",
+        "Gardevoir"
+      ],
+      "usePP": true,
+      "descriptions": [
+        "pixelmon.moveskill.analyse_pokemon.description"
+      ]
+    },
+    "sweet_scent": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 500,
+      "range": 3,
+      "anyMoves": [
+        "Sweet Scent"
+      ],
+      "combinationMoves": [],
+      "ableSpecs": [],
+      "intrinsicSpecs": [
+        "Combee",
+        "Vespiquen"
+      ],
+      "usePP": true,
+      "descriptions": [
+        "pixelmon.moveskill.sweet_scent.description"
+      ]
+    },
+    "sunny_day": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 6000,
+      "range": 3,
+      "anyMoves": [
+        "Sunny Day"
+      ],
+      "combinationMoves": [],
+      "ableSpecs": [],
+      "intrinsicSpecs": [
+        "Groudon",
+        "Ninetales"
+      ],
+      "usePP": true,
+      "descriptions": [
+        "pixelmon.moveskill.sunny_day.description1",
+        "pixelmon.moveskill.sunny_day.description2"
+      ]
+    },
+    "change_form": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 20,
+      "range": 3,
+      "anyMoves": [],
+      "combinationMoves": [],
+      "ableSpecs": [
+        "Aegislash f:2",
+        "Eiscue f:0",
+        "Greninja f:1",
+        "Morpeko f:0",
+        "Wishiwashi f:0",
+        "Mimikyu f:0",
+        "Xerneas f:0",
+        "Aegislash f:0",
+        "Zygarde f:1 ability:PowerConstruct",
+        "Zygarde f:0 ability:PowerConstruct",
+        "Xerneas f:2",
+        "Greninja f:3",
+        "Meloetta f:0",
+        "Greninja f:6",
+        "Darmanitan f:0",
+        "Darmanitan f:2"
+      ],
+      "intrinsicSpecs": [],
+      "usePP": false,
+      "descriptions": [
+        "pixelmon.moveskill.change_form.description"
+      ]
+    },
+    "fly": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 20,
+      "range": 3,
+      "anyMoves": [
+        "Fly"
+      ],
+      "combinationMoves": [],
+      "ableSpecs": [],
+      "intrinsicSpecs": [],
+      "usePP": true,
+      "descriptions": [
+        "pixelmon.moveskill.fly.description"
+      ]
+    },
+    "ultra_burst": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 20,
+      "range": 3,
+      "anyMoves": [],
+      "combinationMoves": [],
+      "ableSpecs": [
+        "canultraburst"
+      ],
+      "intrinsicSpecs": [],
+      "usePP": false,
+      "descriptions": [
+        "pixelmon.moveskill.ultra_burst.description"
+      ]
+    },
+    "crowned": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 20,
+      "range": 3,
+      "anyMoves": [],
+      "combinationMoves": [],
+      "ableSpecs": [
+        "cancrowned"
+      ],
+      "intrinsicSpecs": [],
+      "usePP": false,
+      "descriptions": [
+        "pixelmon.moveskill.crowned.description"
+      ]
+    },
+    "mount_boost": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 1200,
+      "range": 3,
+      "anyMoves": [
+        "Extreme Speed",
+        "Agility",
+        "Quick Attack"
+      ],
+      "combinationMoves": [],
+      "ableSpecs": [],
+      "intrinsicSpecs": [
+        "Garchomp",
+        "Dragonite",
+        "Latios",
+        "Rapidash",
+        "Arcanine"
+      ],
+      "usePP": true,
+      "descriptions": [
+        "pixelmon.moveskill.mount_boost.description"
+      ]
+    },
+    "headbutt": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 100,
+      "range": 3,
+      "anyMoves": [
+        "Headbutt"
+      ],
+      "combinationMoves": [],
+      "ableSpecs": [],
+      "intrinsicSpecs": [],
+      "usePP": true,
+      "descriptions": [
+        "pixelmon.moveskill.headbutt.description"
+      ]
+    },
+    "ore_sense": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 2400,
+      "range": 3,
+      "anyMoves": [
+        "Metal Sound"
+      ],
+      "combinationMoves": [],
+      "ableSpecs": [],
+      "intrinsicSpecs": [
+        "ab:MagnetPull",
+        "Nosepass",
+        "Probopass",
+        "Bronzor",
+        "Bronzong"
+      ],
+      "usePP": true,
+      "descriptions": [
+        "pixelmon.moveskill.ore_sense.description1",
+        "pixelmon.moveskill.ore_sense.description2"
+      ]
+    },
+    "ground": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 900,
+      "range": 3,
+      "anyMoves": [
+        "Gravity",
+        "Smack Down"
+      ],
+      "combinationMoves": [],
+      "ableSpecs": [],
+      "intrinsicSpecs": [],
+      "usePP": true,
+      "descriptions": [
+        "pixelmon.moveskill.ground.description1",
+        "pixelmon.moveskill.ground.description2"
+      ]
+    },
+    "lightning_bolt": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 500,
+      "range": 7,
+      "anyMoves": [
+        "Thunderbolt",
+        "Bolt Strike",
+        "Thunder",
+        "Spark",
+        "Discharge",
+        "Fusion Bolt",
+        "Thunder Shock"
+      ],
+      "combinationMoves": [],
+      "ableSpecs": [],
+      "intrinsicSpecs": [],
+      "usePP": true,
+      "descriptions": [
+        "pixelmon.moveskill.lightning_bolt.description"
+      ]
+    },
+    "rain_dance": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 6000,
+      "range": 3,
+      "anyMoves": [
+        "Rain Dance"
+      ],
+      "combinationMoves": [],
+      "ableSpecs": [],
+      "intrinsicSpecs": [
+        "Kyogre",
+        "Goodra"
+      ],
+      "usePP": true,
+      "descriptions": [
+        "pixelmon.moveskill.rain_dance.description1",
+        "pixelmon.moveskill.rain_dance.description2"
+      ]
+    },
+    "flash": {
+      "enabled": true,
+      "nodeToUse": "",
+      "cooldownTicks": 600,
+      "range": 3,
+      "anyMoves": [
+        "Flash"
+      ],
+      "combinationMoves": [],
+      "ableSpecs": [],
+      "intrinsicSpecs": [
+        "Lumineon"
+      ],
+      "usePP": true,
+      "descriptions": [
+        "pixelmon.moveskill.flash.description1",
+        "pixelmon.moveskill.flash.description2"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 0ms
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
+[INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 0ms
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
+[AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
+
+<tfc:berry_bush/wintergreen_berry>
+<tfc:berry_bush/strawberry>
+<tfc:berry_bush/blackberry>
+<tfc:berry_bush/blueberry>
+<tfc:berry_bush/bunch_berry>
+<tfc:berry_bush/cloud_berry>
+<tfc:berry_bush/cranberry>
+<tfc:berry_bush/elderberry>
+<tfc:berry_bush/gooseberry>
+<tfc:berry_bush/raspberry>
+<tfc:berry_bush/snow_berry>

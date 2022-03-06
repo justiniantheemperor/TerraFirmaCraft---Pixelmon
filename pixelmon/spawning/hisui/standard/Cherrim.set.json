@@ -1,0 +1,68 @@
+{
+  "id": "Cherrim",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Cherrim",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Tree Top",
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:miracle_seed",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "RAIN",
+          "STORM"
+        ],
+        "stringBiomes": [
+          "forests"
+        ]
+      },
+      "rarity": 25.0
+    },
+    {
+      "spec": {
+        "name": "Cherrim",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Tree Top",
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:miracle_seed",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "forests"
+        ]
+      },
+      "rarity": 25.0
+    }
+  ]
+}

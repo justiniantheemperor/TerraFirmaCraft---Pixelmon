@@ -1,0 +1,32 @@
+{
+  "id": "Misdreavus",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Misdreavus"
+      },
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dusk_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "redwoods"
+        ]
+      },
+      "rarity": 200.0
+    }
+  ]
+}

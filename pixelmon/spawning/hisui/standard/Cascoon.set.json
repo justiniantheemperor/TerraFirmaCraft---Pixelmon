@@ -1,0 +1,29 @@
+{
+  "id": "Cascoon",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Cascoon"
+      },
+      "stringLocationTypes": [
+        "treeTops",
+        "Headbutt",
+        "Sweet Scent"
+      ],
+      "minLevel": 6,
+      "maxLevel": 11,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "forests",
+          "redwoods"
+        ]
+      },
+      "rarity": 50.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "Mismagius",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Mismagius"
+      },
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "minLevel": 35,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dusk_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "redwoods"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

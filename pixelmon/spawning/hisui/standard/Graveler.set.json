@@ -1,0 +1,26 @@
+{
+  "id": "Graveler",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Graveler",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 20,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+      },
+      "rarity": 200.0
+    }
+  ]
+}

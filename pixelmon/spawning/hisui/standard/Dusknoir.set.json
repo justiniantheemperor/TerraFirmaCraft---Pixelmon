@@ -1,0 +1,31 @@
+{
+  "id": "Dusknoir",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Dusknoir"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:spell_tag",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "beaches"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

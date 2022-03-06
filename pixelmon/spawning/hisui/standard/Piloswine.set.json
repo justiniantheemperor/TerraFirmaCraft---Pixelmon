@@ -1,0 +1,26 @@
+{
+  "id": "Piloswine",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Piloswine"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 33,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "mountainous forests"
+        ],
+        "weathers": [
+          "RAIN",
+          "STORM"
+        ]
+      },
+      "rarity": 50.0
+    }
+  ]
+}

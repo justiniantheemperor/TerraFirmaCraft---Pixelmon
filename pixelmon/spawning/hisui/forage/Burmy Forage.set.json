@@ -1,0 +1,78 @@
+{
+  "id": "Burmy Forage",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Burmy",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Forage"
+      ],
+      "minLevel": 2,
+      "maxLevel": 7,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:red_apricorn",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "forests"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": {
+        "name": "Burmy",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Forage"
+      ],
+      "minLevel": 2,
+      "maxLevel": 7,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:red_apricorn",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mountainous forests"
+        ]
+      },
+      "rarity": 1.0
+    },
+        {
+      "spec": {
+        "name": "Burmy",
+        "form": 2
+      },
+      "stringLocationTypes": [
+        "Forage"
+      ],
+      "minLevel": 2,
+      "maxLevel": 7,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:red_apricorn",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "beaches",
+          "redwoods"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

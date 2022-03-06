@@ -1,0 +1,23 @@
+{
+  "id": "Kakuna",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Kakuna",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "evil"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

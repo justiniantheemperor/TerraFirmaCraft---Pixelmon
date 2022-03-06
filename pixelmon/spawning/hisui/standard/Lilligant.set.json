@@ -1,0 +1,36 @@
+{
+  "id": "Lilligant",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Lilligant"
+      },
+      "stringLocationTypes": [
+        "Tree Top",
+        "Sweet Scent"
+      ],
+      "minLevel": 25,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:absorb_bulb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "mountainous forests"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

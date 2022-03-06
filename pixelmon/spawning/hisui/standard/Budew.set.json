@@ -1,0 +1,33 @@
+{
+  "id": "Budew",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Budew"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:poison_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "plains",
+          "redwoods"
+        ]
+      },
+      "rarity": 200.0
+    }
+  ]
+}

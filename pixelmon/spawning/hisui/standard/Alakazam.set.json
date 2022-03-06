@@ -1,0 +1,32 @@
+{
+  "id": "Alakazam",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Alakazam"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "all forests"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

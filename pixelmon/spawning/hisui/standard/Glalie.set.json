@@ -1,0 +1,64 @@
+{
+  "id": "Glalie",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Glalie"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:snowball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ],
+        "weathers": [
+          "RAIN",
+          "STORM"
+        ]
+      },
+      "rarity": 10.0
+    },
+    {
+      "spec": {
+        "name": "Glalie"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:snowball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "all forests"
+        ],
+        "neededNearbyBlocks": [
+            "tfc:sea_ice"
+        ]
+      },
+      "rarity": 50.0
+    }
+  ]
+}

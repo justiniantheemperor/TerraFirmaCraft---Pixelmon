@@ -1,0 +1,559 @@
+{
+  "globalCompositeCondition": {
+    "conditions": [
+      {
+        "dimensions": [
+          0,
+          1,
+          -1,
+          72,
+          73
+        ]
+      },
+      {
+        "tag": "ultrabeast",
+        "requiredSpace": 2
+      },
+      {
+        "tag": "legendary",
+        "requiredSpace": 2
+      }
+    ],
+    "anticonditions": []
+  },
+  "autoTagSpecs": {
+    "shiny": "shiny",
+    "gen1": "generation:1",
+    "gen2": "generation:2",
+    "gen3": "generation:3",
+    "gen4": "generation:4",
+    "gen5": "generation:5",
+    "gen6": "generation:6",
+    "gen7": "generation:7",
+    "gen8": "generation:8",
+    "legendary": "islegendary:true",
+    "nonlegendary": "islegendary:false"
+  },
+  "intervalSeconds": {
+    "wormhole_ultra_space": 400,
+    "wormhole_overworld": 1200
+  },
+  "blockCategories": {
+    "lava": [
+      "minecraft:lava",
+      "tfc:fluid/lava"
+    ],
+    "seesSkyException": [
+      "minecraft:leaves",
+      "minecraft:leaves2",
+      "minecraft:glass",
+      "minecraft:bedrock",
+      "minecraft:barrier",
+      "pixelmon:hidden_cube",
+      "minecraft:netherrack"
+    ],
+      
+    "land": [
+      "minecraft:grass",
+      "minecraft:dirt",
+      "minecraft:stone",
+      "minecraft:waterlily",
+      "minecraft:sand",
+      "minecraft:gravel",
+      "minecraft:mycelium",
+      "minecraft:snow",
+      "minecraft:netherrack",
+      "minecraft:soul_sand",
+      "minecraft:end_stone",
+      "minecraft:ice",
+      "minecraft:frosted_ice",
+      "minecraft:packed_ice",
+      "minecraft:obsidian",
+
+      "tfc:grass/phyllite",
+      "tfc:grass/granite",
+      "tfc:grass/diorite",
+      "tfc:grass/gabbro",
+      "tfc:grass/shale",
+      "tfc:grass/claystone",
+      "tfc:grass/rocksalt",
+      "tfc:grass/limestone",
+      "tfc:grass/conglomerate",
+      "tfc:grass/dolomite",
+      "tfc:grass/chert",
+      "tfc:grass/rhyolite",
+      "tfc:grass/basalt",
+      "tfc:grass/andesite",
+      "tfc:grass/quartzite",
+      "tfc:grass/slate",
+      "tfc:grass/schist",
+      "tfc:grass/marble",
+      "tfc:grass/chalk",
+      "tfc:grass/dacite",
+      "tfc:grass/phyllite",
+      "tfc:grass/gneiss",
+
+      "tfc:dry_grass/phyllite",
+      "tfc:dry_grass/granite",
+      "tfc:dry_grass/diorite",
+      "tfc:dry_grass/gabbro",
+      "tfc:dry_grass/shale",
+      "tfc:dry_grass/claystone",
+      "tfc:dry_grass/rocksalt",
+      "tfc:dry_grass/limestone",
+      "tfc:dry_grass/conglomerate",
+      "tfc:dry_grass/dolomite",
+      "tfc:dry_grass/chert",
+      "tfc:dry_grass/rhyolite",
+      "tfc:dry_grass/basalt",
+      "tfc:dry_grass/andesite",
+      "tfc:dry_grass/quartzite",
+      "tfc:dry_grass/slate",
+      "tfc:dry_grass/schist",
+      "tfc:dry_grass/marble",
+      "tfc:dry_grass/chalk",
+      "tfc:dry_grass/dacite",
+      "tfc:dry_grass/phyllite",
+      "tfc:dry_grass/gneiss",
+
+      "tfc:dirt/phyllite",
+      "tfc:dirt/granite",
+      "tfc:dirt/diorite",
+      "tfc:dirt/gabbro",
+      "tfc:dirt/shale",
+      "tfc:dirt/claystone",
+      "tfc:dirt/rocksalt",
+      "tfc:dirt/limestone",
+      "tfc:dirt/conglomerate",
+      "tfc:dirt/dolomite",
+      "tfc:dirt/chert",
+      "tfc:dirt/rhyolite",
+      "tfc:dirt/basalt",
+      "tfc:dirt/andesite",
+      "tfc:dirt/quartzite",
+      "tfc:dirt/slate",
+      "tfc:dirt/schist",
+      "tfc:dirt/marble",
+      "tfc:dirt/chalk",
+      "tfc:dirt/dacite",
+      "tfc:dirt/phyllite",
+      "tfc:dirt/gneiss",
+
+      "tfc:raw/phyllite",
+      "tfc:raw/granite",
+      "tfc:raw/diorite",
+      "tfc:raw/gabbro",
+      "tfc:raw/shale",
+      "tfc:raw/claystone",
+      "tfc:raw/rocksalt",
+      "tfc:raw/limestone",
+      "tfc:raw/conglomerate",
+      "tfc:raw/dolomite",
+      "tfc:raw/chert",
+      "tfc:raw/rhyolite",
+      "tfc:raw/basalt",
+      "tfc:raw/andesite",
+      "tfc:raw/quartzite",
+      "tfc:raw/slate",
+      "tfc:raw/schist",
+      "tfc:raw/marble",
+      "tfc:raw/chalk",
+      "tfc:raw/dacite",
+      "tfc:raw/phyllite",
+      "tfc:raw/gneiss",
+
+      "tfc:gravel/phyllite",
+      "tfc:gravel/granite",
+      "tfc:gravel/diorite",
+      "tfc:gravel/gabbro",
+      "tfc:gravel/shale",
+      "tfc:gravel/claystone",
+      "tfc:gravel/rocksalt",
+      "tfc:gravel/limestone",
+      "tfc:gravel/conglomerate",
+      "tfc:gravel/dolomite",
+      "tfc:gravel/chert",
+      "tfc:gravel/rhyolite",
+      "tfc:gravel/basalt",
+      "tfc:gravel/andesite",
+      "tfc:gravel/quartzite",
+      "tfc:gravel/slate",
+      "tfc:gravel/schist",
+      "tfc:gravel/marble",
+      "tfc:gravel/chalk",
+      "tfc:gravel/dacite",
+      "tfc:gravel/phyllite",
+      "tfc:gravel/gneiss",
+
+      "tfc:sand/phyllite",
+      "tfc:sand/granite",
+      "tfc:sand/diorite",
+      "tfc:sand/gabbro",
+      "tfc:sand/shale",
+      "tfc:sand/claystone",
+      "tfc:sand/rocksalt",
+      "tfc:sand/limestone",
+      "tfc:sand/conglomerate",
+      "tfc:sand/dolomite",
+      "tfc:sand/chert",
+      "tfc:sand/rhyolite",
+      "tfc:sand/basalt",
+      "tfc:sand/andesite",
+      "tfc:sand/quartzite",
+      "tfc:sand/slate",
+      "tfc:sand/schist",
+      "tfc:sand/marble",
+      "tfc:sand/chalk",
+      "tfc:sand/dacite",
+      "tfc:sand/phyllite",
+      "tfc:sand/gneiss"
+    ],
+    "air": [
+      "minecraft:air",
+      "minecraft:tallgrass",
+      "minecraft:snow_layer",
+      "minecraft:red_flower",
+      "minecraft:yellow_flower",
+      "pixelmon:pixelmon_grass",
+      "pixelmon:poke_grass"
+
+    ],
+    "high grass": [
+      "tfc:plants/allium",
+      "tfc:plants/athyrium_fern",
+      "tfc:plants/black_orchid",
+      "tfc:plants/blood_lily",
+      "tfc:plants/blue_orchid",
+      "tfc:plants/butterfly_milkweed",
+      "tfc:plants/calendula",
+      "tfc:plants/canna",
+      "tfc:plants/dandelion",
+      "tfc:plants/sapphire_tower",
+      "tfc:plants/sagebrush",
+      "tfc:plants/snapdragon_pink",
+      "tfc:plants/snapdragon_red",
+      "tfc:plants/tulip_pink",
+      "tfc:plants/strelitzia",
+      "tfc:plants/vriesea",
+      "tfc:plants/trillium",
+      "tfc:plants/tulip_red",
+      "tfc:plants/tulip_white",
+      "tfc:plants/tulip_orange",
+      "tfc:plants/snapdragon_yellow",
+      "tfc:plants/snapdragon_white",
+      "tfc:plants/water_canna",
+      "tfc:plants/tropical_milkweed",
+      "tfc:plants/yucca",
+
+      "tfc:berry_bush/wintergreen_berry",
+      "tfc:berry_bush/strawberry",
+      "tfc:berry_bush/blackberry",
+      "tfc:berry_bush/blueberry",
+      "tfc:berry_bush/bunch_berry",
+      "tfc:berry_bush/cloud_berry",
+      "tfc:berry_bush/cranberry",
+      "tfc:berry_bush/elderberry",
+      "tfc:berry_bush/gooseberry",
+      "tfc:berry_bush/raspberry",
+      "tfc:berry_bush/snow_berry",
+
+      "tfc:fruit_trees/leaves/cherry",
+      "tfc:fruit_trees/leaves/olive",
+      "tfc:fruit_trees/leaves/orange",
+      "tfc:fruit_trees/leaves/banana",
+      "tfc:fruit_trees/leaves/peach",
+      "tfc:fruit_trees/leaves/plum",
+      "tfc:fruit_trees/leaves/red_apple",
+      "tfc:fruit_trees/leaves/green_apple",
+      "tfc:fruit_trees/leaves/lemon"
+    ],
+    
+    "beach": [
+      "minecraft:sand",
+      "minecraft:clay",
+
+      "tfc:sand/phyllite",
+      "tfc:sand/granite",
+      "tfc:sand/diorite",
+      "tfc:sand/gabbro",
+      "tfc:sand/shale",
+      "tfc:sand/claystone",
+      "tfc:sand/rocksalt",
+      "tfc:sand/limestone",
+      "tfc:sand/conglomerate",
+      "tfc:sand/dolomite",
+      "tfc:sand/chert",
+      "tfc:sand/rhyolite",
+      "tfc:sand/basalt",
+      "tfc:sand/andesite",
+      "tfc:sand/quartzite",
+      "tfc:sand/slate",
+      "tfc:sand/schist",
+      "tfc:sand/marble",
+      "tfc:sand/chalk",
+      "tfc:sand/dacite",
+      "tfc:sand/phyllite",
+      "tfc:sand/gneiss",
+
+      "tfc:gravel/phyllite",
+      "tfc:gravel/granite",
+      "tfc:gravel/diorite",
+      "tfc:gravel/gabbro",
+      "tfc:gravel/shale",
+      "tfc:gravel/claystone",
+      "tfc:gravel/rocksalt",
+      "tfc:gravel/limestone",
+      "tfc:gravel/conglomerate",
+      "tfc:gravel/dolomite",
+      "tfc:gravel/chert",
+      "tfc:gravel/rhyolite",
+      "tfc:gravel/basalt",
+      "tfc:gravel/andesite",
+      "tfc:gravel/quartzite",
+      "tfc:gravel/slate",
+      "tfc:gravel/schist",
+      "tfc:gravel/marble",
+      "tfc:gravel/chalk",
+      "tfc:gravel/dacite",
+      "tfc:gravel/phyllite",
+      "tfc:gravel/gneiss"
+    ],
+
+    "water": [
+      "minecraft:water",
+      "tfc:fluid/salt_water",
+      "tfc:fluid/fresh_water",
+      "tfc:fluid/water",
+      "tfc:sea_ice",
+      "minecraft:ice"
+    ],
+    "treeTop": [
+      "tfc:wood/leaves/acacia",
+      "tfc:wood/leaves/ash",
+      "tfc:wood/leaves/aspen",
+      "tfc:wood/leaves/birch",
+      "tfc:wood/leaves/blackwood",
+      "tfc:wood/leaves/chestnut",
+      "tfc:wood/leaves/douglas_fir",
+      "tfc:wood/leaves/hickory",
+      "tfc:wood/leaves/kapok",
+      "tfc:wood/leaves/maple",
+      "tfc:wood/leaves/oak",
+      "tfc:wood/leaves/palm",
+      "tfc:wood/leaves/pine",
+      "tfc:wood/leaves/rosewood",
+      "tfc:wood/leaves/sequoia",
+      "tfc:wood/leaves/spruce",
+      "tfc:wood/leaves/sycamore",
+      "tfc:wood/leaves/white_cedar",
+      "tfc:wood/leaves/willow",
+
+      "tfc:fruit_trees/leaves/cherry",
+      "tfc:fruit_trees/leaves/olive",
+      "tfc:fruit_trees/leaves/orange",
+      "tfc:fruit_trees/leaves/banana",
+      "tfc:fruit_trees/leaves/peach",
+      "tfc:fruit_trees/leaves/plum",
+      "tfc:fruit_trees/leaves/red_apple",
+      "tfc:fruit_trees/leaves/green_apple",
+      "tfc:fruit_trees/leaves/lemon"
+    ],
+    "stone": [
+      "tfc:raw/phyllite",
+      "tfc:raw/granite",
+      "tfc:raw/diorite",
+      "tfc:raw/gabbro",
+      "tfc:raw/shale",
+      "tfc:raw/claystone",
+      "tfc:raw/rocksalt",
+      "tfc:raw/limestone",
+      "tfc:raw/conglomerate",
+      "tfc:raw/dolomite",
+      "tfc:raw/chert",
+      "tfc:raw/rhyolite",
+      "tfc:raw/basalt",
+      "tfc:raw/andesite",
+      "tfc:raw/quartzite",
+      "tfc:raw/slate",
+      "tfc:raw/schist",
+      "tfc:raw/marble",
+      "tfc:raw/chalk",
+      "tfc:raw/dacite",
+      "tfc:raw/phyllite",
+      "tfc:raw/gneiss"
+    ],
+
+    "structure": [
+      "tfc:raw/phyllite",
+      "tfc:raw/granite",
+      "tfc:raw/diorite",
+      "tfc:raw/gabbro",
+      "tfc:raw/shale",
+      "tfc:raw/claystone",
+      "tfc:raw/rocksalt",
+      "tfc:raw/limestone",
+      "tfc:raw/conglomerate",
+      "tfc:raw/dolomite",
+      "tfc:raw/chert",
+      "tfc:raw/rhyolite",
+      "tfc:raw/basalt",
+      "tfc:raw/andesite",
+      "tfc:raw/quartzite",
+      "tfc:raw/slate",
+      "tfc:raw/schist",
+      "tfc:raw/marble",
+      "tfc:raw/chalk",
+      "tfc:raw/dacite",
+      "tfc:raw/phyllite",
+      "tfc:raw/gneiss",
+
+      "tfc:gravel/phyllite",
+      "tfc:gravel/granite",
+      "tfc:gravel/diorite",
+      "tfc:gravel/gabbro",
+      "tfc:gravel/shale",
+      "tfc:gravel/claystone",
+      "tfc:gravel/rocksalt",
+      "tfc:gravel/limestone",
+      "tfc:gravel/conglomerate",
+      "tfc:gravel/dolomite",
+      "tfc:gravel/chert",
+      "tfc:gravel/rhyolite",
+      "tfc:gravel/basalt",
+      "tfc:gravel/andesite",
+      "tfc:gravel/quartzite",
+      "tfc:gravel/slate",
+      "tfc:gravel/schist",
+      "tfc:gravel/marble",
+      "tfc:gravel/chalk",
+      "tfc:gravel/dacite",
+      "tfc:gravel/phyllite",
+      "tfc:gravel/gneiss"
+    ]
+  },
+  "biomeCategories": {
+    "all forests": [
+      "tfc:river",
+      "tfc:plains",
+      "tfc:high_hills_edge",
+      "tfc:rolling_hills",
+      "tfc:mountains_edge",
+      "tfc:high_plains",
+      "tfc:lake"
+    ],
+
+    "forests": [
+      "tfc:plains",
+      "tfc:rolling_hills",
+      "tfc:high_plains"
+    ],
+
+    "oceanic": [
+      "tfc:ocean",
+      "tfc:deep_ocean"
+    ],
+
+    "beaches": [
+      "tfc:beach",
+      "tfc:gravel_beach"
+    ],
+
+    "plains": [
+      "tfc:plains"
+    ],
+
+    "taigas": [
+      "tfc:high_plains"
+    ],
+
+    "birches": [
+      "tfc:rolling_hills"
+    ],
+
+    "swamps": [
+      "tfc:swampland"
+    ],
+    "savannas": [
+      "tfc:swampland"
+    ],
+
+    "redwoods": [
+      "tfc:lake",
+      "tfc:river"
+    ],
+
+    "hills": [
+      "tfc:high_hills",
+      "tfc:high_hills_edge" 
+    ],
+
+    "mountainous": [
+      "tfc:mountains",
+      "tfc:mountains_edge"
+    ],
+
+    "mountainous forests": [
+      "tfc:high_hills_edge",
+      "tfc:mountains_edge"
+    ],
+
+    "magical": [
+      "tfc:lake"
+    ],
+
+    "evil": [
+      "minecraft:plains"
+    ],
+
+
+    "nether": [
+      "minecraft:hell"
+    ],
+    "end": [
+      "minecraft:sky"
+    ],
+
+    "mushroom": [
+      "minecraft:taiga"
+    ],
+    "arid": [
+      "minecraft:taiga"
+    ],
+
+    "mesas": [
+      "minecraft:taiga"
+    ],
+    "flowery": [
+      "minecraft:taiga"
+    ],
+    "freezing mountains": [
+      "minecraft:taiga"
+    ],
+    "jungles": [
+      "minecraft:taiga"
+    ],
+
+    "freezing": [
+      "minecraft:taiga"
+    ],
+
+    "ultra space": [
+      "ultra_forest",
+      "ultra_deep_sea",
+      "ultra_jungle",
+      "ultra_plant",
+      "ultra_crater",
+      "ultra_ruin",
+      "ultra_cliff",
+      "ultra_water",
+      "ultra_rocky",
+      "ultra_cave",
+      "ultra_megalopolis",
+	    "ultra_desert"        
+    ],
+
+    "freezing forests": [
+      "minecraft:taiga"
+    ]
+  }
+}

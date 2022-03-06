@@ -1,0 +1,29 @@
+{
+  "id": "Bronzong",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Bronzong"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mountainous",
+          "hills"
+        ]
+      },
+      "rarity": 10
+    }
+  ]
+}

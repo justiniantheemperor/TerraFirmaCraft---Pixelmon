@@ -1,0 +1,36 @@
+{
+  "id": "Magmar",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Magmar"
+      },
+      "stringLocationTypes": [
+        "Surface Lava",
+        "Lava"
+      ],
+      "minLevel": 2,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:magmarizer",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "forests",
+          "mountainous forests"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "neededNearbyBlocks": [
+            "tfc:lava"
+        ]
+      },
+      "rarity": 200.0
+    }
+  ]
+}
